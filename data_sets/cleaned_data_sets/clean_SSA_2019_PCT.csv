@@ -1,0 +1,3463 @@
+,Pct,Intervention Type,Restraints,Gender,Age,Race
+0,1.0,Arrested,Metal,M,17.0,White Hispanic
+1,1.0,Child in Crisis,No Restraints,F,17.0,Asian/Pacific Isl.
+2,1.0,Child in Crisis,No Restraints,F,16.0,Asian/Pacific Isl.
+3,1.0,Child in Crisis,No Restraints,M,17.0,Arabic
+4,1.0,Child in Crisis,Metal,M,17.0,Asian/Pacific Isl.
+5,1.0,Child in Crisis,No Restraints,M,21.0,Black Hispanic
+6,1.0,Juvenile Report,No Restraints,F,17.0,Black
+7,1.0,Juvenile Report,No Restraints,M,17.0,East Indian
+8,1.0,Mitigated,No Restraints,F,15.0,Black Hispanic
+9,1.0,Mitigated,No Restraints,F,14.0,Black Hispanic
+10,1.0,Mitigated,No Restraints,F,14.0,Black
+11,1.0,Mitigated,No Restraints,F,15.0,Black
+12,1.0,Mitigated,No Restraints,F,14.0,Black Hispanic
+13,1.0,Mitigated,No Restraints,F,15.0,Black
+14,1.0,Mitigated,No Restraints,F,15.0,Black
+15,1.0,Mitigated,No Restraints,M,12.0,Asian/Pacific Isl.
+16,1.0,Mitigated,No Restraints,F,15.0,Black
+17,1.0,Mitigated,No Restraints,M,17.0,White Hispanic
+18,1.0,Mitigated,No Restraints,M,15.0,Black
+19,1.0,Mitigated,No Restraints,M,16.0,Black
+20,1.0,Mitigated,No Restraints,F,15.0,White Hispanic
+21,1.0,Mitigated,No Restraints,F,14.0,Unknown
+22,5.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+23,5.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+24,5.0,Juvenile Report,No Restraints,M,13.0,Black
+25,5.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+26,5.0,Juvenile Report,No Restraints,M,15.0,Black
+27,5.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+28,5.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+29,5.0,Juvenile Report,No Restraints,M,15.0,Black
+30,5.0,Mitigated,No Restraints,M,13.0,Black
+31,5.0,Mitigated,Metal,F,17.0,Black
+32,5.0,Mitigated,No Restraints,F,6.0,Black
+33,5.0,Mitigated,No Restraints,M,15.0,White Hispanic
+34,5.0,Mitigated,No Restraints,F,14.0,White Hispanic
+35,5.0,Mitigated,No Restraints,M,14.0,White Hispanic
+36,5.0,Mitigated,No Restraints,F,15.0,Black
+37,5.0,Summons,No Restraints,F,16.0,Black
+38,5.0,Summons,No Restraints,M,17.0,White Hispanic
+39,5.0,Summons,No Restraints,M,18.0,Black Hispanic
+40,6.0,Arrested,Metal,M,18.0,Black
+41,6.0,Child in Crisis,No Restraints,M,14.0,Black
+42,6.0,Child in Crisis,No Restraints,M,11.0,Black
+43,6.0,Child in Crisis,No Restraints,M,12.0,Black
+44,6.0,Child in Crisis,Metal,M,13.0,Black
+45,6.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+46,6.0,Mitigated,No Restraints,M,14.0,White Hispanic
+47,6.0,Mitigated,No Restraints,M,10.0,White
+48,6.0,Summons,No Restraints,M,18.0,Black
+49,7.0,Arrested,Metal,M,16.0,White Hispanic
+50,7.0,Child in Crisis,No Restraints,F,17.0,Black
+51,7.0,Child in Crisis,No Restraints,F,16.0,Black Hispanic
+52,7.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+53,7.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+54,7.0,Child in Crisis,No Restraints,M,15.0,Unknown
+55,7.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+56,7.0,Child in Crisis,No Restraints,M,10.0,Black
+57,7.0,Child in Crisis,No Restraints,M,14.0,Asian/Pacific Isl.
+58,7.0,Juvenile Report,No Restraints,M,16.0,Black
+59,7.0,Juvenile Report,No Restraints,M,15.0,Black
+60,7.0,Mitigated,No Restraints,M,20.0,Black Hispanic
+61,9.0,Child in Crisis,No Restraints,M,4.0,Black
+62,9.0,Child in Crisis,Metal,F,15.0,Black
+63,9.0,Child in Crisis,No Restraints,M,19.0,White Hispanic
+64,9.0,Child in Crisis,No Restraints,F,15.0,Black
+65,9.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+66,9.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+67,9.0,Child in Crisis,No Restraints,M,20.0,Black
+68,9.0,Child in Crisis,No Restraints,M,20.0,Black Hispanic
+69,9.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+70,9.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+71,9.0,Child in Crisis,No Restraints,F,14.0,Black
+72,10.0,Child in Crisis,No Restraints,F,14.0,Black Hispanic
+73,10.0,Child in Crisis,No Restraints,F,17.0,White Hispanic
+74,10.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+75,10.0,Child in Crisis,No Restraints,F,14.0,Black
+76,10.0,Child in Crisis,No Restraints,F,15.0,Black
+77,10.0,Child in Crisis,No Restraints,F,14.0,White
+78,10.0,Child in Crisis,No Restraints,F,14.0,Black
+79,10.0,Child in Crisis,No Restraints,F,19.0,Black
+80,10.0,Child in Crisis,No Restraints,M,10.0,Black
+81,10.0,Child in Crisis,No Restraints,F,9.0,Black Hispanic
+82,10.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+83,10.0,Juvenile Report,No Restraints,M,14.0,White
+84,10.0,Juvenile Report,No Restraints,F,17.0,Black
+85,10.0,Juvenile Report,No Restraints,F,16.0,Black
+86,10.0,Juvenile Report,No Restraints,F,15.0,Black
+87,10.0,Juvenile Report,No Restraints,M,12.0,White
+88,10.0,Juvenile Report,Metal,F,15.0,Black
+89,10.0,Juvenile Report,Metal,F,16.0,Black
+90,10.0,Juvenile Report,No Restraints,M,14.0,Black Hispanic
+91,10.0,Mitigated,No Restraints,M,17.0,Black
+92,10.0,Mitigated,No Restraints,F,17.0,White Hispanic
+93,10.0,Mitigated,No Restraints,F,17.0,White
+94,10.0,Mitigated,No Restraints,M,18.0,Black
+95,10.0,Mitigated,No Restraints,M,19.0,White Hispanic
+96,10.0,Mitigated,No Restraints,F,16.0,White Hispanic
+97,10.0,Mitigated,No Restraints,F,14.0,White Hispanic
+98,10.0,Mitigated,No Restraints,F,17.0,Black
+99,10.0,Mitigated,No Restraints,F,18.0,White
+100,10.0,Mitigated,No Restraints,F,16.0,Black
+101,10.0,Mitigated,No Restraints,M,10.0,Black
+102,10.0,Mitigated,No Restraints,M,10.0,Black
+103,13.0,Arrested,Metal,M,17.0,Black
+104,13.0,Arrested,Metal,M,15.0,Asian/Pacific Isl.
+105,13.0,Arrested,Metal,M,16.0,Black
+106,13.0,Child in Crisis,No Restraints,F,15.0,White
+107,13.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+108,13.0,Child in Crisis,Metal,M,17.0,White Hispanic
+109,13.0,Child in Crisis,No Restraints,F,14.0,White
+110,13.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+111,13.0,Juvenile Report,No Restraints,M,15.0,White
+112,13.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+113,13.0,Juvenile Report,Metal,M,17.0,White Hispanic
+114,13.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+115,13.0,Juvenile Report,No Restraints,M,15.0,Asian/Pacific Isl.
+116,13.0,Juvenile Report,No Restraints,M,17.0,Black
+117,13.0,Mitigated,No Restraints,M,15.0,Black
+118,13.0,Mitigated,No Restraints,M,17.0,Arabic
+119,13.0,Mitigated,No Restraints,M,15.0,White
+120,13.0,Mitigated,No Restraints,F,14.0,White Hispanic
+121,13.0,Mitigated,No Restraints,M,15.0,Black
+122,14.0,Juvenile Report,No Restraints,F,14.0,Black
+123,17.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+124,17.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+125,17.0,Child in Crisis,No Restraints,F,17.0,White Hispanic
+126,17.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+127,17.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+128,17.0,Child in Crisis,No Restraints,F,10.0,Black
+129,17.0,Child in Crisis,No Restraints,F,14.0,Black Hispanic
+130,18.0,Arrested,Metal,M,17.0,Black
+131,18.0,Arrested,Metal,M,18.0,White Hispanic
+132,18.0,Arrested,No Restraints,M,17.0,Black
+133,18.0,Arrested,Metal,M,16.0,Black
+134,18.0,Arrested,Metal,M,15.0,Asian/Pacific Isl.
+135,18.0,Arrested,Metal,M,14.0,Black
+136,18.0,Arrested,No Restraints,M,19.0,Black
+137,18.0,Child in Crisis,Metal,M,17.0,Black
+138,18.0,Child in Crisis,No Restraints,F,17.0,Black Hispanic
+139,18.0,Child in Crisis,No Restraints,M,17.0,Black
+140,18.0,Child in Crisis,Metal,M,17.0,Black
+141,18.0,Child in Crisis,No Restraints,F,13.0,Black
+142,18.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+143,18.0,Juvenile Report,No Restraints,F,16.0,Black Hispanic
+144,18.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+145,18.0,Juvenile Report,No Restraints,F,17.0,White Hispanic
+146,18.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+147,18.0,Juvenile Report,Metal,M,17.0,Black
+148,18.0,Juvenile Report,No Restraints,M,15.0,Black Hispanic
+149,18.0,Juvenile Report,No Restraints,M,15.0,Black
+150,18.0,Juvenile Report,No Restraints,M,17.0,Black
+151,18.0,Mitigated,No Restraints,M,15.0,Black Hispanic
+152,18.0,Mitigated,No Restraints,F,15.0,Black
+153,18.0,Mitigated,No Restraints,M,16.0,White Hispanic
+154,18.0,Mitigated,No Restraints,M,16.0,Asian/Pacific Isl.
+155,18.0,Mitigated,No Restraints,M,15.0,Black
+156,18.0,Mitigated,No Restraints,M,18.0,Black
+157,18.0,Mitigated,No Restraints,M,18.0,Black
+158,18.0,Mitigated,No Restraints,M,10.0,White Hispanic
+159,18.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+160,18.0,Mitigated,No Restraints,M,8.0,White
+161,18.0,Mitigated,No Restraints,F,19.0,Black
+162,18.0,Mitigated,No Restraints,M,,Black
+163,18.0,Mitigated,No Restraints,M,20.0,Black
+164,18.0,Mitigated,No Restraints,M,18.0,Black
+165,18.0,Mitigated,No Restraints,M,18.0,Black
+166,18.0,Mitigated,No Restraints,M,17.0,Black
+167,18.0,Mitigated,No Restraints,F,,Black
+168,18.0,Mitigated,No Restraints,M,19.0,Black
+169,18.0,Mitigated,No Restraints,F,15.0,White Hispanic
+170,18.0,Mitigated,No Restraints,F,14.0,White Hispanic
+171,18.0,Mitigated,No Restraints,M,17.0,Black
+172,18.0,Mitigated,No Restraints,F,20.0,Black
+173,18.0,Mitigated,No Restraints,F,18.0,Black
+174,18.0,Mitigated,No Restraints,F,16.0,White Hispanic
+175,18.0,Summons,No Restraints,F,18.0,White Hispanic
+176,18.0,Summons,Metal,F,35.0,Black
+177,18.0,Summons,No Restraints,M,17.0,Black
+178,19.0,Arrested,Metal,M,68.0,White
+179,19.0,Child in Crisis,No Restraints,M,14.0,Black
+180,19.0,Child in Crisis,No Restraints,F,12.0,Black
+181,19.0,Child in Crisis,No Restraints,M,8.0,White Hispanic
+182,19.0,Child in Crisis,No Restraints,M,13.0,Black
+183,19.0,Child in Crisis,No Restraints,M,14.0,Black
+184,19.0,Child in Crisis,No Restraints,F,12.0,Black
+185,19.0,Child in Crisis,No Restraints,M,14.0,White
+186,19.0,Child in Crisis,No Restraints,F,11.0,Black
+187,19.0,Juvenile Report,No Restraints,M,14.0,Black
+188,19.0,Mitigated,Metal,M,14.0,White
+189,20.0,Arrested,Metal,M,18.0,Black
+190,20.0,Arrested,No Restraints,M,17.0,White Hispanic
+191,20.0,Arrested,Metal,F,15.0,White Hispanic
+192,20.0,Child in Crisis,No Restraints,F,14.0,White
+193,20.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+194,20.0,Child in Crisis,No Restraints,F,17.0,Asian/Pacific Isl.
+195,20.0,Child in Crisis,No Restraints,F,14.0,Asian/Pacific Isl.
+196,20.0,Child in Crisis,Metal,F,16.0,Black Hispanic
+197,20.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+198,20.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+199,20.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+200,20.0,Juvenile Report,Metal,M,15.0,White Hispanic
+201,20.0,Juvenile Report,Metal,M,17.0,Black Hispanic
+202,20.0,Juvenile Report,No Restraints,M,15.0,Black
+203,20.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+204,20.0,Juvenile Report,No Restraints,F,14.0,White
+205,20.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+206,20.0,Juvenile Report,No Restraints,F,14.0,Black
+207,20.0,Mitigated,No Restraints,M,16.0,Black
+208,20.0,Mitigated,No Restraints,M,16.0,Black
+209,20.0,Mitigated,No Restraints,F,15.0,White Hispanic
+210,20.0,Mitigated,No Restraints,F,15.0,Black
+211,20.0,Mitigated,No Restraints,F,15.0,Black
+212,20.0,Mitigated,No Restraints,F,12.0,White Hispanic
+213,20.0,Mitigated,No Restraints,M,14.0,Black
+214,20.0,Mitigated,No Restraints,F,19.0,White Hispanic
+215,20.0,Mitigated,No Restraints,F,17.0,White Hispanic
+216,20.0,Mitigated,No Restraints,M,11.0,Black
+217,20.0,Mitigated,No Restraints,M,16.0,White
+218,20.0,Mitigated,No Restraints,F,15.0,White Hispanic
+219,20.0,Mitigated,No Restraints,F,14.0,White Hispanic
+220,20.0,Mitigated,No Restraints,F,17.0,Black
+221,20.0,Mitigated,No Restraints,F,18.0,Black Hispanic
+222,20.0,Mitigated,No Restraints,F,16.0,White Hispanic
+223,20.0,Mitigated,No Restraints,F,14.0,White Hispanic
+224,20.0,Mitigated,No Restraints,F,15.0,White Hispanic
+225,20.0,Mitigated,No Restraints,F,14.0,White Hispanic
+226,20.0,Mitigated,No Restraints,F,18.0,Black
+227,20.0,Mitigated,No Restraints,F,17.0,Black
+228,20.0,Mitigated,No Restraints,F,16.0,Black
+229,20.0,Mitigated,No Restraints,M,14.0,Black
+230,20.0,Mitigated,No Restraints,F,,Black Hispanic
+231,20.0,Mitigated,No Restraints,F,,Black
+232,20.0,Mitigated,No Restraints,F,,Black
+233,20.0,Mitigated,No Restraints,F,,Black Hispanic
+234,20.0,Summons,No Restraints,M,16.0,White
+235,20.0,Summons,No Restraints,F,16.0,Black
+236,20.0,Summons,No Restraints,M,16.0,Black
+237,23.0,Arrested,Metal,M,17.0,Black
+238,23.0,Arrested,Metal,F,25.0,Black Hispanic
+239,23.0,Arrested,Metal,F,13.0,Black
+240,23.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+241,23.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+242,23.0,Child in Crisis,No Restraints,F,19.0,White Hispanic
+243,23.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+244,23.0,Child in Crisis,No Restraints,M,8.0,Black
+245,23.0,Child in Crisis,No Restraints,M,8.0,Black
+246,23.0,Child in Crisis,No Restraints,F,13.0,Black
+247,23.0,Child in Crisis,No Restraints,M,11.0,Black
+248,23.0,Child in Crisis,No Restraints,M,8.0,Black Hispanic
+249,23.0,Juvenile Report,No Restraints,M,13.0,Black
+250,23.0,Juvenile Report,No Restraints,M,15.0,Black Hispanic
+251,23.0,Mitigated,No Restraints,M,,White
+252,23.0,Mitigated,Metal,F,16.0,Black
+253,23.0,Mitigated,No Restraints,M,15.0,Black
+254,23.0,Mitigated,No Restraints,M,11.0,White Hispanic
+255,24.0,Child in Crisis,No Restraints,F,19.0,Black
+256,24.0,Child in Crisis,No Restraints,M,9.0,Black
+257,24.0,Juvenile Report,No Restraints,M,13.0,Black
+258,24.0,Juvenile Report,No Restraints,M,13.0,Black
+259,24.0,Mitigated,No Restraints,F,19.0,Black
+260,24.0,Mitigated,No Restraints,F,9.0,White Hispanic
+261,24.0,Mitigated,No Restraints,M,17.0,White Hispanic
+262,24.0,Mitigated,No Restraints,M,18.0,Black
+263,24.0,Mitigated,No Restraints,F,11.0,White Hispanic
+264,25.0,Arrested,Metal,M,18.0,Black
+265,25.0,Arrested,Metal,M,18.0,Black Hispanic
+266,25.0,Arrested,Metal,M,34.0,Black Hispanic
+267,25.0,Arrested,Metal,M,52.0,Black
+268,25.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+269,25.0,Child in Crisis,No Restraints,M,13.0,Black
+270,25.0,Child in Crisis,No Restraints,F,13.0,Black
+271,25.0,Child in Crisis,No Restraints,M,6.0,Black
+272,25.0,Child in Crisis,No Restraints,M,16.0,Black
+273,25.0,Child in Crisis,No Restraints,M,18.0,White Hispanic
+274,25.0,Child in Crisis,No Restraints,M,7.0,Black
+275,25.0,Child in Crisis,No Restraints,M,7.0,Black
+276,25.0,Child in Crisis,Metal,M,15.0,Black
+277,25.0,Child in Crisis,No Restraints,F,12.0,Black Hispanic
+278,25.0,Juvenile Report,No Restraints,M,13.0,White Hispanic
+279,25.0,Mitigated,No Restraints,M,17.0,Black
+280,25.0,Mitigated,No Restraints,F,19.0,Black
+281,25.0,Mitigated,No Restraints,M,7.0,Black
+282,25.0,Mitigated,No Restraints,M,8.0,White
+283,25.0,Mitigated,No Restraints,M,7.0,White
+284,25.0,Mitigated,No Restraints,M,6.0,White Hispanic
+285,25.0,Mitigated,No Restraints,M,20.0,Black Hispanic
+286,25.0,Mitigated,No Restraints,M,18.0,Black
+287,25.0,Mitigated,No Restraints,M,20.0,Black
+288,25.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+289,25.0,Mitigated,No Restraints,M,13.0,White Hispanic
+290,25.0,Mitigated,No Restraints,M,13.0,White Hispanic
+291,25.0,Mitigated,No Restraints,M,16.0,White Hispanic
+292,26.0,Child in Crisis,No Restraints,M,10.0,Black
+293,26.0,Child in Crisis,Velcro,F,11.0,Black
+294,26.0,Child in Crisis,No Restraints,M,8.0,White Hispanic
+295,26.0,Child in Crisis,No Restraints,M,11.0,Black
+296,26.0,Child in Crisis,No Restraints,M,8.0,Black
+297,26.0,Child in Crisis,No Restraints,M,18.0,Black
+298,26.0,Child in Crisis,No Restraints,M,8.0,Black
+299,26.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+300,26.0,Child in Crisis,No Restraints,M,8.0,Black
+301,26.0,Juvenile Report,Velcro,M,12.0,Black
+302,26.0,Juvenile Report,No Restraints,M,14.0,Black Hispanic
+303,26.0,Juvenile Report,No Restraints,F,12.0,Black
+304,26.0,Mitigated,No Restraints,M,11.0,Black Hispanic
+305,26.0,Mitigated,No Restraints,M,17.0,Black Hispanic
+306,26.0,Mitigated,No Restraints,M,15.0,Black Hispanic
+307,26.0,Mitigated,No Restraints,F,17.0,Black
+308,26.0,Mitigated,No Restraints,M,16.0,Black
+309,26.0,Mitigated,No Restraints,F,12.0,Black
+310,26.0,Mitigated,No Restraints,F,12.0,Black
+311,26.0,PINS / Warrant,No Restraints,F,17.0,Black
+312,28.0,Child in Crisis,No Restraints,F,13.0,Black
+313,28.0,Child in Crisis,No Restraints,M,6.0,Black
+314,28.0,Child in Crisis,No Restraints,M,6.0,Black
+315,28.0,Child in Crisis,No Restraints,F,13.0,Black
+316,28.0,Child in Crisis,No Restraints,F,17.0,Black
+317,28.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+318,28.0,Juvenile Report,No Restraints,F,14.0,Black
+319,28.0,Mitigated,No Restraints,F,16.0,Black
+320,28.0,Mitigated,No Restraints,F,15.0,Black
+321,28.0,Mitigated,No Restraints,F,15.0,Black
+322,28.0,Mitigated,Metal,F,16.0,Black
+323,28.0,Mitigated,No Restraints,F,32.0,Black
+324,28.0,Mitigated,No Restraints,F,14.0,Black Hispanic
+325,28.0,Mitigated,No Restraints,M,10.0,Black
+326,28.0,Mitigated,No Restraints,M,17.0,Black
+327,28.0,Mitigated,No Restraints,M,17.0,Black
+328,28.0,Mitigated,No Restraints,F,14.0,Black
+329,30.0,Child in Crisis,No Restraints,F,13.0,Black
+330,30.0,Juvenile Report,No Restraints,M,14.0,Black Hispanic
+331,30.0,Juvenile Report,Metal,M,14.0,Black
+332,30.0,Mitigated,No Restraints,M,,Unknown
+333,32.0,Arrested,Metal,M,17.0,Black
+334,32.0,Arrested,No Restraints,M,14.0,Black
+335,32.0,Child in Crisis,No Restraints,M,6.0,Black Hispanic
+336,32.0,Child in Crisis,No Restraints,M,6.0,Black Hispanic
+337,32.0,Child in Crisis,No Restraints,M,12.0,Black
+338,32.0,Child in Crisis,No Restraints,M,11.0,Black
+339,32.0,Child in Crisis,No Restraints,M,6.0,Black
+340,32.0,Child in Crisis,No Restraints,F,15.0,Black
+341,32.0,Child in Crisis,No Restraints,F,10.0,Asian/Pacific Isl.
+342,32.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+343,32.0,Child in Crisis,No Restraints,M,4.0,White Hispanic
+344,32.0,Child in Crisis,No Restraints,M,10.0,Black
+345,32.0,Child in Crisis,No Restraints,M,12.0,Black
+346,32.0,Child in Crisis,No Restraints,M,7.0,Black
+347,32.0,Child in Crisis,No Restraints,M,4.0,White Hispanic
+348,32.0,Juvenile Report,No Restraints,F,15.0,Black
+349,32.0,Juvenile Report,No Restraints,F,12.0,White Hispanic
+350,32.0,Juvenile Report,No Restraints,M,16.0,Black Hispanic
+351,32.0,Mitigated,No Restraints,F,15.0,Black
+352,32.0,Mitigated,No Restraints,F,16.0,Asian/Pacific Isl.
+353,32.0,Mitigated,No Restraints,F,16.0,Black
+354,32.0,Mitigated,No Restraints,F,16.0,Black
+355,32.0,Mitigated,No Restraints,F,26.0,Black
+356,32.0,Mitigated,No Restraints,M,17.0,Black
+357,32.0,Mitigated,No Restraints,M,16.0,Black
+358,32.0,Mitigated,No Restraints,M,18.0,Black
+359,32.0,Mitigated,No Restraints,M,12.0,Black
+360,32.0,Mitigated,No Restraints,M,11.0,Black
+361,32.0,Mitigated,No Restraints,M,16.0,Black
+362,32.0,Mitigated,No Restraints,M,13.0,Black
+363,32.0,Mitigated,No Restraints,M,11.0,Black
+364,33.0,Arrested,Metal,M,43.0,Black
+365,33.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+366,33.0,Child in Crisis,No Restraints,M,5.0,Black
+367,33.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+368,33.0,Child in Crisis,No Restraints,M,7.0,Black Hispanic
+369,33.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+370,33.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+371,33.0,Child in Crisis,No Restraints,F,9.0,Black
+372,33.0,Child in Crisis,No Restraints,F,9.0,Black
+373,33.0,Mitigated,No Restraints,F,55.0,Black
+374,34.0,Child in Crisis,No Restraints,M,18.0,Black
+375,34.0,Child in Crisis,Metal,M,11.0,Black Hispanic
+376,34.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+377,34.0,Child in Crisis,Metal,M,14.0,Black Hispanic
+378,34.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+379,34.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+380,34.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+381,34.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+382,34.0,Juvenile Report,No Restraints,F,16.0,White Hispanic
+383,34.0,Juvenile Report,Metal,M,13.0,Black
+384,34.0,Juvenile Report,No Restraints,F,17.0,Black
+385,34.0,Juvenile Report,No Restraints,M,12.0,White Hispanic
+386,34.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+387,34.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+388,34.0,Mitigated,No Restraints,M,12.0,BLACK
+389,34.0,Mitigated,No Restraints,M,14.0,White Hispanic
+390,34.0,Mitigated,No Restraints,M,17.0,White Hispanic
+391,34.0,Mitigated,No Restraints,M,11.0,White Hispanic
+392,34.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+393,34.0,Mitigated,No Restraints,F,12.0,White Hispanic
+394,34.0,Mitigated,No Restraints,F,13.0,White Hispanic
+395,34.0,Mitigated,No Restraints,M,15.0,White Hispanic
+396,34.0,Mitigated,No Restraints,F,14.0,White Hispanic
+397,40.0,Arrested,Metal,M,21.0,Black
+398,40.0,Arrested,Metal,M,15.0,Black
+399,40.0,Arrested,Metal,M,44.0,Black Hispanic
+400,40.0,Arrested,No Restraints,M,12.0,Black
+401,40.0,Child in Crisis,No Restraints,F,11.0,Black
+402,40.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+403,40.0,Child in Crisis,No Restraints,F,17.0,Black Hispanic
+404,40.0,Child in Crisis,No Restraints,M,16.0,Black
+405,40.0,Child in Crisis,No Restraints,F,12.0,Black
+406,40.0,Child in Crisis,Metal,M,15.0,White Hispanic
+407,40.0,Child in Crisis,No Restraints,M,6.0,Black
+408,40.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+409,40.0,Child in Crisis,No Restraints,M,10.0,Black
+410,40.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+411,40.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+412,40.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+413,40.0,Child in Crisis,No Restraints,M,15.0,Black
+414,40.0,Child in Crisis,No Restraints,F,14.0,Black Hispanic
+415,40.0,Child in Crisis,No Restraints,M,5.0,Black
+416,40.0,Child in Crisis,No Restraints,F,16.0,Black Hispanic
+417,40.0,Child in Crisis,Metal,M,14.0,White Hispanic
+418,40.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+419,40.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+420,40.0,Child in Crisis,No Restraints,F,13.0,Black
+421,40.0,Child in Crisis,No Restraints,F,17.0,White Hispanic
+422,40.0,Child in Crisis,No Restraints,M,18.0,White Hispanic
+423,40.0,Child in Crisis,Metal,F,15.0,White Hispanic
+424,40.0,Child in Crisis,No Restraints,F,13.0,Black Hispanic
+425,40.0,Child in Crisis,No Restraints,F,18.0,Black
+426,40.0,Child in Crisis,Metal,F,13.0,Black
+427,40.0,Juvenile Report,No Restraints,F,16.0,White Hispanic
+428,40.0,Juvenile Report,No Restraints,F,16.0,Black
+429,40.0,Juvenile Report,No Restraints,M,16.0,Black
+430,40.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+431,40.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+432,40.0,Juvenile Report,Metal,M,14.0,Black
+433,40.0,Juvenile Report,No Restraints,F,15.0,Black Hispanic
+434,40.0,Juvenile Report,Metal,M,15.0,White Hispanic
+435,40.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+436,40.0,Juvenile Report,No Restraints,M,14.0,Black Hispanic
+437,40.0,Juvenile Report,No Restraints,F,12.0,Black
+438,40.0,Juvenile Report,No Restraints,M,16.0,Black
+439,40.0,Juvenile Report,No Restraints,F,16.0,Black
+440,40.0,Mitigated,No Restraints,M,13.0,Black
+441,40.0,Mitigated,No Restraints,M,13.0,White Hispanic
+442,40.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+443,40.0,Mitigated,No Restraints,F,18.0,Black
+444,40.0,Mitigated,No Restraints,M,11.0,Black Hispanic
+445,40.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+446,40.0,Mitigated,No Restraints,F,14.0,White Hispanic
+447,40.0,Mitigated,No Restraints,M,13.0,White Hispanic
+448,40.0,Mitigated,No Restraints,M,10.0,Black Hispanic
+449,40.0,Mitigated,No Restraints,M,17.0,White Hispanic
+450,40.0,Mitigated,No Restraints,M,17.0,White Hispanic
+451,40.0,Mitigated,No Restraints,M,15.0,Black
+452,40.0,Mitigated,No Restraints,M,14.0,Arabic
+453,40.0,Mitigated,No Restraints,M,12.0,Black
+454,40.0,Mitigated,No Restraints,M,15.0,White Hispanic
+455,40.0,Mitigated,No Restraints,F,16.0,White Hispanic
+456,40.0,Mitigated,No Restraints,F,14.0,Black
+457,40.0,Mitigated,No Restraints,M,13.0,White Hispanic
+458,40.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+459,40.0,Mitigated,No Restraints,M,9.0,White Hispanic
+460,40.0,Mitigated,No Restraints,F,16.0,Black
+461,40.0,Mitigated,No Restraints,F,16.0,Black Hispanic
+462,40.0,Mitigated,No Restraints,F,17.0,Black
+463,40.0,Mitigated,No Restraints,F,17.0,Black
+464,40.0,Mitigated,No Restraints,F,16.0,Black
+465,40.0,Mitigated,No Restraints,F,17.0,Black Hispanic
+466,40.0,Mitigated,No Restraints,M,14.0,White Hispanic
+467,40.0,Mitigated,No Restraints,F,15.0,Black
+468,40.0,Mitigated,No Restraints,F,20.0,White Hispanic
+469,40.0,Mitigated,No Restraints,F,19.0,Black
+470,40.0,Mitigated,No Restraints,F,14.0,Black
+471,40.0,Mitigated,No Restraints,M,18.0,Black
+472,40.0,Mitigated,No Restraints,M,18.0,White Hispanic
+473,40.0,Mitigated,No Restraints,M,17.0,Arabic
+474,40.0,Mitigated,No Restraints,M,15.0,White Hispanic
+475,40.0,Mitigated,No Restraints,M,15.0,Black
+476,40.0,Mitigated,No Restraints,M,15.0,Black
+477,40.0,Mitigated,No Restraints,M,15.0,Black
+478,40.0,Mitigated,No Restraints,M,15.0,White Hispanic
+479,40.0,Mitigated,No Restraints,M,18.0,Black
+480,40.0,Mitigated,No Restraints,M,15.0,Black
+481,40.0,Mitigated,No Restraints,F,18.0,Black
+482,40.0,Mitigated,No Restraints,F,15.0,White Hispanic
+483,40.0,Mitigated,No Restraints,M,14.0,Black
+484,40.0,Mitigated,No Restraints,M,14.0,Black
+485,40.0,Mitigated,No Restraints,M,15.0,Black
+486,40.0,Mitigated,No Restraints,M,18.0,Black Hispanic
+487,40.0,Mitigated,No Restraints,M,15.0,Black
+488,40.0,Mitigated,No Restraints,M,18.0,White Hispanic
+489,40.0,Mitigated,No Restraints,M,14.0,Black
+490,41.0,Arrested,Metal,M,43.0,White Hispanic
+491,41.0,Arrested,No Restraints,F,16.0,White Hispanic
+492,41.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+493,41.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+494,41.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+495,41.0,Child in Crisis,No Restraints,F,14.0,Black Hispanic
+496,41.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+497,41.0,Child in Crisis,No Restraints,F,10.0,Black Hispanic
+498,41.0,Child in Crisis,No Restraints,M,17.0,Black
+499,41.0,Child in Crisis,No Restraints,M,11.0,Black
+500,41.0,Child in Crisis,Metal,M,16.0,White Hispanic
+501,41.0,Child in Crisis,No Restraints,F,15.0,Black
+502,41.0,Mitigated,No Restraints,M,12.0,Black
+503,41.0,Mitigated,No Restraints,M,11.0,White
+504,41.0,Mitigated,No Restraints,F,12.0,Black Hispanic
+505,41.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+506,41.0,Mitigated,No Restraints,M,15.0,Black
+507,41.0,Mitigated,No Restraints,F,15.0,Black
+508,41.0,Mitigated,No Restraints,F,13.0,Black
+509,41.0,Mitigated,No Restraints,F,18.0,Black
+510,41.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+511,41.0,Mitigated,No Restraints,M,13.0,White Hispanic
+512,41.0,Mitigated,No Restraints,F,,Black
+513,41.0,Mitigated,No Restraints,M,16.0,Black
+514,41.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+515,41.0,Mitigated,No Restraints,F,14.0,White Hispanic
+516,41.0,Mitigated,Metal,M,14.0,Black
+517,41.0,Mitigated,No Restraints,F,14.0,Black Hispanic
+518,41.0,Mitigated,No Restraints,F,17.0,Black
+519,42.0,Arrested,Metal,F,20.0,White Hispanic
+520,42.0,Arrested,Metal,M,15.0,Black
+521,42.0,Arrested,Metal,M,17.0,Black
+522,42.0,Arrested,Metal,M,18.0,Black Hispanic
+523,42.0,Arrested,Metal,M,17.0,Black
+524,42.0,Arrested,Metal,M,16.0,Black
+525,42.0,Child in Crisis,No Restraints,M,10.0,Black Hispanic
+526,42.0,Child in Crisis,No Restraints,F,17.0,Black
+527,42.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+528,42.0,Child in Crisis,No Restraints,F,5.0,White Hispanic
+529,42.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+530,42.0,Child in Crisis,No Restraints,F,14.0,Black Hispanic
+531,42.0,Child in Crisis,Metal,M,15.0,Black Hispanic
+532,42.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+533,42.0,Child in Crisis,Metal,M,17.0,White Hispanic
+534,42.0,Child in Crisis,No Restraints,F,11.0,Black
+535,42.0,Child in Crisis,No Restraints,M,17.0,Black Hispanic
+536,42.0,Child in Crisis,No Restraints,M,11.0,Black
+537,42.0,Child in Crisis,No Restraints,F,12.0,Black
+538,42.0,Child in Crisis,No Restraints,M,15.0,Black
+539,42.0,Child in Crisis,No Restraints,M,10.0,Black Hispanic
+540,42.0,Child in Crisis,No Restraints,F,12.0,Black
+541,42.0,Child in Crisis,No Restraints,M,9.0,Black Hispanic
+542,42.0,Child in Crisis,No Restraints,M,11.0,Black Hispanic
+543,42.0,Child in Crisis,No Restraints,F,13.0,Black
+544,42.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+545,42.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+546,42.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+547,42.0,Child in Crisis,No Restraints,F,14.0,Black
+548,42.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+549,42.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+550,42.0,Child in Crisis,No Restraints,F,8.0,Black
+551,42.0,Child in Crisis,No Restraints,M,14.0,Black
+552,42.0,Child in Crisis,No Restraints,F,6.0,Black
+553,42.0,Child in Crisis,No Restraints,M,11.0,Black
+554,42.0,Child in Crisis,No Restraints,M,11.0,Black
+555,42.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+556,42.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+557,42.0,Child in Crisis,No Restraints,F,12.0,Black Hispanic
+558,42.0,Child in Crisis,No Restraints,M,19.0,Black
+559,42.0,Juvenile Report,Metal,M,15.0,Black
+560,42.0,Juvenile Report,No Restraints,F,11.0,White Hispanic
+561,42.0,Juvenile Report,No Restraints,M,14.0,Black Hispanic
+562,42.0,Juvenile Report,Metal,F,17.0,White Hispanic
+563,42.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+564,42.0,Juvenile Report,No Restraints,M,15.0,Black
+565,42.0,Juvenile Report,Metal,F,14.0,Black
+566,42.0,Juvenile Report,No Restraints,M,13.0,White Hispanic
+567,42.0,Juvenile Report,No Restraints,M,17.0,Black Hispanic
+568,42.0,Juvenile Report,No Restraints,M,11.0,Black
+569,42.0,Mitigated,No Restraints,F,18.0,Black
+570,42.0,Mitigated,No Restraints,M,18.0,Black
+571,42.0,Mitigated,No Restraints,F,14.0,Black
+572,42.0,Mitigated,No Restraints,F,16.0,White Hispanic
+573,42.0,Mitigated,No Restraints,F,15.0,Black
+574,42.0,Mitigated,No Restraints,M,13.0,Black Hispanic
+575,42.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+576,42.0,Mitigated,No Restraints,M,11.0,Black
+577,42.0,Mitigated,No Restraints,M,12.0,White Hispanic
+578,42.0,Mitigated,No Restraints,F,16.0,Black
+579,42.0,Mitigated,No Restraints,F,33.0,White Hispanic
+580,42.0,Mitigated,No Restraints,M,15.0,Black Hispanic
+581,42.0,Mitigated,No Restraints,F,16.0,Black
+582,42.0,Mitigated,No Restraints,F,17.0,Black Hispanic
+583,42.0,Mitigated,No Restraints,M,15.0,White Hispanic
+584,42.0,Mitigated,No Restraints,F,17.0,Black
+585,42.0,Mitigated,No Restraints,F,12.0,White Hispanic
+586,42.0,Mitigated,No Restraints,F,13.0,Black
+587,42.0,Mitigated,No Restraints,M,35.0,White
+588,42.0,Mitigated,No Restraints,M,14.0,White Hispanic
+589,42.0,Mitigated,No Restraints,M,16.0,Black
+590,42.0,Mitigated,No Restraints,M,9.0,White Hispanic
+591,42.0,Mitigated,No Restraints,M,14.0,Black
+592,42.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+593,42.0,Mitigated,No Restraints,F,,White Hispanic
+594,42.0,Mitigated,No Restraints,F,13.0,Black
+595,42.0,Mitigated,No Restraints,F,12.0,White Hispanic
+596,42.0,Mitigated,No Restraints,F,30.0,White Hispanic
+597,42.0,Mitigated,No Restraints,M,16.0,Arabic
+598,42.0,Mitigated,No Restraints,M,14.0,Black
+599,42.0,Mitigated,No Restraints,F,16.0,White Hispanic
+600,42.0,Mitigated,No Restraints,F,16.0,White Hispanic
+601,42.0,Mitigated,No Restraints,M,,Black
+602,42.0,Mitigated,No Restraints,F,14.0,White Hispanic
+603,42.0,Mitigated,No Restraints,M,12.0,Black
+604,42.0,Mitigated,No Restraints,M,15.0,Black
+605,42.0,Mitigated,No Restraints,F,17.0,Black
+606,42.0,Mitigated,No Restraints,F,13.0,White Hispanic
+607,42.0,Mitigated,No Restraints,F,14.0,Black
+608,42.0,Mitigated,No Restraints,M,13.0,Black
+609,42.0,Mitigated,No Restraints,M,13.0,Black
+610,42.0,Mitigated,No Restraints,M,,Black
+611,42.0,Mitigated,No Restraints,M,14.0,White Hispanic
+612,42.0,Mitigated,No Restraints,M,11.0,Black
+613,42.0,Mitigated,No Restraints,F,16.0,White Hispanic
+614,42.0,Mitigated,Metal,F,16.0,Black Hispanic
+615,42.0,Mitigated,No Restraints,M,11.0,Black
+616,42.0,Mitigated,No Restraints,M,12.0,Black
+617,42.0,Mitigated,No Restraints,M,16.0,Black
+618,42.0,Mitigated,No Restraints,M,19.0,Black
+619,42.0,Mitigated,No Restraints,F,17.0,Black
+620,42.0,Mitigated,No Restraints,M,15.0,Black Hispanic
+621,42.0,Mitigated,No Restraints,M,12.0,White Hispanic
+622,42.0,Mitigated,No Restraints,M,16.0,White Hispanic
+623,42.0,Mitigated,No Restraints,M,17.0,Black
+624,42.0,Mitigated,No Restraints,M,52.0,Black
+625,42.0,Mitigated,No Restraints,M,18.0,White Hispanic
+626,42.0,Mitigated,No Restraints,M,14.0,White Hispanic
+627,42.0,Mitigated,No Restraints,F,15.0,White Hispanic
+628,42.0,Mitigated,No Restraints,F,15.0,White Hispanic
+629,42.0,Mitigated,No Restraints,F,17.0,Black Hispanic
+630,42.0,Mitigated,No Restraints,F,17.0,White Hispanic
+631,42.0,Mitigated,No Restraints,F,16.0,Black Hispanic
+632,42.0,Mitigated,No Restraints,F,16.0,White Hispanic
+633,42.0,Mitigated,No Restraints,F,16.0,Black
+634,42.0,Mitigated,No Restraints,M,14.0,White Hispanic
+635,42.0,Mitigated,No Restraints,F,14.0,White Hispanic
+636,42.0,Mitigated,No Restraints,M,10.0,Black Hispanic
+637,42.0,Mitigated,No Restraints,M,17.0,Black Hispanic
+638,42.0,Summons,No Restraints,M,18.0,White Hispanic
+639,42.0,Summons,No Restraints,M,19.0,White Hispanic
+640,43.0,Arrested,Metal,M,34.0,Black
+641,43.0,Arrested,Metal,M,16.0,White Hispanic
+642,43.0,Arrested,Metal,M,16.0,White Hispanic
+643,43.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+644,43.0,Child in Crisis,No Restraints,M,6.0,Black
+645,43.0,Child in Crisis,No Restraints,F,17.0,Black Hispanic
+646,43.0,Child in Crisis,No Restraints,M,6.0,Black Hispanic
+647,43.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+648,43.0,Child in Crisis,No Restraints,M,7.0,Black
+649,43.0,Child in Crisis,No Restraints,F,12.0,Black
+650,43.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+651,43.0,Child in Crisis,No Restraints,F,10.0,White Hispanic
+652,43.0,Child in Crisis,No Restraints,F,10.0,White Hispanic
+653,43.0,Child in Crisis,No Restraints,M,11.0,Black
+654,43.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+655,43.0,Child in Crisis,No Restraints,M,11.0,Black
+656,43.0,Child in Crisis,No Restraints,F,10.0,Asian/Pacific Isl.
+657,43.0,Child in Crisis,No Restraints,M,14.0,Black
+658,43.0,Child in Crisis,No Restraints,F,16.0,Black
+659,43.0,Child in Crisis,No Restraints,M,8.0,Black
+660,43.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+661,43.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+662,43.0,Juvenile Report,No Restraints,M,11.0,Black
+663,43.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+664,43.0,Juvenile Report,No Restraints,M,13.0,White Hispanic
+665,43.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+666,43.0,Juvenile Report,No Restraints,F,13.0,White Hispanic
+667,43.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+668,43.0,Juvenile Report,No Restraints,M,17.0,Black
+669,43.0,Juvenile Report,No Restraints,M,17.0,Black
+670,43.0,Juvenile Report,No Restraints,M,15.0,Black
+671,43.0,Juvenile Report,No Restraints,M,13.0,Black Hispanic
+672,43.0,Juvenile Report,No Restraints,F,13.0,White Hispanic
+673,43.0,Juvenile Report,No Restraints,M,13.0,Black Hispanic
+674,43.0,Juvenile Report,No Restraints,M,17.0,Black
+675,43.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+676,43.0,Juvenile Report,No Restraints,M,17.0,Black
+677,43.0,Juvenile Report,No Restraints,M,12.0,Black
+678,43.0,Juvenile Report,No Restraints,F,16.0,Black Hispanic
+679,43.0,Juvenile Report,Metal,M,15.0,Black Hispanic
+680,43.0,Juvenile Report,No Restraints,M,16.0,Black Hispanic
+681,43.0,Juvenile Report,No Restraints,M,14.0,Black
+682,43.0,Juvenile Report,No Restraints,M,14.0,Black
+683,43.0,Mitigated,No Restraints,M,8.0,White Hispanic
+684,43.0,Mitigated,No Restraints,M,12.0,Black
+685,43.0,Mitigated,No Restraints,M,14.0,White Hispanic
+686,43.0,Mitigated,No Restraints,M,11.0,White Hispanic
+687,43.0,Mitigated,No Restraints,F,13.0,White Hispanic
+688,43.0,Mitigated,No Restraints,M,11.0,Black
+689,43.0,Mitigated,No Restraints,F,10.0,White Hispanic
+690,43.0,Mitigated,No Restraints,M,14.0,White
+691,43.0,Mitigated,No Restraints,F,14.0,Black
+692,43.0,Mitigated,No Restraints,M,15.0,White Hispanic
+693,43.0,Mitigated,No Restraints,F,18.0,Black
+694,43.0,Mitigated,No Restraints,M,13.0,Black
+695,43.0,Mitigated,No Restraints,F,14.0,White Hispanic
+696,43.0,Mitigated,No Restraints,F,14.0,White Hispanic
+697,43.0,Mitigated,No Restraints,M,13.0,Black
+698,43.0,Mitigated,No Restraints,F,20.0,Black
+699,43.0,Mitigated,No Restraints,F,15.0,Black
+700,43.0,Mitigated,No Restraints,F,18.0,Black
+701,43.0,Mitigated,No Restraints,M,13.0,White Hispanic
+702,43.0,Mitigated,No Restraints,M,14.0,White Hispanic
+703,43.0,Mitigated,No Restraints,M,12.0,White Hispanic
+704,43.0,Mitigated,No Restraints,F,17.0,Black
+705,43.0,Mitigated,No Restraints,M,18.0,White Hispanic
+706,43.0,Mitigated,No Restraints,M,18.0,Black
+707,43.0,Mitigated,No Restraints,M,17.0,Black
+708,43.0,Mitigated,No Restraints,F,16.0,White Hispanic
+709,43.0,Mitigated,No Restraints,M,7.0,American Indian
+710,43.0,Mitigated,No Restraints,F,56.0,Black Hispanic
+711,43.0,Mitigated,No Restraints,F,16.0,Black
+712,43.0,Mitigated,No Restraints,U,,Unknown
+713,43.0,Mitigated,No Restraints,F,18.0,White Hispanic
+714,43.0,Summons,No Restraints,F,18.0,Black
+715,43.0,Summons,No Restraints,M,21.0,Black
+716,44.0,Arrested,Metal,M,14.0,Black Hispanic
+717,44.0,Arrested,Metal,M,15.0,Black
+718,44.0,Arrested,Metal,M,14.0,White Hispanic
+719,44.0,Arrested,Metal,M,17.0,Black
+720,44.0,Child in Crisis,Velcro,M,10.0,White Hispanic
+721,44.0,Child in Crisis,No Restraints,F,6.0,Black
+722,44.0,Child in Crisis,No Restraints,M,14.0,Black Hispanic
+723,44.0,Child in Crisis,No Restraints,F,17.0,Black
+724,44.0,Child in Crisis,Metal,M,13.0,White Hispanic
+725,44.0,Child in Crisis,No Restraints,M,8.0,Black
+726,44.0,Child in Crisis,No Restraints,M,12.0,Black Hispanic
+727,44.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+728,44.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+729,44.0,Child in Crisis,No Restraints,M,6.0,Black Hispanic
+730,44.0,Child in Crisis,No Restraints,M,7.0,Black
+731,44.0,Child in Crisis,No Restraints,F,12.0,Black Hispanic
+732,44.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+733,44.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+734,44.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+735,44.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+736,44.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+737,44.0,Child in Crisis,No Restraints,M,12.0,Black Hispanic
+738,44.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+739,44.0,Child in Crisis,No Restraints,F,16.0,Black
+740,44.0,Child in Crisis,No Restraints,F,13.0,Black
+741,44.0,Child in Crisis,No Restraints,M,7.0,Black
+742,44.0,Child in Crisis,No Restraints,M,11.0,Black
+743,44.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+744,44.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+745,44.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+746,44.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+747,44.0,Child in Crisis,No Restraints,F,15.0,Black
+748,44.0,Child in Crisis,No Restraints,F,9.0,Black Hispanic
+749,44.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+750,44.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+751,44.0,Child in Crisis,No Restraints,M,10.0,Black Hispanic
+752,44.0,Juvenile Report,No Restraints,F,16.0,Black
+753,44.0,Juvenile Report,No Restraints,M,15.0,Black
+754,44.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+755,44.0,Juvenile Report,Metal,F,14.0,Black Hispanic
+756,44.0,Juvenile Report,No Restraints,F,15.0,Black
+757,44.0,Juvenile Report,No Restraints,M,16.0,Black Hispanic
+758,44.0,Juvenile Report,Metal,M,17.0,White Hispanic
+759,44.0,Juvenile Report,Metal,M,12.0,Black
+760,44.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+761,44.0,Juvenile Report,No Restraints,F,15.0,Black
+762,44.0,Mitigated,No Restraints,F,13.0,Black
+763,44.0,Mitigated,No Restraints,M,4.0,Black
+764,44.0,Mitigated,No Restraints,M,13.0,Black
+765,44.0,Mitigated,No Restraints,M,15.0,White Hispanic
+766,44.0,Mitigated,No Restraints,M,14.0,White Hispanic
+767,44.0,Mitigated,No Restraints,F,14.0,Black
+768,44.0,Mitigated,No Restraints,F,13.0,Black
+769,44.0,Mitigated,No Restraints,M,14.0,Black
+770,44.0,Mitigated,No Restraints,F,15.0,Black
+771,44.0,Mitigated,No Restraints,F,17.0,Black
+772,44.0,Mitigated,No Restraints,F,15.0,Black
+773,44.0,Mitigated,No Restraints,F,15.0,White Hispanic
+774,44.0,Mitigated,No Restraints,F,15.0,Black
+775,44.0,Mitigated,No Restraints,F,16.0,Black
+776,44.0,Mitigated,No Restraints,M,16.0,Black
+777,44.0,Mitigated,No Restraints,F,15.0,Black
+778,44.0,Mitigated,No Restraints,M,17.0,White Hispanic
+779,44.0,Mitigated,No Restraints,M,17.0,Black
+780,44.0,Mitigated,No Restraints,M,17.0,Black
+781,44.0,Mitigated,No Restraints,F,17.0,Black
+782,45.0,Arrested,Metal,M,39.0,Asian/Pacific Isl.
+783,45.0,Arrested,Metal,M,15.0,Black
+784,45.0,Arrested,Metal,M,13.0,Black Hispanic
+785,45.0,Arrested,Metal,M,14.0,White Hispanic
+786,45.0,Child in Crisis,No Restraints,F,17.0,Black
+787,45.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+788,45.0,Child in Crisis,No Restraints,M,6.0,Black
+789,45.0,Child in Crisis,No Restraints,M,16.0,Black
+790,45.0,Child in Crisis,No Restraints,F,12.0,Black Hispanic
+791,45.0,Child in Crisis,Metal,F,13.0,Black
+792,45.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+793,45.0,Child in Crisis,No Restraints,M,8.0,White Hispanic
+794,45.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+795,45.0,Child in Crisis,No Restraints,M,5.0,Black
+796,45.0,Child in Crisis,No Restraints,F,15.0,Black
+797,45.0,Child in Crisis,No Restraints,M,5.0,Black
+798,45.0,Child in Crisis,No Restraints,M,6.0,Black
+799,45.0,Child in Crisis,No Restraints,M,12.0,Black
+800,45.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+801,45.0,Child in Crisis,No Restraints,M,6.0,Black
+802,45.0,Child in Crisis,No Restraints,M,16.0,Black
+803,45.0,Child in Crisis,No Restraints,F,7.0,White Hispanic
+804,45.0,Child in Crisis,No Restraints,M,20.0,Black
+805,45.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+806,45.0,Child in Crisis,No Restraints,M,17.0,Black
+807,45.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+808,45.0,Juvenile Report,No Restraints,M,14.0,Black
+809,45.0,Juvenile Report,No Restraints,M,15.0,Black
+810,45.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+811,45.0,Juvenile Report,No Restraints,F,15.0,Black
+812,45.0,Juvenile Report,No Restraints,F,17.0,Black
+813,45.0,Juvenile Report,No Restraints,M,15.0,Black
+814,45.0,Juvenile Report,No Restraints,M,13.0,White Hispanic
+815,45.0,Juvenile Report,No Restraints,M,15.0,Black
+816,45.0,Juvenile Report,No Restraints,M,16.0,Black
+817,45.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+818,45.0,Juvenile Report,No Restraints,M,15.0,Black
+819,45.0,Juvenile Report,No Restraints,M,16.0,Black
+820,45.0,Juvenile Report,No Restraints,F,14.0,Black
+821,45.0,Juvenile Report,No Restraints,F,17.0,Black
+822,45.0,Juvenile Report,No Restraints,M,17.0,Black
+823,45.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+824,45.0,Juvenile Report,Metal,M,14.0,Black
+825,45.0,Juvenile Report,No Restraints,M,16.0,Black
+826,45.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+827,45.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+828,45.0,Juvenile Report,No Restraints,F,16.0,White Hispanic
+829,45.0,Juvenile Report,No Restraints,F,15.0,Black
+830,45.0,Juvenile Report,No Restraints,F,15.0,White Hispanic
+831,45.0,Mitigated,No Restraints,F,12.0,Black
+832,45.0,Mitigated,No Restraints,M,11.0,Black
+833,45.0,Mitigated,No Restraints,M,16.0,Arabic
+834,45.0,Mitigated,No Restraints,F,14.0,Black
+835,45.0,Mitigated,No Restraints,M,16.0,Black
+836,45.0,Mitigated,No Restraints,M,18.0,White Hispanic
+837,45.0,Mitigated,No Restraints,M,16.0,White Hispanic
+838,45.0,Mitigated,No Restraints,M,16.0,Black
+839,45.0,Mitigated,No Restraints,F,14.0,Black
+840,45.0,Mitigated,No Restraints,M,13.0,Black Hispanic
+841,45.0,Mitigated,No Restraints,M,17.0,Asian/Pacific Isl.
+842,45.0,Mitigated,No Restraints,M,10.0,White Hispanic
+843,45.0,Mitigated,No Restraints,M,8.0,White
+844,45.0,Mitigated,No Restraints,M,11.0,White Hispanic
+845,45.0,Mitigated,No Restraints,M,15.0,Black Hispanic
+846,45.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+847,45.0,Mitigated,No Restraints,M,14.0,Black
+848,45.0,Mitigated,Metal,M,16.0,Black
+849,45.0,Mitigated,No Restraints,M,13.0,Black
+850,45.0,Mitigated,No Restraints,F,8.0,Black
+851,45.0,Mitigated,No Restraints,M,8.0,Black
+852,45.0,Mitigated,No Restraints,M,18.0,White Hispanic
+853,45.0,Mitigated,No Restraints,M,17.0,White Hispanic
+854,45.0,Mitigated,No Restraints,M,16.0,White Hispanic
+855,45.0,Mitigated,No Restraints,M,14.0,White Hispanic
+856,45.0,Mitigated,No Restraints,F,13.0,White
+857,45.0,Mitigated,No Restraints,F,16.0,Black
+858,45.0,Mitigated,No Restraints,F,14.0,Black
+859,45.0,Mitigated,No Restraints,F,15.0,Black
+860,45.0,Mitigated,No Restraints,M,,Unknown
+861,45.0,Mitigated,No Restraints,M,,Unknown
+862,45.0,Mitigated,No Restraints,M,,Unknown
+863,45.0,Mitigated,No Restraints,F,,Unknown
+864,45.0,Mitigated,No Restraints,M,,Unknown
+865,45.0,Mitigated,No Restraints,M,,Unknown
+866,45.0,Mitigated,No Restraints,F,,Unknown
+867,45.0,Mitigated,No Restraints,F,,Unknown
+868,45.0,Mitigated,No Restraints,F,,Unknown
+869,45.0,Mitigated,No Restraints,F,,Unknown
+870,45.0,Mitigated,No Restraints,M,17.0,Black
+871,45.0,Mitigated,No Restraints,F,14.0,White Hispanic
+872,45.0,Mitigated,No Restraints,M,12.0,Black Hispanic
+873,45.0,Mitigated,No Restraints,M,13.0,Black
+874,45.0,Mitigated,No Restraints,M,6.0,Black
+875,45.0,Mitigated,No Restraints,M,5.0,White Hispanic
+876,45.0,Mitigated,No Restraints,F,16.0,White Hispanic
+877,45.0,Mitigated,No Restraints,F,16.0,White Hispanic
+878,45.0,Mitigated,No Restraints,F,18.0,Black
+879,45.0,Mitigated,No Restraints,F,18.0,Black
+880,45.0,Mitigated,No Restraints,F,16.0,White Hispanic
+881,45.0,Mitigated,No Restraints,F,17.0,White Hispanic
+882,45.0,Mitigated,No Restraints,M,11.0,Black
+883,45.0,Mitigated,No Restraints,M,16.0,Black
+884,45.0,Mitigated,No Restraints,M,15.0,Black
+885,45.0,Mitigated,No Restraints,F,16.0,White Hispanic
+886,45.0,Mitigated,No Restraints,F,15.0,White Hispanic
+887,45.0,Mitigated,No Restraints,M,14.0,White Hispanic
+888,45.0,Mitigated,No Restraints,M,15.0,White Hispanic
+889,45.0,Mitigated,No Restraints,M,17.0,Black
+890,45.0,Mitigated,No Restraints,M,16.0,White Hispanic
+891,45.0,Mitigated,No Restraints,M,16.0,White Hispanic
+892,45.0,Mitigated,No Restraints,M,16.0,White Hispanic
+893,45.0,Mitigated,No Restraints,M,16.0,Black
+894,45.0,Mitigated,No Restraints,M,17.0,Black
+895,45.0,Mitigated,No Restraints,M,13.0,White Hispanic
+896,45.0,Mitigated,No Restraints,M,14.0,Black
+897,45.0,Mitigated,No Restraints,F,14.0,Black
+898,45.0,Mitigated,No Restraints,F,15.0,White Hispanic
+899,45.0,Mitigated,No Restraints,M,17.0,Black
+900,45.0,Mitigated,No Restraints,M,17.0,Black
+901,45.0,Mitigated,No Restraints,M,18.0,Black
+902,45.0,Mitigated,No Restraints,M,18.0,Black
+903,45.0,Mitigated,No Restraints,M,11.0,White Hispanic
+904,45.0,Summons,No Restraints,F,18.0,White Hispanic
+905,46.0,Arrested,No Restraints,M,14.0,Black
+906,46.0,Arrested,Metal,F,16.0,Black
+907,46.0,Arrested,Metal,M,14.0,Black
+908,46.0,Arrested,Metal,M,14.0,White Hispanic
+909,46.0,Arrested,No Restraints,M,14.0,White Hispanic
+910,46.0,Child in Crisis,No Restraints,M,5.0,Black
+911,46.0,Child in Crisis,No Restraints,F,14.0,Black
+912,46.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+913,46.0,Child in Crisis,No Restraints,F,11.0,Black Hispanic
+914,46.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+915,46.0,Child in Crisis,Metal,M,13.0,Black
+916,46.0,Child in Crisis,No Restraints,F,11.0,Black
+917,46.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+918,46.0,Child in Crisis,No Restraints,F,10.0,Asian/Pacific Isl.
+919,46.0,Child in Crisis,No Restraints,F,12.0,Black Hispanic
+920,46.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+921,46.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+922,46.0,Child in Crisis,No Restraints,F,10.0,Black
+923,46.0,Child in Crisis,No Restraints,M,9.0,Black
+924,46.0,Child in Crisis,No Restraints,M,12.0,Black
+925,46.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+926,46.0,Child in Crisis,Metal,M,11.0,White Hispanic
+927,46.0,Child in Crisis,No Restraints,M,12.0,Black
+928,46.0,Child in Crisis,No Restraints,M,14.0,White Hispanic
+929,46.0,Child in Crisis,No Restraints,F,12.0,Black
+930,46.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+931,46.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+932,46.0,Child in Crisis,No Restraints,M,9.0,Black
+933,46.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+934,46.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+935,46.0,Child in Crisis,No Restraints,M,15.0,Black
+936,46.0,Juvenile Report,No Restraints,M,14.0,Black Hispanic
+937,46.0,Juvenile Report,No Restraints,M,15.0,Black Hispanic
+938,46.0,Juvenile Report,No Restraints,M,13.0,Black
+939,46.0,Juvenile Report,No Restraints,M,12.0,Black
+940,46.0,Juvenile Report,No Restraints,M,14.0,Black
+941,46.0,Mitigated,No Restraints,F,12.0,White Hispanic
+942,46.0,Mitigated,No Restraints,M,12.0,Black
+943,46.0,Mitigated,No Restraints,M,9.0,Black
+944,46.0,Mitigated,No Restraints,F,13.0,Black
+945,46.0,Mitigated,No Restraints,F,12.0,Black
+946,46.0,Mitigated,No Restraints,F,12.0,Black
+947,46.0,Mitigated,No Restraints,M,8.0,Black
+948,46.0,Mitigated,No Restraints,F,13.0,White Hispanic
+949,46.0,Mitigated,No Restraints,F,9.0,Black
+950,46.0,Mitigated,No Restraints,F,10.0,White Hispanic
+951,46.0,Mitigated,No Restraints,M,13.0,Black Hispanic
+952,47.0,Arrested,Metal,M,15.0,Black
+953,47.0,Arrested,Metal,M,16.0,Black
+954,47.0,Arrested,No Restraints,M,14.0,Black
+955,47.0,Arrested,Metal,F,15.0,Black
+956,47.0,Arrested,Metal,M,48.0,White Hispanic
+957,47.0,Arrested,Metal,M,19.0,Black
+958,47.0,Arrested,Metal,M,15.0,Black
+959,47.0,Child in Crisis,No Restraints,M,9.0,Black
+960,47.0,Child in Crisis,No Restraints,F,12.0,Black
+961,47.0,Child in Crisis,No Restraints,F,15.0,Black
+962,47.0,Child in Crisis,No Restraints,F,12.0,Black
+963,47.0,Child in Crisis,No Restraints,F,12.0,Black
+964,47.0,Child in Crisis,No Restraints,M,15.0,Black Hispanic
+965,47.0,Child in Crisis,No Restraints,M,8.0,Black
+966,47.0,Child in Crisis,No Restraints,F,10.0,Black
+967,47.0,Child in Crisis,Metal,F,13.0,Black Hispanic
+968,47.0,Child in Crisis,No Restraints,F,12.0,Black
+969,47.0,Child in Crisis,No Restraints,M,9.0,Black
+970,47.0,Child in Crisis,No Restraints,M,10.0,Black
+971,47.0,Child in Crisis,No Restraints,M,14.0,White Hispanic
+972,47.0,Child in Crisis,Velcro,M,10.0,Black
+973,47.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+974,47.0,Child in Crisis,No Restraints,M,6.0,Black
+975,47.0,Child in Crisis,No Restraints,M,6.0,Black
+976,47.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+977,47.0,Child in Crisis,No Restraints,F,12.0,Black
+978,47.0,Child in Crisis,No Restraints,F,6.0,Black
+979,47.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+980,47.0,Child in Crisis,No Restraints,M,6.0,Black
+981,47.0,Child in Crisis,Metal,F,13.0,Black
+982,47.0,Child in Crisis,No Restraints,F,15.0,Black
+983,47.0,Child in Crisis,No Restraints,M,10.0,Black Hispanic
+984,47.0,Juvenile Report,No Restraints,M,15.0,White
+985,47.0,Juvenile Report,No Restraints,F,14.0,Black
+986,47.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+987,47.0,Juvenile Report,No Restraints,F,13.0,Black
+988,47.0,Juvenile Report,No Restraints,M,17.0,Black
+989,47.0,Juvenile Report,No Restraints,M,16.0,Black
+990,47.0,Juvenile Report,Metal,M,17.0,Black
+991,47.0,Juvenile Report,Metal,M,16.0,Black
+992,47.0,Juvenile Report,Metal,F,15.0,Black
+993,47.0,Juvenile Report,No Restraints,F,16.0,Black
+994,47.0,Juvenile Report,No Restraints,M,16.0,Black
+995,47.0,Juvenile Report,No Restraints,F,15.0,White Hispanic
+996,47.0,Juvenile Report,No Restraints,M,16.0,Black
+997,47.0,Juvenile Report,No Restraints,F,16.0,White Hispanic
+998,47.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+999,47.0,Juvenile Report,No Restraints,M,16.0,Black
+1000,47.0,Juvenile Report,Metal,M,17.0,Black
+1001,47.0,Juvenile Report,No Restraints,M,17.0,Black
+1002,47.0,Juvenile Report,No Restraints,F,16.0,White Hispanic
+1003,47.0,Juvenile Report,No Restraints,M,17.0,Black Hispanic
+1004,47.0,Juvenile Report,No Restraints,M,15.0,Black
+1005,47.0,Juvenile Report,No Restraints,F,14.0,Black
+1006,47.0,Juvenile Report,Metal,F,16.0,Black
+1007,47.0,Juvenile Report,No Restraints,F,16.0,White Hispanic
+1008,47.0,Juvenile Report,No Restraints,M,15.0,Black Hispanic
+1009,47.0,Juvenile Report,No Restraints,F,13.0,Black
+1010,47.0,Juvenile Report,No Restraints,M,16.0,Black
+1011,47.0,Juvenile Report,No Restraints,M,16.0,Arabic
+1012,47.0,Mitigated,No Restraints,M,18.0,Black
+1013,47.0,Mitigated,No Restraints,M,11.0,Black
+1014,47.0,Mitigated,No Restraints,F,16.0,Black
+1015,47.0,Mitigated,No Restraints,F,14.0,White Hispanic
+1016,47.0,Mitigated,No Restraints,M,,Unknown
+1017,47.0,Mitigated,No Restraints,M,12.0,Black
+1018,47.0,Mitigated,No Restraints,F,14.0,Black
+1019,47.0,Mitigated,No Restraints,F,13.0,Black
+1020,47.0,Mitigated,No Restraints,M,17.0,Black
+1021,47.0,Mitigated,No Restraints,M,14.0,East Indian
+1022,47.0,Mitigated,No Restraints,M,17.0,White Hispanic
+1023,47.0,Mitigated,No Restraints,M,13.0,Black
+1024,47.0,Mitigated,No Restraints,F,16.0,White Hispanic
+1025,47.0,Mitigated,No Restraints,M,,Black
+1026,47.0,Mitigated,No Restraints,M,9.0,Black
+1027,47.0,Mitigated,No Restraints,M,,Black
+1028,47.0,Mitigated,Metal,F,16.0,Black
+1029,47.0,Mitigated,No Restraints,F,16.0,Black
+1030,47.0,Mitigated,No Restraints,M,18.0,Black
+1031,47.0,Mitigated,No Restraints,M,8.0,Black
+1032,47.0,Mitigated,No Restraints,F,,Black
+1033,47.0,Mitigated,No Restraints,M,15.0,Black Hispanic
+1034,47.0,Mitigated,No Restraints,M,8.0,White Hispanic
+1035,47.0,Mitigated,No Restraints,F,,White Hispanic
+1036,47.0,Mitigated,No Restraints,M,14.0,Black
+1037,47.0,Mitigated,No Restraints,F,10.0,Black
+1038,47.0,Mitigated,No Restraints,M,6.0,Black
+1039,47.0,Mitigated,Velcro,F,13.0,Black
+1040,47.0,Mitigated,No Restraints,M,13.0,White Hispanic
+1041,47.0,Mitigated,No Restraints,F,14.0,Black
+1042,47.0,Mitigated,No Restraints,F,12.0,Black
+1043,47.0,Mitigated,No Restraints,M,18.0,Black
+1044,47.0,Mitigated,No Restraints,F,17.0,Black
+1045,47.0,Mitigated,No Restraints,F,16.0,Asian/Pacific Isl.
+1046,47.0,Mitigated,No Restraints,F,17.0,Black
+1047,47.0,Mitigated,No Restraints,F,17.0,Black
+1048,47.0,Mitigated,No Restraints,F,16.0,Black
+1049,47.0,Mitigated,No Restraints,F,17.0,Black
+1050,47.0,Mitigated,No Restraints,M,9.0,White Hispanic
+1051,47.0,Mitigated,No Restraints,M,10.0,Black
+1052,47.0,Mitigated,No Restraints,M,14.0,White Hispanic
+1053,47.0,Mitigated,No Restraints,M,12.0,Black
+1054,47.0,Mitigated,No Restraints,F,15.0,White Hispanic
+1055,47.0,Mitigated,No Restraints,F,16.0,Black
+1056,47.0,Mitigated,No Restraints,F,16.0,Black
+1057,47.0,Mitigated,No Restraints,M,16.0,Black
+1058,47.0,PINS / Warrant,No Restraints,M,15.0,Black
+1059,47.0,PINS / Warrant,Metal,M,17.0,Black
+1060,47.0,PINS / Warrant,No Restraints,F,13.0,Black
+1061,47.0,PINS / Warrant,No Restraints,F,17.0,White Hispanic
+1062,48.0,Arrested,Metal,M,16.0,Black
+1063,48.0,Arrested,No Restraints,M,17.0,Black
+1064,48.0,Arrested,Metal,F,48.0,Black
+1065,48.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+1066,48.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+1067,48.0,Child in Crisis,No Restraints,F,13.0,Black Hispanic
+1068,48.0,Child in Crisis,No Restraints,M,5.0,White Hispanic
+1069,48.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+1070,48.0,Child in Crisis,No Restraints,M,14.0,White Hispanic
+1071,48.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+1072,48.0,Child in Crisis,No Restraints,F,13.0,Black
+1073,48.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+1074,48.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+1075,48.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+1076,48.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+1077,48.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+1078,48.0,Child in Crisis,No Restraints,F,12.0,Black
+1079,48.0,Child in Crisis,No Restraints,M,9.0,Black
+1080,48.0,Child in Crisis,No Restraints,M,10.0,Black
+1081,48.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+1082,48.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+1083,48.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+1084,48.0,Child in Crisis,No Restraints,F,12.0,Black
+1085,48.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+1086,48.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+1087,48.0,Child in Crisis,No Restraints,F,10.0,White Hispanic
+1088,48.0,Child in Crisis,No Restraints,M,8.0,White Hispanic
+1089,48.0,Child in Crisis,No Restraints,F,11.0,Black
+1090,48.0,Child in Crisis,No Restraints,M,9.0,Black
+1091,48.0,Child in Crisis,No Restraints,M,9.0,Black
+1092,48.0,Child in Crisis,No Restraints,M,16.0,White Hispanic
+1093,48.0,Child in Crisis,Metal,M,14.0,White Hispanic
+1094,48.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+1095,48.0,Child in Crisis,No Restraints,M,9.0,Black
+1096,48.0,Child in Crisis,No Restraints,M,9.0,Black
+1097,48.0,Child in Crisis,No Restraints,F,8.0,Black
+1098,48.0,Juvenile Report,No Restraints,M,11.0,Black
+1099,48.0,Juvenile Report,No Restraints,M,13.0,White Hispanic
+1100,48.0,Juvenile Report,No Restraints,M,13.0,White Hispanic
+1101,48.0,Juvenile Report,No Restraints,M,13.0,Black
+1102,48.0,Juvenile Report,No Restraints,M,15.0,Black
+1103,48.0,Juvenile Report,No Restraints,F,14.0,Black
+1104,48.0,Juvenile Report,Metal,M,13.0,White Hispanic
+1105,48.0,Juvenile Report,No Restraints,M,13.0,Black
+1106,48.0,Juvenile Report,No Restraints,M,15.0,Black
+1107,48.0,Juvenile Report,No Restraints,F,13.0,Black Hispanic
+1108,48.0,Juvenile Report,No Restraints,M,16.0,Black
+1109,48.0,Juvenile Report,No Restraints,M,15.0,Black
+1110,48.0,Juvenile Report,No Restraints,M,17.0,Black
+1111,48.0,Juvenile Report,No Restraints,M,14.0,Black Hispanic
+1112,48.0,Juvenile Report,No Restraints,M,15.0,Black Hispanic
+1113,48.0,Juvenile Report,No Restraints,M,13.0,Black
+1114,48.0,Juvenile Report,No Restraints,F,14.0,Black Hispanic
+1115,48.0,Mitigated,No Restraints,F,13.0,White Hispanic
+1116,48.0,Mitigated,No Restraints,M,14.0,Arabic
+1117,48.0,Mitigated,No Restraints,M,12.0,Black
+1118,48.0,Mitigated,No Restraints,F,13.0,Black
+1119,48.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+1120,48.0,Mitigated,No Restraints,F,12.0,Black
+1121,48.0,Mitigated,No Restraints,M,13.0,Black
+1122,48.0,Mitigated,No Restraints,F,14.0,Black
+1123,48.0,Mitigated,No Restraints,M,14.0,Black
+1124,48.0,Mitigated,No Restraints,F,14.0,White Hispanic
+1125,48.0,Mitigated,No Restraints,M,10.0,White Hispanic
+1126,48.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+1127,48.0,Mitigated,No Restraints,M,5.0,White Hispanic
+1128,48.0,Mitigated,No Restraints,M,13.0,Black
+1129,48.0,Mitigated,No Restraints,M,13.0,White
+1130,48.0,Mitigated,No Restraints,M,17.0,Black
+1131,48.0,Mitigated,No Restraints,M,17.0,Black
+1132,48.0,Mitigated,Metal,F,16.0,White Hispanic
+1133,48.0,Mitigated,Metal,M,13.0,Black
+1134,48.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+1135,48.0,Mitigated,No Restraints,F,12.0,Black Hispanic
+1136,48.0,Mitigated,No Restraints,F,12.0,Black
+1137,48.0,Mitigated,No Restraints,M,11.0,White Hispanic
+1138,48.0,Mitigated,No Restraints,M,17.0,White Hispanic
+1139,48.0,Mitigated,No Restraints,M,14.0,White Hispanic
+1140,48.0,Mitigated,No Restraints,M,17.0,Black
+1141,48.0,Mitigated,No Restraints,F,16.0,White Hispanic
+1142,48.0,Mitigated,No Restraints,F,,Black
+1143,48.0,Mitigated,No Restraints,M,15.0,White Hispanic
+1144,48.0,Mitigated,No Restraints,M,7.0,White Hispanic
+1145,48.0,Mitigated,No Restraints,M,,Black
+1146,48.0,Mitigated,No Restraints,F,18.0,Black
+1147,48.0,Summons,No Restraints,F,17.0,White Hispanic
+1148,48.0,Summons,No Restraints,M,17.0,Black
+1149,49.0,Arrested,Metal,M,16.0,American Indian
+1150,49.0,Child in Crisis,No Restraints,F,10.0,Black Hispanic
+1151,49.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+1152,49.0,Child in Crisis,No Restraints,M,15.0,Black Hispanic
+1153,49.0,Child in Crisis,No Restraints,M,8.0,Black Hispanic
+1154,49.0,Child in Crisis,No Restraints,M,12.0,Black
+1155,49.0,Child in Crisis,No Restraints,M,5.0,Black
+1156,49.0,Child in Crisis,No Restraints,F,16.0,Arabic
+1157,49.0,Child in Crisis,Metal,M,15.0,Black
+1158,49.0,Child in Crisis,No Restraints,M,15.0,Black Hispanic
+1159,49.0,Child in Crisis,No Restraints,M,5.0,Black
+1160,49.0,Child in Crisis,Metal,M,16.0,Black
+1161,49.0,Child in Crisis,Metal,F,17.0,Black
+1162,49.0,Child in Crisis,Metal,M,17.0,White Hispanic
+1163,49.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+1164,49.0,Juvenile Report,No Restraints,M,17.0,Arabic
+1165,49.0,Juvenile Report,No Restraints,M,17.0,Arabic
+1166,49.0,Juvenile Report,No Restraints,M,12.0,Black Hispanic
+1167,49.0,Juvenile Report,No Restraints,M,12.0,Black
+1168,49.0,Juvenile Report,Metal,F,13.0,Black
+1169,49.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+1170,49.0,Juvenile Report,No Restraints,M,9.0,Black Hispanic
+1171,49.0,Juvenile Report,No Restraints,M,14.0,Black
+1172,49.0,Juvenile Report,Metal,M,16.0,Black
+1173,49.0,Juvenile Report,Metal,F,16.0,White Hispanic
+1174,49.0,Juvenile Report,Metal,M,15.0,White Hispanic
+1175,49.0,Juvenile Report,No Restraints,M,13.0,Black
+1176,49.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+1177,49.0,Juvenile Report,No Restraints,M,17.0,Black
+1178,49.0,Mitigated,No Restraints,F,13.0,White Hispanic
+1179,49.0,Mitigated,No Restraints,F,16.0,White Hispanic
+1180,49.0,Mitigated,No Restraints,F,16.0,White Hispanic
+1181,49.0,Mitigated,No Restraints,F,13.0,Black
+1182,49.0,Mitigated,No Restraints,F,13.0,White Hispanic
+1183,49.0,Mitigated,No Restraints,M,17.0,Black
+1184,49.0,Mitigated,No Restraints,M,40.0,White
+1185,49.0,Mitigated,No Restraints,F,13.0,Black
+1186,49.0,Mitigated,No Restraints,F,13.0,Black
+1187,49.0,Mitigated,No Restraints,M,9.0,Black
+1188,49.0,Mitigated,No Restraints,M,17.0,White Hispanic
+1189,49.0,Mitigated,No Restraints,M,17.0,White Hispanic
+1190,49.0,Mitigated,Metal,M,16.0,Black
+1191,49.0,Mitigated,No Restraints,M,15.0,White Hispanic
+1192,49.0,Mitigated,No Restraints,F,17.0,Black
+1193,49.0,Mitigated,No Restraints,M,10.0,Black
+1194,49.0,Mitigated,No Restraints,M,16.0,White Hispanic
+1195,49.0,Mitigated,No Restraints,F,15.0,Black
+1196,49.0,Summons,No Restraints,M,16.0,White Hispanic
+1197,49.0,Summons,No Restraints,M,17.0,White Hispanic
+1198,50.0,Arrested,Metal,M,17.0,Black
+1199,50.0,Arrested,Metal,M,16.0,Black
+1200,50.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+1201,50.0,Child in Crisis,Velcro,M,11.0,White Hispanic
+1202,50.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+1203,50.0,Child in Crisis,No Restraints,M,12.0,Black Hispanic
+1204,50.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+1205,50.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+1206,50.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+1207,50.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+1208,50.0,Child in Crisis,No Restraints,M,21.0,Black
+1209,50.0,Child in Crisis,No Restraints,M,16.0,Black Hispanic
+1210,50.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+1211,50.0,Child in Crisis,No Restraints,F,16.0,Black
+1212,50.0,Child in Crisis,No Restraints,M,18.0,White Hispanic
+1213,50.0,Juvenile Report,No Restraints,F,17.0,Black
+1214,50.0,Juvenile Report,No Restraints,M,12.0,Black Hispanic
+1215,50.0,Juvenile Report,No Restraints,M,12.0,Black Hispanic
+1216,50.0,Juvenile Report,No Restraints,M,15.0,Black
+1217,50.0,Mitigated,No Restraints,F,16.0,Black
+1218,50.0,Mitigated,No Restraints,M,18.0,Black
+1219,50.0,Mitigated,No Restraints,M,17.0,Black
+1220,50.0,Mitigated,No Restraints,M,15.0,White Hispanic
+1221,50.0,Mitigated,No Restraints,M,15.0,Black Hispanic
+1222,50.0,Mitigated,No Restraints,F,16.0,Black
+1223,50.0,Mitigated,No Restraints,M,17.0,Black
+1224,50.0,Mitigated,No Restraints,F,20.0,Black
+1225,50.0,Mitigated,No Restraints,M,18.0,White Hispanic
+1226,50.0,Mitigated,No Restraints,M,17.0,Black Hispanic
+1227,50.0,Mitigated,No Restraints,M,15.0,Black
+1228,50.0,Mitigated,No Restraints,M,20.0,Black Hispanic
+1229,50.0,Mitigated,No Restraints,M,10.0,Black Hispanic
+1230,50.0,Mitigated,No Restraints,F,19.0,White Hispanic
+1231,50.0,Mitigated,No Restraints,F,17.0,Black Hispanic
+1232,50.0,Mitigated,No Restraints,F,18.0,Black
+1233,50.0,Mitigated,No Restraints,M,15.0,Black
+1234,50.0,Mitigated,No Restraints,M,18.0,Black
+1235,50.0,Mitigated,Metal,F,15.0,White Hispanic
+1236,50.0,Mitigated,No Restraints,F,15.0,White Hispanic
+1237,50.0,Mitigated,No Restraints,F,15.0,White Hispanic
+1238,50.0,Mitigated,No Restraints,F,15.0,White Hispanic
+1239,50.0,Mitigated,No Restraints,F,11.0,White Hispanic
+1240,50.0,Mitigated,No Restraints,M,12.0,Black
+1241,50.0,Mitigated,No Restraints,M,15.0,Black
+1242,50.0,Mitigated,Metal,F,16.0,Black Hispanic
+1243,50.0,Mitigated,No Restraints,F,15.0,Black
+1244,50.0,Summons,No Restraints,F,18.0,Black
+1245,52.0,Arrested,No Restraints,M,16.0,Arabic
+1246,52.0,Arrested,Metal,F,16.0,Black
+1247,52.0,Arrested,Metal,M,19.0,White Hispanic
+1248,52.0,Arrested,Metal,M,14.0,Black
+1249,52.0,Arrested,Metal,M,20.0,White Hispanic
+1250,52.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+1251,52.0,Child in Crisis,No Restraints,F,16.0,Black Hispanic
+1252,52.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+1253,52.0,Child in Crisis,No Restraints,F,15.0,Black
+1254,52.0,Child in Crisis,No Restraints,F,8.0,White Hispanic
+1255,52.0,Child in Crisis,No Restraints,F,8.0,White Hispanic
+1256,52.0,Child in Crisis,No Restraints,F,12.0,Black
+1257,52.0,Child in Crisis,No Restraints,M,10.0,American Indian
+1258,52.0,Child in Crisis,No Restraints,M,8.0,Black Hispanic
+1259,52.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+1260,52.0,Child in Crisis,No Restraints,M,15.0,Arabic
+1261,52.0,Child in Crisis,No Restraints,M,13.0,Black
+1262,52.0,Child in Crisis,No Restraints,M,6.0,Black Hispanic
+1263,52.0,Child in Crisis,No Restraints,F,8.0,White Hispanic
+1264,52.0,Child in Crisis,No Restraints,F,10.0,Black
+1265,52.0,Child in Crisis,No Restraints,F,17.0,Black
+1266,52.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+1267,52.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+1268,52.0,Child in Crisis,No Restraints,M,7.0,Black
+1269,52.0,Child in Crisis,No Restraints,M,9.0,White
+1270,52.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+1271,52.0,Juvenile Report,No Restraints,M,15.0,White
+1272,52.0,Juvenile Report,No Restraints,F,13.0,White Hispanic
+1273,52.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+1274,52.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+1275,52.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+1276,52.0,Juvenile Report,No Restraints,M,17.0,Asian/Pacific Isl.
+1277,52.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+1278,52.0,Juvenile Report,No Restraints,M,16.0,Black
+1279,52.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+1280,52.0,Juvenile Report,Metal,M,14.0,White Hispanic
+1281,52.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+1282,52.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+1283,52.0,Mitigated,No Restraints,M,17.0,Black Hispanic
+1284,52.0,Mitigated,No Restraints,F,,White
+1285,52.0,Mitigated,No Restraints,M,13.0,White Hispanic
+1286,52.0,Mitigated,No Restraints,M,11.0,White Hispanic
+1287,60.0,Child in Crisis,No Restraints,M,15.0,White
+1288,60.0,Child in Crisis,No Restraints,F,18.0,Black
+1289,60.0,Child in Crisis,No Restraints,M,7.0,Black
+1290,60.0,Child in Crisis,No Restraints,F,14.0,White
+1291,60.0,Child in Crisis,No Restraints,F,7.0,Black
+1292,60.0,Child in Crisis,No Restraints,M,18.0,Arabic
+1293,60.0,Child in Crisis,No Restraints,M,18.0,Black
+1294,60.0,Child in Crisis,No Restraints,F,18.0,Black
+1295,60.0,Child in Crisis,No Restraints,M,6.0,Black
+1296,60.0,Child in Crisis,No Restraints,F,13.0,Black
+1297,60.0,Child in Crisis,No Restraints,F,17.0,Black
+1298,60.0,Child in Crisis,No Restraints,F,7.0,Black
+1299,60.0,Child in Crisis,No Restraints,M,9.0,Black
+1300,60.0,Child in Crisis,No Restraints,M,13.0,Black
+1301,60.0,Child in Crisis,No Restraints,F,7.0,Black
+1302,60.0,Child in Crisis,Metal,F,13.0,White Hispanic
+1303,60.0,Child in Crisis,No Restraints,M,13.0,Asian/Pacific Isl.
+1304,60.0,Child in Crisis,No Restraints,F,18.0,White
+1305,60.0,Child in Crisis,Metal,F,18.0,White
+1306,60.0,Child in Crisis,No Restraints,F,10.0,White
+1307,60.0,Child in Crisis,No Restraints,M,8.0,Black
+1308,60.0,Child in Crisis,No Restraints,F,17.0,White Hispanic
+1309,60.0,Juvenile Report,No Restraints,M,17.0,Black
+1310,60.0,Juvenile Report,No Restraints,F,15.0,White
+1311,60.0,Juvenile Report,No Restraints,F,15.0,White Hispanic
+1312,60.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+1313,60.0,Juvenile Report,No Restraints,F,16.0,Black
+1314,60.0,Juvenile Report,Metal,M,16.0,Black
+1315,60.0,Mitigated,No Restraints,M,10.0,Black
+1316,60.0,Mitigated,No Restraints,M,11.0,Black
+1317,60.0,Mitigated,No Restraints,M,10.0,Black
+1318,60.0,Mitigated,No Restraints,M,10.0,Black
+1319,60.0,Mitigated,No Restraints,M,11.0,White Hispanic
+1320,60.0,Mitigated,No Restraints,M,,Black
+1321,60.0,Mitigated,No Restraints,M,14.0,Black
+1322,60.0,Mitigated,No Restraints,F,14.0,Asian/Pacific Isl.
+1323,60.0,Mitigated,No Restraints,M,19.0,Black
+1324,60.0,Mitigated,No Restraints,F,18.0,Black
+1325,60.0,Mitigated,No Restraints,F,18.0,Black
+1326,60.0,Mitigated,No Restraints,F,20.0,Black
+1327,60.0,Mitigated,No Restraints,M,14.0,Black
+1328,60.0,Mitigated,No Restraints,M,12.0,White Hispanic
+1329,60.0,Mitigated,No Restraints,F,11.0,White Hispanic
+1330,60.0,Mitigated,No Restraints,F,13.0,Black
+1331,60.0,Mitigated,No Restraints,F,12.0,Black
+1332,60.0,Mitigated,No Restraints,F,,Black
+1333,60.0,Mitigated,No Restraints,F,14.0,Black
+1334,60.0,Mitigated,No Restraints,M,11.0,White
+1335,60.0,Mitigated,No Restraints,M,12.0,White
+1336,60.0,Mitigated,No Restraints,M,16.0,Black
+1337,60.0,Mitigated,No Restraints,M,18.0,Black
+1338,60.0,Mitigated,No Restraints,F,8.0,Black
+1339,60.0,Mitigated,No Restraints,M,14.0,White
+1340,60.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+1341,60.0,Mitigated,No Restraints,M,11.0,Black
+1342,60.0,Mitigated,No Restraints,F,11.0,White
+1343,60.0,Mitigated,No Restraints,F,17.0,Black
+1344,60.0,Mitigated,No Restraints,F,16.0,White Hispanic
+1345,60.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+1346,60.0,Mitigated,No Restraints,M,17.0,White Hispanic
+1347,60.0,Mitigated,No Restraints,M,14.0,Black
+1348,60.0,Mitigated,No Restraints,M,15.0,Black
+1349,60.0,Mitigated,No Restraints,F,15.0,Black
+1350,60.0,Mitigated,No Restraints,M,14.0,Black
+1351,60.0,Mitigated,No Restraints,F,14.0,Black
+1352,60.0,Mitigated,No Restraints,F,15.0,White Hispanic
+1353,60.0,Mitigated,No Restraints,M,17.0,Black
+1354,60.0,Mitigated,No Restraints,M,14.0,White
+1355,60.0,Mitigated,No Restraints,F,17.0,White Hispanic
+1356,60.0,Mitigated,No Restraints,F,18.0,Black
+1357,60.0,Mitigated,No Restraints,M,13.0,Arabic
+1358,60.0,Mitigated,No Restraints,M,13.0,White
+1359,60.0,Mitigated,No Restraints,F,17.0,Black
+1360,60.0,Mitigated,No Restraints,F,10.0,Asian/Pacific Isl.
+1361,60.0,Mitigated,No Restraints,M,9.0,White
+1362,60.0,Mitigated,No Restraints,M,13.0,Arabic
+1363,60.0,Mitigated,No Restraints,F,13.0,Black
+1364,60.0,Mitigated,No Restraints,F,11.0,Black
+1365,60.0,Mitigated,No Restraints,F,17.0,Black
+1366,60.0,Mitigated,No Restraints,F,17.0,Black
+1367,60.0,Mitigated,No Restraints,F,18.0,Black
+1368,60.0,Mitigated,No Restraints,F,17.0,Black
+1369,60.0,Mitigated,No Restraints,M,16.0,Black
+1370,60.0,Mitigated,No Restraints,M,15.0,Black
+1371,60.0,Mitigated,No Restraints,F,15.0,Black
+1372,60.0,Mitigated,No Restraints,F,16.0,Black
+1373,60.0,Mitigated,No Restraints,F,15.0,Black
+1374,60.0,Mitigated,No Restraints,F,16.0,Black
+1375,60.0,Mitigated,No Restraints,F,16.0,White
+1376,60.0,Mitigated,No Restraints,F,16.0,Black
+1377,60.0,Mitigated,No Restraints,F,16.0,Black
+1378,60.0,Mitigated,No Restraints,F,13.0,White Hispanic
+1379,60.0,Mitigated,No Restraints,F,13.0,White Hispanic
+1380,60.0,Mitigated,No Restraints,F,16.0,Black
+1381,60.0,Mitigated,No Restraints,F,16.0,Black
+1382,60.0,Mitigated,No Restraints,M,7.0,Black Hispanic
+1383,61.0,Child in Crisis,No Restraints,M,17.0,White
+1384,61.0,Child in Crisis,No Restraints,F,15.0,Black
+1385,61.0,Child in Crisis,No Restraints,M,7.0,Black
+1386,61.0,Child in Crisis,No Restraints,M,15.0,Black
+1387,61.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+1388,61.0,Child in Crisis,No Restraints,F,12.0,White
+1389,61.0,Child in Crisis,No Restraints,M,13.0,White
+1390,61.0,Child in Crisis,Metal,F,14.0,Black
+1391,61.0,Child in Crisis,No Restraints,M,6.0,Black Hispanic
+1392,61.0,Child in Crisis,Velcro,M,9.0,White
+1393,61.0,Child in Crisis,No Restraints,F,14.0,White
+1394,61.0,Child in Crisis,No Restraints,F,14.0,Black
+1395,61.0,Child in Crisis,No Restraints,M,6.0,Black Hispanic
+1396,61.0,Child in Crisis,No Restraints,F,14.0,Asian/Pacific Isl.
+1397,61.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+1398,61.0,Child in Crisis,Velcro,M,10.0,White
+1399,61.0,Child in Crisis,No Restraints,M,10.0,White
+1400,61.0,Juvenile Report,No Restraints,F,12.0,Black
+1401,61.0,Juvenile Report,Metal,M,15.0,White Hispanic
+1402,61.0,Juvenile Report,No Restraints,M,16.0,White
+1403,61.0,Juvenile Report,Metal,M,17.0,Black
+1404,61.0,Juvenile Report,Metal,M,17.0,Black
+1405,61.0,Juvenile Report,Metal,M,17.0,White Hispanic
+1406,61.0,Juvenile Report,No Restraints,F,17.0,Black
+1407,61.0,Juvenile Report,No Restraints,F,15.0,Asian/Pacific Isl.
+1408,61.0,Juvenile Report,No Restraints,F,16.0,White
+1409,61.0,Mitigated,No Restraints,F,15.0,White Hispanic
+1410,61.0,Mitigated,No Restraints,M,16.0,Black
+1411,61.0,Mitigated,No Restraints,M,18.0,White
+1412,61.0,Mitigated,No Restraints,M,38.0,White Hispanic
+1413,61.0,Mitigated,No Restraints,F,14.0,Black
+1414,61.0,Mitigated,No Restraints,M,15.0,White Hispanic
+1415,61.0,Mitigated,No Restraints,M,18.0,Black
+1416,61.0,Mitigated,No Restraints,M,16.0,Black
+1417,61.0,Mitigated,No Restraints,M,19.0,Black
+1418,61.0,Mitigated,No Restraints,M,18.0,Black
+1419,61.0,Mitigated,No Restraints,M,17.0,White Hispanic
+1420,61.0,Mitigated,No Restraints,M,16.0,Black
+1421,61.0,Mitigated,No Restraints,M,18.0,Black
+1422,61.0,Mitigated,No Restraints,M,14.0,White
+1423,61.0,Mitigated,No Restraints,M,16.0,White
+1424,61.0,Mitigated,No Restraints,M,15.0,Black
+1425,61.0,Mitigated,No Restraints,F,16.0,White
+1426,61.0,Mitigated,No Restraints,M,17.0,Black
+1427,61.0,Mitigated,No Restraints,M,17.0,White
+1428,61.0,Mitigated,No Restraints,F,12.0,White
+1429,61.0,Mitigated,No Restraints,M,17.0,Black
+1430,61.0,Mitigated,No Restraints,M,17.0,White Hispanic
+1431,61.0,Mitigated,No Restraints,F,17.0,White
+1432,61.0,Mitigated,No Restraints,M,14.0,Black
+1433,61.0,Summons,Metal,M,18.0,Black
+1434,62.0,Arrested,Metal,M,12.0,White
+1435,62.0,Arrested,Metal,M,14.0,Black Hispanic
+1436,62.0,Child in Crisis,No Restraints,F,14.0,White
+1437,62.0,Child in Crisis,No Restraints,M,13.0,Black
+1438,62.0,Child in Crisis,No Restraints,M,5.0,Black Hispanic
+1439,62.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+1440,62.0,Child in Crisis,No Restraints,M,14.0,Black Hispanic
+1441,62.0,Child in Crisis,No Restraints,M,14.0,Black Hispanic
+1442,62.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+1443,62.0,Child in Crisis,No Restraints,M,13.0,Asian/Pacific Isl.
+1444,62.0,Child in Crisis,No Restraints,M,12.0,Asian/Pacific Isl.
+1445,62.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+1446,62.0,Child in Crisis,No Restraints,F,13.0,Asian/Pacific Isl.
+1447,62.0,Child in Crisis,No Restraints,M,16.0,Black
+1448,62.0,Juvenile Report,No Restraints,M,11.0,White
+1449,62.0,Juvenile Report,Metal,F,15.0,Black
+1450,62.0,Mitigated,No Restraints,M,12.0,East Indian
+1451,62.0,Mitigated,No Restraints,M,11.0,Arabic
+1452,62.0,Mitigated,No Restraints,M,12.0,White
+1453,62.0,Mitigated,No Restraints,M,,White
+1454,62.0,Mitigated,No Restraints,F,,Black Hispanic
+1455,62.0,Mitigated,No Restraints,F,,White
+1456,62.0,Mitigated,No Restraints,F,,Black Hispanic
+1457,62.0,Mitigated,No Restraints,M,13.0,Asian/Pacific Isl.
+1458,62.0,Mitigated,No Restraints,M,14.0,Black
+1459,62.0,Mitigated,No Restraints,M,7.0,Black Hispanic
+1460,62.0,Mitigated,No Restraints,M,13.0,Asian/Pacific Isl.
+1461,62.0,Mitigated,No Restraints,M,13.0,Arabic
+1462,62.0,Mitigated,No Restraints,M,12.0,White
+1463,62.0,Mitigated,No Restraints,M,12.0,Black Hispanic
+1464,62.0,Mitigated,No Restraints,F,12.0,Black
+1465,62.0,Mitigated,No Restraints,F,12.0,Black
+1466,62.0,Mitigated,No Restraints,F,11.0,White Hispanic
+1467,62.0,Mitigated,No Restraints,M,16.0,Black
+1468,62.0,Mitigated,No Restraints,M,16.0,White
+1469,62.0,Mitigated,No Restraints,M,,White Hispanic
+1470,62.0,Mitigated,No Restraints,M,,Unknown
+1471,62.0,Mitigated,No Restraints,M,16.0,White Hispanic
+1472,62.0,Mitigated,No Restraints,F,15.0,White Hispanic
+1473,63.0,Child in Crisis,No Restraints,M,5.0,Black
+1474,63.0,Child in Crisis,No Restraints,F,13.0,Black
+1475,63.0,Mitigated,No Restraints,M,10.0,Black
+1476,63.0,Mitigated,No Restraints,M,7.0,East Indian
+1477,63.0,Mitigated,No Restraints,F,13.0,Black
+1478,63.0,Mitigated,No Restraints,F,12.0,Black
+1479,63.0,Mitigated,No Restraints,F,13.0,Black
+1480,63.0,Mitigated,No Restraints,F,13.0,Black
+1481,66.0,Child in Crisis,No Restraints,M,7.0,Black
+1482,66.0,Child in Crisis,No Restraints,M,9.0,Black
+1483,66.0,Child in Crisis,No Restraints,M,11.0,Asian/Pacific Isl.
+1484,66.0,Child in Crisis,No Restraints,M,6.0,Asian/Pacific Isl.
+1485,66.0,Child in Crisis,No Restraints,F,10.0,Asian/Pacific Isl.
+1486,66.0,Child in Crisis,No Restraints,F,17.0,White
+1487,66.0,Child in Crisis,Metal,F,16.0,White Hispanic
+1488,66.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+1489,66.0,Child in Crisis,No Restraints,M,15.0,Asian/Pacific Isl.
+1490,66.0,Child in Crisis,No Restraints,F,11.0,Black Hispanic
+1491,66.0,Child in Crisis,Velcro,F,12.0,Black
+1492,66.0,Child in Crisis,No Restraints,F,9.0,Black
+1493,66.0,Child in Crisis,Metal,F,14.0,Black
+1494,66.0,Juvenile Report,No Restraints,M,17.0,Black
+1495,66.0,Mitigated,No Restraints,M,14.0,White
+1496,66.0,Mitigated,No Restraints,M,14.0,White Hispanic
+1497,66.0,Mitigated,No Restraints,M,11.0,Asian/Pacific Isl.
+1498,66.0,Mitigated,No Restraints,M,13.0,Black
+1499,67.0,Arrested,Metal,M,18.0,Black
+1500,67.0,Arrested,Metal,M,39.0,Black
+1501,67.0,Arrested,Metal,M,13.0,Black
+1502,67.0,Arrested,Metal,M,14.0,Black Hispanic
+1503,67.0,Arrested,Metal,F,37.0,Black
+1504,67.0,Arrested,Metal,F,37.0,Black
+1505,67.0,Child in Crisis,Metal,F,15.0,Black
+1506,67.0,Child in Crisis,No Restraints,F,16.0,Black
+1507,67.0,Child in Crisis,No Restraints,M,16.0,White Hispanic
+1508,67.0,Child in Crisis,No Restraints,F,10.0,Black
+1509,67.0,Child in Crisis,No Restraints,F,13.0,Black
+1510,67.0,Child in Crisis,No Restraints,F,17.0,Black Hispanic
+1511,67.0,Child in Crisis,No Restraints,F,18.0,Black
+1512,67.0,Child in Crisis,No Restraints,M,9.0,Black Hispanic
+1513,67.0,Child in Crisis,No Restraints,F,17.0,Black
+1514,67.0,Child in Crisis,No Restraints,M,8.0,Black
+1515,67.0,Child in Crisis,No Restraints,M,14.0,Black
+1516,67.0,Child in Crisis,No Restraints,M,8.0,Black
+1517,67.0,Child in Crisis,No Restraints,M,10.0,Black
+1518,67.0,Child in Crisis,No Restraints,M,17.0,Black
+1519,67.0,Juvenile Report,No Restraints,M,11.0,Black
+1520,67.0,Juvenile Report,No Restraints,F,15.0,Black
+1521,67.0,Juvenile Report,No Restraints,F,14.0,Black
+1522,67.0,Mitigated,No Restraints,M,15.0,Black
+1523,67.0,Mitigated,No Restraints,M,17.0,Black
+1524,67.0,Mitigated,No Restraints,F,16.0,Black
+1525,67.0,Mitigated,No Restraints,F,16.0,Black
+1526,67.0,Mitigated,No Restraints,F,16.0,Black
+1527,67.0,Mitigated,No Restraints,M,14.0,Black
+1528,67.0,Mitigated,No Restraints,M,13.0,Black
+1529,67.0,Mitigated,No Restraints,F,11.0,Black
+1530,67.0,Mitigated,No Restraints,M,13.0,Black
+1531,67.0,Mitigated,No Restraints,M,11.0,Black
+1532,67.0,Mitigated,No Restraints,M,12.0,Black
+1533,67.0,Mitigated,No Restraints,M,8.0,Black
+1534,67.0,Mitigated,No Restraints,F,,Black
+1535,67.0,Mitigated,No Restraints,M,13.0,Black
+1536,67.0,Mitigated,No Restraints,M,15.0,Black
+1537,68.0,Arrested,Metal,M,15.0,Black
+1538,68.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+1539,68.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+1540,68.0,Child in Crisis,No Restraints,M,18.0,Arabic
+1541,68.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+1542,68.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+1543,68.0,Juvenile Report,No Restraints,M,14.0,Arabic
+1544,68.0,Mitigated,No Restraints,M,12.0,White
+1545,68.0,Mitigated,No Restraints,M,16.0,Arabic
+1546,68.0,Mitigated,No Restraints,M,18.0,Arabic
+1547,68.0,Mitigated,No Restraints,M,16.0,White Hispanic
+1548,68.0,Mitigated,No Restraints,M,18.0,White Hispanic
+1549,68.0,Mitigated,No Restraints,M,16.0,Arabic
+1550,68.0,Mitigated,No Restraints,M,16.0,Arabic
+1551,68.0,Mitigated,No Restraints,M,14.0,Black
+1552,68.0,Mitigated,No Restraints,F,8.0,White Hispanic
+1553,68.0,Mitigated,No Restraints,F,8.0,White Hispanic
+1554,68.0,Mitigated,No Restraints,M,16.0,White Hispanic
+1555,68.0,Mitigated,No Restraints,F,14.0,White Hispanic
+1556,68.0,Mitigated,No Restraints,M,16.0,White
+1557,68.0,Mitigated,No Restraints,M,17.0,Arabic
+1558,68.0,Mitigated,No Restraints,M,14.0,White Hispanic
+1559,68.0,Mitigated,No Restraints,M,12.0,Asian/Pacific Isl.
+1560,68.0,Mitigated,No Restraints,M,11.0,Asian/Pacific Isl.
+1561,68.0,Mitigated,No Restraints,M,16.0,Arabic
+1562,68.0,Mitigated,No Restraints,M,17.0,Asian/Pacific Isl.
+1563,68.0,Mitigated,No Restraints,M,18.0,White Hispanic
+1564,68.0,Mitigated,No Restraints,M,16.0,Asian/Pacific Isl.
+1565,68.0,Mitigated,No Restraints,M,19.0,Asian/Pacific Isl.
+1566,68.0,Mitigated,No Restraints,F,15.0,Black
+1567,68.0,Mitigated,No Restraints,M,17.0,Arabic
+1568,68.0,Mitigated,No Restraints,M,16.0,Arabic
+1569,68.0,Mitigated,No Restraints,M,15.0,Arabic
+1570,68.0,Mitigated,No Restraints,M,16.0,Arabic
+1571,68.0,Mitigated,No Restraints,M,17.0,White
+1572,68.0,Mitigated,No Restraints,M,16.0,White Hispanic
+1573,68.0,Mitigated,No Restraints,M,17.0,White Hispanic
+1574,68.0,Mitigated,No Restraints,M,13.0,White Hispanic
+1575,68.0,Mitigated,No Restraints,F,14.0,White Hispanic
+1576,68.0,Mitigated,No Restraints,M,14.0,White Hispanic
+1577,68.0,Mitigated,No Restraints,M,15.0,White Hispanic
+1578,69.0,Arrested,Metal,F,15.0,White Hispanic
+1579,69.0,Arrested,Metal,M,15.0,Black
+1580,69.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+1581,69.0,Child in Crisis,No Restraints,M,10.0,Black
+1582,69.0,Juvenile Report,No Restraints,M,14.0,Black
+1583,69.0,Mitigated,No Restraints,M,,Black
+1584,69.0,Mitigated,No Restraints,M,12.0,Black
+1585,69.0,Mitigated,No Restraints,M,,BLACK
+1586,69.0,Mitigated,No Restraints,M,15.0,Black
+1587,69.0,Mitigated,No Restraints,F,16.0,Black
+1588,69.0,Mitigated,No Restraints,F,18.0,Black
+1589,69.0,Mitigated,No Restraints,M,,Black
+1590,69.0,Mitigated,No Restraints,M,14.0,Black
+1591,69.0,Mitigated,No Restraints,F,18.0,Black
+1592,69.0,Mitigated,No Restraints,F,18.0,Black
+1593,69.0,Mitigated,No Restraints,F,16.0,Black
+1594,69.0,Mitigated,No Restraints,F,13.0,Black
+1595,69.0,Mitigated,No Restraints,M,18.0,Black
+1596,69.0,Mitigated,No Restraints,M,16.0,Black
+1597,69.0,Mitigated,No Restraints,M,8.0,Black
+1598,69.0,Mitigated,No Restraints,M,9.0,White Hispanic
+1599,69.0,Mitigated,No Restraints,M,11.0,Black
+1600,69.0,Mitigated,No Restraints,F,13.0,Black
+1601,69.0,Mitigated,No Restraints,M,13.0,Black
+1602,69.0,Mitigated,No Restraints,F,17.0,Black
+1603,69.0,Mitigated,No Restraints,M,16.0,Black
+1604,69.0,Mitigated,No Restraints,M,16.0,Arabic
+1605,69.0,Mitigated,No Restraints,F,14.0,White Hispanic
+1606,69.0,PINS / Warrant,No Restraints,M,16.0,Black
+1607,70.0,Arrested,Metal,M,14.0,Black
+1608,70.0,Arrested,Metal,M,47.0,Black
+1609,70.0,Arrested,Metal,M,17.0,Black
+1610,70.0,Arrested,Metal,M,16.0,Black
+1611,70.0,Child in Crisis,No Restraints,F,14.0,Asian/Pacific Isl.
+1612,70.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+1613,70.0,Child in Crisis,No Restraints,M,16.0,Asian/Pacific Isl.
+1614,70.0,Child in Crisis,No Restraints,F,16.0,Black
+1615,70.0,Child in Crisis,No Restraints,M,16.0,Black
+1616,70.0,Child in Crisis,No Restraints,F,16.0,Asian/Pacific Isl.
+1617,70.0,Child in Crisis,No Restraints,F,11.0,White
+1618,70.0,Child in Crisis,No Restraints,F,16.0,Black
+1619,70.0,Juvenile Report,No Restraints,F,15.0,Black
+1620,70.0,Juvenile Report,No Restraints,M,14.0,Black
+1621,70.0,Juvenile Report,No Restraints,F,14.0,Black Hispanic
+1622,70.0,Juvenile Report,No Restraints,M,15.0,Black Hispanic
+1623,70.0,Juvenile Report,No Restraints,F,16.0,Black Hispanic
+1624,70.0,Juvenile Report,Metal,F,16.0,Black
+1625,70.0,Mitigated,No Restraints,M,17.0,Asian/Pacific Isl.
+1626,70.0,Mitigated,No Restraints,M,16.0,Black
+1627,70.0,Mitigated,No Restraints,F,17.0,Black
+1628,70.0,Mitigated,No Restraints,F,15.0,Black
+1629,70.0,Mitigated,No Restraints,M,18.0,Arabic
+1630,70.0,Mitigated,No Restraints,M,18.0,Arabic
+1631,70.0,Mitigated,No Restraints,M,15.0,Black
+1632,70.0,Mitigated,No Restraints,F,11.0,White
+1633,70.0,Mitigated,No Restraints,M,16.0,Arabic
+1634,70.0,Mitigated,No Restraints,M,15.0,White Hispanic
+1635,70.0,Mitigated,No Restraints,F,13.0,Black
+1636,70.0,Mitigated,No Restraints,M,14.0,Black
+1637,70.0,Mitigated,No Restraints,M,13.0,Arabic
+1638,70.0,Mitigated,No Restraints,M,17.0,Black
+1639,70.0,Mitigated,No Restraints,M,16.0,Black
+1640,70.0,Mitigated,No Restraints,M,19.0,Black
+1641,70.0,Mitigated,No Restraints,M,17.0,Black
+1642,70.0,Mitigated,No Restraints,F,,Unknown
+1643,70.0,Mitigated,No Restraints,F,,Unknown
+1644,70.0,Mitigated,No Restraints,F,,Unknown
+1645,70.0,Mitigated,No Restraints,F,,Unknown
+1646,70.0,Mitigated,No Restraints,F,,Unknown
+1647,70.0,Mitigated,No Restraints,F,,Unknown
+1648,70.0,Mitigated,No Restraints,F,,Unknown
+1649,70.0,Mitigated,No Restraints,F,15.0,Unknown
+1650,70.0,Mitigated,No Restraints,F,,Unknown
+1651,70.0,Mitigated,No Restraints,F,,Unknown
+1652,70.0,Mitigated,No Restraints,F,,Unknown
+1653,70.0,Mitigated,No Restraints,F,,Unknown
+1654,70.0,Mitigated,No Restraints,F,16.0,Black
+1655,70.0,Mitigated,No Restraints,F,15.0,Black
+1656,70.0,Mitigated,No Restraints,M,16.0,Black
+1657,71.0,Arrested,Metal,F,37.0,Black Hispanic
+1658,71.0,Child in Crisis,No Restraints,M,7.0,Black
+1659,71.0,Child in Crisis,No Restraints,M,14.0,Black
+1660,71.0,Child in Crisis,No Restraints,M,7.0,Black
+1661,71.0,Child in Crisis,No Restraints,F,16.0,Black
+1662,71.0,Child in Crisis,Metal,F,17.0,Black
+1663,71.0,Child in Crisis,No Restraints,F,15.0,Black
+1664,71.0,Child in Crisis,No Restraints,M,7.0,Black
+1665,71.0,Child in Crisis,No Restraints,M,5.0,Black
+1666,71.0,Child in Crisis,No Restraints,F,12.0,Black
+1667,71.0,Child in Crisis,No Restraints,F,16.0,Black
+1668,71.0,Child in Crisis,No Restraints,F,14.0,Black
+1669,71.0,Child in Crisis,No Restraints,F,12.0,Black
+1670,71.0,Juvenile Report,Metal,F,13.0,Black
+1671,71.0,Juvenile Report,Metal,F,13.0,Black
+1672,71.0,Juvenile Report,No Restraints,M,16.0,Black
+1673,71.0,Juvenile Report,No Restraints,F,15.0,Black
+1674,71.0,Juvenile Report,No Restraints,F,17.0,Black
+1675,71.0,Mitigated,No Restraints,F,17.0,Black
+1676,71.0,Mitigated,No Restraints,F,17.0,Black
+1677,71.0,Mitigated,No Restraints,M,17.0,Black
+1678,71.0,Mitigated,No Restraints,M,9.0,Black
+1679,71.0,Mitigated,No Restraints,M,,Black
+1680,71.0,Mitigated,Metal,M,14.0,Black
+1681,71.0,Mitigated,No Restraints,F,15.0,Black
+1682,71.0,Mitigated,No Restraints,F,15.0,Black
+1683,71.0,Mitigated,No Restraints,F,15.0,Black
+1684,71.0,Mitigated,No Restraints,F,14.0,Black
+1685,71.0,Mitigated,No Restraints,F,14.0,Black
+1686,71.0,Mitigated,No Restraints,F,,White Hispanic
+1687,71.0,Mitigated,No Restraints,F,15.0,Black
+1688,71.0,Mitigated,No Restraints,F,15.0,Black
+1689,71.0,Mitigated,No Restraints,F,15.0,Black
+1690,71.0,Mitigated,No Restraints,M,13.0,Black
+1691,71.0,Mitigated,No Restraints,M,,Black
+1692,71.0,Mitigated,No Restraints,F,15.0,Black
+1693,71.0,Mitigated,No Restraints,F,17.0,Black
+1694,71.0,Mitigated,No Restraints,F,17.0,Black
+1695,71.0,Mitigated,No Restraints,F,16.0,Black
+1696,71.0,Mitigated,No Restraints,F,16.0,Black
+1697,71.0,Mitigated,No Restraints,F,16.0,Black
+1698,71.0,Mitigated,No Restraints,F,16.0,Black
+1699,71.0,Mitigated,No Restraints,F,16.0,Black
+1700,71.0,Mitigated,No Restraints,F,16.0,Black
+1701,71.0,Mitigated,No Restraints,F,15.0,Black Hispanic
+1702,71.0,Mitigated,No Restraints,F,16.0,Black
+1703,71.0,Mitigated,No Restraints,F,16.0,Black
+1704,71.0,Mitigated,No Restraints,M,17.0,Black
+1705,71.0,Mitigated,No Restraints,M,16.0,Black
+1706,72.0,Arrested,Metal,M,14.0,Arabic
+1707,72.0,Arrested,Metal,M,21.0,White Hispanic
+1708,72.0,Arrested,Metal,M,19.0,Black
+1709,72.0,Arrested,Metal,M,16.0,Black
+1710,72.0,Arrested,Metal,M,14.0,Black
+1711,72.0,Child in Crisis,No Restraints,M,10.0,Black
+1712,72.0,Child in Crisis,No Restraints,F,15.0,Black Hispanic
+1713,72.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+1714,72.0,Child in Crisis,No Restraints,M,16.0,White Hispanic
+1715,72.0,Child in Crisis,No Restraints,F,15.0,Black Hispanic
+1716,72.0,Child in Crisis,Metal,M,19.0,Black
+1717,72.0,Child in Crisis,No Restraints,F,19.0,Black
+1718,72.0,Child in Crisis,No Restraints,M,17.0,Black Hispanic
+1719,72.0,Child in Crisis,No Restraints,M,14.0,East Indian
+1720,72.0,Child in Crisis,No Restraints,M,9.0,Black
+1721,72.0,Child in Crisis,No Restraints,M,16.0,Black
+1722,72.0,Juvenile Report,No Restraints,M,13.0,Black Hispanic
+1723,72.0,Mitigated,No Restraints,M,14.0,White Hispanic
+1724,72.0,Mitigated,No Restraints,F,16.0,Black
+1725,72.0,Mitigated,No Restraints,F,19.0,Black
+1726,72.0,Mitigated,No Restraints,M,15.0,Black
+1727,72.0,Mitigated,No Restraints,M,19.0,Black
+1728,72.0,Mitigated,No Restraints,M,5.0,White Hispanic
+1729,72.0,Mitigated,No Restraints,F,10.0,Black Hispanic
+1730,72.0,Mitigated,No Restraints,F,17.0,White Hispanic
+1731,72.0,Mitigated,No Restraints,F,16.0,Black Hispanic
+1732,72.0,Mitigated,No Restraints,M,20.0,Black
+1733,72.0,Mitigated,No Restraints,F,15.0,White Hispanic
+1734,72.0,Mitigated,No Restraints,F,16.0,Black Hispanic
+1735,72.0,Mitigated,No Restraints,F,13.0,Black
+1736,72.0,Mitigated,No Restraints,F,16.0,Black
+1737,72.0,Mitigated,No Restraints,M,17.0,Black
+1738,72.0,Mitigated,No Restraints,F,16.0,Black
+1739,73.0,Arrested,Metal,F,32.0,Black
+1740,73.0,Arrested,Metal,F,31.0,Black
+1741,73.0,Child in Crisis,No Restraints,M,7.0,Black
+1742,73.0,Child in Crisis,No Restraints,M,10.0,Black
+1743,73.0,Child in Crisis,No Restraints,M,7.0,Black
+1744,73.0,Child in Crisis,No Restraints,M,17.0,Black
+1745,73.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+1746,73.0,Child in Crisis,No Restraints,M,7.0,Black
+1747,73.0,Child in Crisis,No Restraints,M,11.0,Black
+1748,73.0,Child in Crisis,No Restraints,M,7.0,Black
+1749,73.0,Child in Crisis,Metal,F,12.0,Black
+1750,73.0,Child in Crisis,Metal,F,15.0,Black
+1751,73.0,Child in Crisis,No Restraints,F,13.0,Black
+1752,73.0,Child in Crisis,No Restraints,M,17.0,Black
+1753,73.0,Child in Crisis,No Restraints,F,6.0,Black
+1754,73.0,Child in Crisis,No Restraints,F,6.0,Black
+1755,73.0,Child in Crisis,No Restraints,M,9.0,Black
+1756,73.0,Child in Crisis,No Restraints,F,19.0,Black
+1757,73.0,Child in Crisis,No Restraints,F,11.0,Black
+1758,73.0,Juvenile Report,No Restraints,M,14.0,Black
+1759,73.0,Juvenile Report,No Restraints,M,17.0,Black
+1760,73.0,Juvenile Report,No Restraints,M,17.0,Black
+1761,73.0,Juvenile Report,No Restraints,F,17.0,Black
+1762,73.0,Mitigated,No Restraints,F,18.0,Black
+1763,73.0,Mitigated,No Restraints,M,18.0,Black
+1764,73.0,Mitigated,No Restraints,M,30.0,Black
+1765,73.0,Mitigated,No Restraints,M,54.0,Black
+1766,73.0,Mitigated,No Restraints,M,11.0,Black
+1767,73.0,Mitigated,No Restraints,M,12.0,Black
+1768,73.0,Mitigated,No Restraints,M,9.0,Black Hispanic
+1769,73.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+1770,73.0,Mitigated,No Restraints,F,14.0,Black
+1771,73.0,Mitigated,No Restraints,M,14.0,Black
+1772,73.0,Mitigated,No Restraints,M,15.0,Black
+1773,73.0,Mitigated,No Restraints,M,13.0,Black
+1774,73.0,Mitigated,No Restraints,M,11.0,Black
+1775,73.0,Mitigated,No Restraints,M,16.0,Black
+1776,73.0,Mitigated,No Restraints,F,14.0,Black
+1777,73.0,Mitigated,No Restraints,M,17.0,Black
+1778,73.0,Mitigated,No Restraints,F,15.0,Black
+1779,73.0,Mitigated,No Restraints,F,16.0,Black
+1780,73.0,Mitigated,No Restraints,M,12.0,Black
+1781,73.0,Mitigated,No Restraints,F,12.0,Black
+1782,73.0,Mitigated,No Restraints,M,16.0,Black
+1783,73.0,Mitigated,No Restraints,M,10.0,Black
+1784,73.0,Mitigated,No Restraints,F,,Black
+1785,73.0,Mitigated,No Restraints,M,13.0,Black
+1786,73.0,Mitigated,No Restraints,F,17.0,Black
+1787,73.0,Mitigated,No Restraints,M,38.0,Black
+1788,73.0,Mitigated,No Restraints,M,16.0,Black
+1789,73.0,Mitigated,No Restraints,M,14.0,Black
+1790,73.0,Mitigated,No Restraints,F,11.0,Black
+1791,73.0,Mitigated,No Restraints,F,15.0,Black
+1792,73.0,Mitigated,No Restraints,F,15.0,Black
+1793,73.0,Mitigated,No Restraints,M,17.0,Black
+1794,73.0,Mitigated,No Restraints,M,14.0,White
+1795,73.0,Mitigated,No Restraints,M,12.0,Black
+1796,73.0,Mitigated,No Restraints,M,12.0,Black
+1797,73.0,Mitigated,No Restraints,F,24.0,Black
+1798,73.0,Mitigated,No Restraints,M,20.0,Black
+1799,73.0,Mitigated,No Restraints,F,13.0,White
+1800,73.0,Mitigated,No Restraints,F,16.0,Black
+1801,73.0,Mitigated,No Restraints,M,16.0,Black
+1802,73.0,Mitigated,No Restraints,F,16.0,Black
+1803,73.0,Mitigated,No Restraints,F,18.0,Black
+1804,73.0,Mitigated,No Restraints,F,16.0,Black
+1805,73.0,Mitigated,No Restraints,F,17.0,Black Hispanic
+1806,73.0,Mitigated,No Restraints,F,17.0,Black Hispanic
+1807,73.0,Mitigated,No Restraints,M,16.0,Black
+1808,73.0,Mitigated,No Restraints,M,17.0,Black
+1809,73.0,Mitigated,No Restraints,M,17.0,Black
+1810,73.0,Mitigated,No Restraints,F,15.0,Black
+1811,73.0,Mitigated,No Restraints,M,18.0,Asian/Pacific Isl.
+1812,73.0,Mitigated,No Restraints,M,12.0,Black
+1813,73.0,Mitigated,No Restraints,M,16.0,Black
+1814,73.0,Mitigated,No Restraints,M,17.0,Black
+1815,73.0,Summons,No Restraints,F,18.0,Black
+1816,73.0,Summons,No Restraints,M,20.0,Black
+1817,73.0,Summons,No Restraints,M,19.0,Black
+1818,75.0,Arrested,Metal,M,14.0,Black
+1819,75.0,Arrested,Metal,M,14.0,Black
+1820,75.0,Arrested,Metal,M,15.0,Black
+1821,75.0,Arrested,Metal,M,15.0,Black
+1822,75.0,Arrested,No Restraints,M,16.0,Black
+1823,75.0,Arrested,Metal,M,16.0,Black
+1824,75.0,Arrested,Metal,M,16.0,Black
+1825,75.0,Arrested,No Restraints,M,14.0,Black
+1826,75.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+1827,75.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+1828,75.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+1829,75.0,Child in Crisis,No Restraints,M,19.0,Black
+1830,75.0,Child in Crisis,No Restraints,M,13.0,Black
+1831,75.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+1832,75.0,Child in Crisis,No Restraints,M,5.0,Black
+1833,75.0,Child in Crisis,No Restraints,F,6.0,Black
+1834,75.0,Child in Crisis,No Restraints,M,11.0,Black
+1835,75.0,Child in Crisis,No Restraints,F,14.0,Black
+1836,75.0,Child in Crisis,Velcro,F,12.0,Black Hispanic
+1837,75.0,Child in Crisis,No Restraints,M,17.0,Black
+1838,75.0,Child in Crisis,No Restraints,M,8.0,Black
+1839,75.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+1840,75.0,Child in Crisis,No Restraints,F,14.0,Black
+1841,75.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+1842,75.0,Child in Crisis,No Restraints,M,7.0,Black
+1843,75.0,Child in Crisis,No Restraints,F,8.0,Black
+1844,75.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+1845,75.0,Child in Crisis,No Restraints,M,12.0,Black
+1846,75.0,Child in Crisis,No Restraints,M,5.0,White Hispanic
+1847,75.0,Child in Crisis,Metal,M,14.0,Black
+1848,75.0,Child in Crisis,No Restraints,F,13.0,Black
+1849,75.0,Child in Crisis,Metal,F,14.0,White Hispanic
+1850,75.0,Child in Crisis,No Restraints,M,12.0,Black
+1851,75.0,Child in Crisis,No Restraints,M,8.0,Black
+1852,75.0,Child in Crisis,No Restraints,M,13.0,Black
+1853,75.0,Child in Crisis,Velcro,M,8.0,Black
+1854,75.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+1855,75.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+1856,75.0,Child in Crisis,No Restraints,F,10.0,Black
+1857,75.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+1858,75.0,Child in Crisis,No Restraints,F,13.0,Black
+1859,75.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+1860,75.0,Child in Crisis,Metal,M,15.0,Black Hispanic
+1861,75.0,Child in Crisis,No Restraints,F,10.0,Black
+1862,75.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+1863,75.0,Child in Crisis,No Restraints,M,13.0,Black
+1864,75.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+1865,75.0,Child in Crisis,No Restraints,M,14.0,Black
+1866,75.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+1867,75.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+1868,75.0,Child in Crisis,No Restraints,M,16.0,Black
+1869,75.0,Child in Crisis,No Restraints,M,5.0,Black
+1870,75.0,Child in Crisis,No Restraints,M,10.0,Black
+1871,75.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+1872,75.0,Child in Crisis,No Restraints,F,8.0,Black
+1873,75.0,Juvenile Report,No Restraints,M,15.0,Black
+1874,75.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+1875,75.0,Juvenile Report,No Restraints,F,17.0,Black
+1876,75.0,Juvenile Report,No Restraints,F,13.0,Black Hispanic
+1877,75.0,Juvenile Report,No Restraints,F,12.0,Black
+1878,75.0,Juvenile Report,No Restraints,M,13.0,Black
+1879,75.0,Juvenile Report,No Restraints,M,15.0,Black
+1880,75.0,Juvenile Report,No Restraints,M,14.0,Black
+1881,75.0,Juvenile Report,Metal,F,14.0,Black
+1882,75.0,Juvenile Report,Metal,M,15.0,Black
+1883,75.0,Juvenile Report,No Restraints,M,16.0,Black
+1884,75.0,Juvenile Report,No Restraints,M,18.0,Black Hispanic
+1885,75.0,Juvenile Report,No Restraints,M,12.0,White Hispanic
+1886,75.0,Juvenile Report,No Restraints,F,15.0,Black
+1887,75.0,Juvenile Report,No Restraints,F,17.0,Black Hispanic
+1888,75.0,Juvenile Report,No Restraints,M,15.0,Black
+1889,75.0,Juvenile Report,No Restraints,M,15.0,Black
+1890,75.0,Mitigated,No Restraints,F,16.0,Black
+1891,75.0,Mitigated,No Restraints,M,13.0,White Hispanic
+1892,75.0,Mitigated,No Restraints,M,14.0,Black
+1893,75.0,Mitigated,No Restraints,M,17.0,Black
+1894,75.0,Mitigated,No Restraints,M,17.0,Black
+1895,75.0,Mitigated,No Restraints,M,17.0,Black
+1896,75.0,Mitigated,No Restraints,M,14.0,Black
+1897,75.0,Mitigated,No Restraints,M,17.0,Black
+1898,75.0,Mitigated,No Restraints,M,17.0,Black
+1899,75.0,Mitigated,No Restraints,M,16.0,Black
+1900,75.0,Mitigated,No Restraints,M,17.0,Black
+1901,75.0,Mitigated,No Restraints,M,18.0,Black
+1902,75.0,Mitigated,No Restraints,M,16.0,Black
+1903,75.0,Mitigated,No Restraints,M,17.0,Black
+1904,75.0,Mitigated,No Restraints,M,16.0,Black
+1905,75.0,Mitigated,No Restraints,M,18.0,Black
+1906,75.0,Mitigated,No Restraints,M,19.0,Black Hispanic
+1907,75.0,Mitigated,No Restraints,M,10.0,Black
+1908,75.0,Mitigated,No Restraints,M,17.0,Black
+1909,75.0,Mitigated,No Restraints,F,13.0,White Hispanic
+1910,75.0,Mitigated,No Restraints,F,14.0,White Hispanic
+1911,75.0,Mitigated,No Restraints,F,14.0,White Hispanic
+1912,75.0,Mitigated,No Restraints,F,,White Hispanic
+1913,75.0,Mitigated,No Restraints,M,15.0,Black Hispanic
+1914,75.0,Mitigated,No Restraints,M,,Black
+1915,75.0,Mitigated,No Restraints,M,15.0,Black Hispanic
+1916,75.0,Mitigated,No Restraints,M,15.0,Black
+1917,75.0,Mitigated,No Restraints,M,17.0,Black Hispanic
+1918,75.0,Mitigated,No Restraints,M,,Black
+1919,75.0,Mitigated,No Restraints,F,14.0,Black
+1920,75.0,Mitigated,No Restraints,F,14.0,Black
+1921,75.0,Mitigated,No Restraints,M,14.0,Black
+1922,75.0,Mitigated,No Restraints,M,14.0,Black
+1923,75.0,Mitigated,No Restraints,M,13.0,Black
+1924,75.0,Mitigated,No Restraints,M,12.0,Black
+1925,75.0,Mitigated,No Restraints,M,5.0,Black
+1926,75.0,Mitigated,No Restraints,M,16.0,Black
+1927,75.0,Mitigated,No Restraints,M,16.0,Black
+1928,75.0,Mitigated,No Restraints,M,16.0,White Hispanic
+1929,75.0,Mitigated,Metal,M,17.0,Black
+1930,75.0,Mitigated,No Restraints,M,10.0,Black
+1931,75.0,Mitigated,No Restraints,M,17.0,Black
+1932,75.0,Mitigated,No Restraints,M,15.0,Black
+1933,75.0,Mitigated,No Restraints,F,16.0,Black
+1934,75.0,Mitigated,No Restraints,M,15.0,Asian/Pacific Isl.
+1935,75.0,Mitigated,No Restraints,M,16.0,White Hispanic
+1936,75.0,Mitigated,No Restraints,F,17.0,Black
+1937,75.0,Mitigated,Metal,F,18.0,White Hispanic
+1938,75.0,Mitigated,No Restraints,F,13.0,Black
+1939,75.0,Mitigated,No Restraints,F,17.0,Black
+1940,75.0,Mitigated,No Restraints,M,10.0,Black
+1941,75.0,Mitigated,No Restraints,F,,Black
+1942,75.0,Mitigated,No Restraints,F,14.0,Black
+1943,75.0,Mitigated,No Restraints,F,15.0,Black
+1944,75.0,Mitigated,No Restraints,F,15.0,Black
+1945,75.0,Mitigated,No Restraints,F,15.0,Black
+1946,75.0,Mitigated,No Restraints,M,17.0,Black
+1947,75.0,Mitigated,No Restraints,M,15.0,Black
+1948,75.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+1949,75.0,Mitigated,No Restraints,M,14.0,Black
+1950,75.0,Mitigated,No Restraints,M,13.0,Black
+1951,75.0,Mitigated,No Restraints,F,17.0,Black Hispanic
+1952,75.0,Mitigated,No Restraints,F,16.0,Black
+1953,75.0,Mitigated,No Restraints,M,15.0,Black
+1954,75.0,Mitigated,No Restraints,F,14.0,Black Hispanic
+1955,75.0,Mitigated,No Restraints,M,17.0,White Hispanic
+1956,75.0,Mitigated,No Restraints,M,16.0,Black
+1957,75.0,Mitigated,No Restraints,F,16.0,Black Hispanic
+1958,75.0,Mitigated,No Restraints,F,15.0,White Hispanic
+1959,75.0,Mitigated,No Restraints,F,14.0,White Hispanic
+1960,75.0,Mitigated,No Restraints,F,18.0,Black
+1961,75.0,Mitigated,No Restraints,F,15.0,Black
+1962,75.0,Mitigated,No Restraints,F,14.0,White Hispanic
+1963,75.0,Mitigated,No Restraints,F,14.0,White Hispanic
+1964,75.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+1965,75.0,Mitigated,No Restraints,F,18.0,White Hispanic
+1966,75.0,Mitigated,No Restraints,M,15.0,Black
+1967,75.0,Mitigated,No Restraints,M,15.0,Black Hispanic
+1968,75.0,Mitigated,No Restraints,M,14.0,Black
+1969,75.0,Mitigated,No Restraints,M,14.0,Black
+1970,75.0,Mitigated,No Restraints,M,15.0,Black
+1971,75.0,Mitigated,No Restraints,M,17.0,Black Hispanic
+1972,75.0,Mitigated,No Restraints,M,12.0,Black
+1973,75.0,Mitigated,No Restraints,M,17.0,Black
+1974,75.0,Mitigated,No Restraints,M,16.0,Black
+1975,75.0,Mitigated,No Restraints,M,17.0,Black
+1976,75.0,Mitigated,No Restraints,M,16.0,Black
+1977,75.0,Mitigated,No Restraints,M,17.0,Black
+1978,75.0,Mitigated,No Restraints,M,17.0,Black
+1979,75.0,Mitigated,No Restraints,M,15.0,Black
+1980,75.0,Mitigated,No Restraints,M,16.0,Black
+1981,75.0,Mitigated,No Restraints,M,17.0,Black
+1982,75.0,Mitigated,No Restraints,F,,Asian/Pacific Isl.
+1983,75.0,Mitigated,No Restraints,M,17.0,Black
+1984,75.0,Mitigated,No Restraints,M,16.0,Black
+1985,75.0,Mitigated,No Restraints,M,17.0,Black
+1986,75.0,Mitigated,No Restraints,F,18.0,Black
+1987,75.0,Mitigated,No Restraints,F,16.0,Black Hispanic
+1988,75.0,Mitigated,No Restraints,M,13.0,White Hispanic
+1989,75.0,Mitigated,No Restraints,M,11.0,White Hispanic
+1990,75.0,Mitigated,No Restraints,M,11.0,White Hispanic
+1991,75.0,Mitigated,No Restraints,F,15.0,Black
+1992,75.0,Mitigated,No Restraints,M,16.0,Black
+1993,75.0,Mitigated,No Restraints,M,14.0,Black
+1994,75.0,Mitigated,No Restraints,F,14.0,Black
+1995,75.0,Mitigated,No Restraints,F,16.0,Black
+1996,75.0,Mitigated,No Restraints,F,15.0,Black
+1997,75.0,Mitigated,No Restraints,M,16.0,White Hispanic
+1998,75.0,Mitigated,No Restraints,M,16.0,Black
+1999,75.0,Mitigated,No Restraints,M,16.0,Black
+2000,75.0,Mitigated,No Restraints,F,17.0,Black
+2001,75.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2002,75.0,Mitigated,No Restraints,M,13.0,Black
+2003,75.0,Mitigated,No Restraints,F,13.0,Black
+2004,75.0,Mitigated,No Restraints,F,16.0,Black
+2005,75.0,Mitigated,No Restraints,F,13.0,Black
+2006,75.0,Mitigated,No Restraints,F,28.0,Black
+2007,75.0,Mitigated,No Restraints,F,17.0,Black
+2008,75.0,Mitigated,No Restraints,M,16.0,Black
+2009,75.0,Mitigated,No Restraints,M,17.0,Black
+2010,75.0,Summons,Metal,M,20.0,Black Hispanic
+2011,75.0,Summons,Metal,F,23.0,Black
+2012,75.0,Summons,Metal,F,22.0,Black
+2013,75.0,Summons,Metal,F,22.0,Black
+2014,75.0,Summons,No Restraints,M,19.0,Black Hispanic
+2015,76.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+2016,76.0,Child in Crisis,No Restraints,F,7.0,White Hispanic
+2017,76.0,Child in Crisis,Metal,F,18.0,Black Hispanic
+2018,76.0,Child in Crisis,No Restraints,F,18.0,White Hispanic
+2019,76.0,Child in Crisis,Metal,F,14.0,Black
+2020,76.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+2021,76.0,Juvenile Report,No Restraints,M,17.0,Black
+2022,76.0,Juvenile Report,Metal,M,17.0,Black
+2023,76.0,Juvenile Report,Metal,F,15.0,Black
+2024,76.0,Mitigated,No Restraints,M,9.0,Black Hispanic
+2025,76.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2026,76.0,Mitigated,No Restraints,F,15.0,White Hispanic
+2027,76.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2028,76.0,Mitigated,No Restraints,F,17.0,Black
+2029,76.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2030,76.0,Mitigated,No Restraints,F,15.0,Black
+2031,76.0,Mitigated,No Restraints,F,16.0,Black
+2032,76.0,Mitigated,No Restraints,M,16.0,Black
+2033,76.0,Mitigated,No Restraints,F,16.0,Black
+2034,77.0,Child in Crisis,No Restraints,F,9.0,Black
+2035,77.0,Child in Crisis,No Restraints,F,7.0,Black
+2036,77.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+2037,77.0,Juvenile Report,No Restraints,M,14.0,Black
+2038,77.0,Juvenile Report,No Restraints,M,13.0,Black
+2039,77.0,Juvenile Report,Metal,M,14.0,Black
+2040,77.0,Mitigated,No Restraints,F,,Black
+2041,77.0,Mitigated,No Restraints,M,13.0,Black
+2042,77.0,Mitigated,No Restraints,M,11.0,Black
+2043,77.0,Mitigated,No Restraints,F,12.0,Black
+2044,78.0,Arrested,Metal,M,14.0,White Hispanic
+2045,78.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+2046,78.0,Child in Crisis,Metal,F,16.0,Black
+2047,78.0,Juvenile Report,No Restraints,M,16.0,Black
+2048,78.0,Juvenile Report,No Restraints,M,16.0,White
+2049,78.0,Mitigated,No Restraints,M,11.0,Black
+2050,78.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2051,78.0,Mitigated,No Restraints,M,,Black
+2052,78.0,Mitigated,No Restraints,F,15.0,Black
+2053,78.0,Mitigated,No Restraints,F,15.0,Black
+2054,78.0,Mitigated,No Restraints,F,15.0,Black
+2055,78.0,Mitigated,No Restraints,F,16.0,Black
+2056,78.0,Mitigated,No Restraints,F,17.0,Black
+2057,78.0,Mitigated,No Restraints,F,15.0,Black
+2058,78.0,Mitigated,No Restraints,F,16.0,East Indian
+2059,78.0,Mitigated,No Restraints,F,17.0,Black
+2060,78.0,Mitigated,No Restraints,F,17.0,Black
+2061,78.0,Mitigated,No Restraints,F,16.0,Black
+2062,78.0,Mitigated,No Restraints,F,17.0,Black
+2063,78.0,Mitigated,No Restraints,F,16.0,Black
+2064,78.0,Mitigated,No Restraints,M,16.0,Black
+2065,78.0,Mitigated,No Restraints,F,17.0,Black
+2066,78.0,Mitigated,No Restraints,M,,Unknown
+2067,78.0,Mitigated,No Restraints,F,15.0,Black Hispanic
+2068,78.0,Mitigated,No Restraints,M,9.0,Black
+2069,78.0,Mitigated,No Restraints,F,16.0,Black
+2070,78.0,Mitigated,No Restraints,F,16.0,Black
+2071,78.0,Mitigated,No Restraints,F,16.0,Black
+2072,78.0,Mitigated,No Restraints,M,16.0,Black
+2073,78.0,Mitigated,No Restraints,F,15.0,Black
+2074,78.0,Mitigated,No Restraints,F,16.0,Black
+2075,78.0,Mitigated,No Restraints,F,12.0,White Hispanic
+2076,78.0,Mitigated,No Restraints,F,12.0,White Hispanic
+2077,78.0,Mitigated,No Restraints,F,14.0,Black
+2078,78.0,Mitigated,No Restraints,M,13.0,Black
+2079,78.0,Mitigated,No Restraints,F,16.0,Black
+2080,78.0,Mitigated,No Restraints,M,16.0,Black
+2081,78.0,Mitigated,No Restraints,M,17.0,Black
+2082,79.0,Arrested,Metal,M,17.0,Black
+2083,79.0,Arrested,Metal,M,17.0,Black
+2084,79.0,Arrested,No Restraints,M,10.0,Black
+2085,79.0,Arrested,Metal,F,34.0,Black
+2086,79.0,Arrested,Metal,M,18.0,Black Hispanic
+2087,79.0,Child in Crisis,Metal,M,16.0,Black
+2088,79.0,Child in Crisis,No Restraints,M,12.0,Black Hispanic
+2089,79.0,Child in Crisis,No Restraints,F,18.0,Black
+2090,79.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+2091,79.0,Child in Crisis,No Restraints,M,14.0,Black
+2092,79.0,Child in Crisis,No Restraints,F,12.0,Black
+2093,79.0,Child in Crisis,No Restraints,M,12.0,Black
+2094,79.0,Child in Crisis,No Restraints,M,14.0,Black
+2095,79.0,Child in Crisis,No Restraints,M,10.0,Black
+2096,79.0,Child in Crisis,No Restraints,M,8.0,Black
+2097,79.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+2098,79.0,Child in Crisis,No Restraints,M,8.0,Black Hispanic
+2099,79.0,Child in Crisis,No Restraints,M,14.0,Black
+2100,79.0,Child in Crisis,No Restraints,F,13.0,Black
+2101,79.0,Child in Crisis,Metal,F,15.0,Black
+2102,79.0,Juvenile Report,No Restraints,M,14.0,Black
+2103,79.0,Juvenile Report,No Restraints,F,17.0,Black
+2104,79.0,Mitigated,No Restraints,F,12.0,Black
+2105,79.0,Mitigated,No Restraints,M,19.0,Black
+2106,79.0,Mitigated,No Restraints,M,17.0,Black
+2107,79.0,Mitigated,No Restraints,M,18.0,Black
+2108,79.0,Mitigated,No Restraints,M,18.0,Black
+2109,79.0,Mitigated,No Restraints,M,16.0,Black
+2110,79.0,Mitigated,No Restraints,M,18.0,Black
+2111,79.0,Mitigated,No Restraints,M,16.0,Black
+2112,79.0,Mitigated,No Restraints,M,28.0,White Hispanic
+2113,79.0,Mitigated,No Restraints,M,6.0,Black
+2114,79.0,Mitigated,No Restraints,F,18.0,Black
+2115,79.0,Mitigated,No Restraints,F,17.0,Black
+2116,79.0,Mitigated,No Restraints,F,16.0,Black
+2117,79.0,Mitigated,No Restraints,F,16.0,Black
+2118,79.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2119,79.0,Mitigated,No Restraints,M,17.0,Black
+2120,79.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+2121,79.0,Mitigated,No Restraints,M,11.0,Black
+2122,79.0,Mitigated,No Restraints,M,12.0,Black
+2123,79.0,Mitigated,No Restraints,M,14.0,Black
+2124,79.0,Mitigated,No Restraints,M,19.0,Black
+2125,79.0,Summons,No Restraints,F,18.0,Black
+2126,81.0,Arrested,Metal,M,20.0,Black
+2127,81.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+2128,81.0,Child in Crisis,No Restraints,M,11.0,Black
+2129,81.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+2130,81.0,Child in Crisis,No Restraints,M,7.0,Black
+2131,81.0,Child in Crisis,No Restraints,F,19.0,Black
+2132,81.0,Child in Crisis,Velcro,F,10.0,Black
+2133,81.0,Juvenile Report,No Restraints,M,17.0,Black
+2134,81.0,Juvenile Report,No Restraints,M,16.0,Black
+2135,81.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+2136,81.0,Mitigated,No Restraints,M,14.0,Black
+2137,81.0,Mitigated,No Restraints,M,18.0,White Hispanic
+2138,81.0,Mitigated,Metal,M,16.0,Black
+2139,81.0,Mitigated,No Restraints,M,18.0,Black
+2140,81.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2141,81.0,Mitigated,No Restraints,F,17.0,Black
+2142,81.0,Mitigated,Metal,M,17.0,Black
+2143,81.0,Mitigated,No Restraints,M,17.0,White Hispanic
+2144,81.0,Summons,No Restraints,F,18.0,Black Hispanic
+2145,81.0,Summons,No Restraints,M,19.0,Black
+2146,81.0,Summons,No Restraints,M,21.0,Black Hispanic
+2147,83.0,Arrested,No Restraints,F,12.0,Black
+2148,83.0,Child in Crisis,No Restraints,M,14.0,White Hispanic
+2149,83.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+2150,83.0,Child in Crisis,Metal,M,12.0,Black Hispanic
+2151,83.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+2152,83.0,Child in Crisis,No Restraints,M,7.0,Black Hispanic
+2153,83.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+2154,83.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+2155,83.0,Child in Crisis,No Restraints,M,10.0,Black Hispanic
+2156,83.0,Child in Crisis,No Restraints,M,8.0,Black
+2157,83.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+2158,83.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+2159,83.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+2160,83.0,Child in Crisis,No Restraints,M,14.0,Black Hispanic
+2161,83.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+2162,83.0,Child in Crisis,No Restraints,M,6.0,Black Hispanic
+2163,83.0,Child in Crisis,Metal,F,11.0,White Hispanic
+2164,83.0,Child in Crisis,No Restraints,M,18.0,White Hispanic
+2165,83.0,Juvenile Report,No Restraints,M,14.0,Black
+2166,83.0,Juvenile Report,No Restraints,M,14.0,Black
+2167,83.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+2168,83.0,Juvenile Report,Metal,F,14.0,Black
+2169,83.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+2170,83.0,Juvenile Report,No Restraints,M,13.0,Arabic
+2171,83.0,Juvenile Report,No Restraints,M,17.0,Black
+2172,83.0,Juvenile Report,No Restraints,M,15.0,Black Hispanic
+2173,83.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+2174,83.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+2175,83.0,Mitigated,No Restraints,M,14.0,Black
+2176,83.0,Mitigated,Metal,M,16.0,Black Hispanic
+2177,83.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2178,83.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2179,83.0,Mitigated,No Restraints,M,13.0,Black
+2180,83.0,Mitigated,No Restraints,M,18.0,White Hispanic
+2181,83.0,Mitigated,No Restraints,M,18.0,Black Hispanic
+2182,83.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2183,83.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2184,83.0,Mitigated,No Restraints,F,17.0,Black
+2185,83.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2186,83.0,Mitigated,No Restraints,F,17.0,Black Hispanic
+2187,83.0,Mitigated,No Restraints,F,17.0,Black Hispanic
+2188,83.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2189,83.0,Mitigated,No Restraints,M,9.0,Black Hispanic
+2190,83.0,Mitigated,No Restraints,M,17.0,White Hispanic
+2191,83.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2192,83.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2193,83.0,Mitigated,No Restraints,F,19.0,White Hispanic
+2194,83.0,Mitigated,No Restraints,M,18.0,Black
+2195,83.0,Mitigated,Metal,M,16.0,White Hispanic
+2196,83.0,Mitigated,Metal,M,14.0,Black
+2197,83.0,Mitigated,No Restraints,F,18.0,Black
+2198,83.0,Mitigated,No Restraints,F,18.0,White Hispanic
+2199,83.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2200,83.0,Mitigated,No Restraints,F,15.0,White Hispanic
+2201,83.0,Summons,No Restraints,M,19.0,Black
+2202,83.0,Summons,No Restraints,F,18.0,White Hispanic
+2203,84.0,Child in Crisis,No Restraints,M,16.0,White Hispanic
+2204,84.0,Child in Crisis,No Restraints,F,15.0,Black
+2205,84.0,Child in Crisis,No Restraints,M,10.0,Black
+2206,84.0,Child in Crisis,No Restraints,M,9.0,Black
+2207,84.0,Child in Crisis,No Restraints,F,15.0,Black
+2208,84.0,Child in Crisis,No Restraints,F,15.0,Black
+2209,84.0,Child in Crisis,No Restraints,F,15.0,Black
+2210,84.0,Child in Crisis,No Restraints,M,11.0,Black Hispanic
+2211,84.0,Child in Crisis,No Restraints,M,17.0,Black Hispanic
+2212,84.0,Child in Crisis,No Restraints,M,17.0,White
+2213,84.0,Child in Crisis,No Restraints,M,5.0,Black
+2214,84.0,Child in Crisis,No Restraints,M,6.0,Black
+2215,84.0,Child in Crisis,No Restraints,M,10.0,Black
+2216,84.0,Child in Crisis,No Restraints,M,11.0,Black
+2217,84.0,Child in Crisis,No Restraints,M,13.0,White
+2218,84.0,Juvenile Report,No Restraints,M,15.0,Black
+2219,84.0,Juvenile Report,No Restraints,M,17.0,Black
+2220,84.0,Juvenile Report,Metal,M,17.0,Black
+2221,84.0,Juvenile Report,No Restraints,M,15.0,Black
+2222,84.0,Mitigated,No Restraints,F,14.0,Black
+2223,84.0,Mitigated,No Restraints,F,14.0,Black
+2224,84.0,Mitigated,No Restraints,F,14.0,Black
+2225,84.0,Mitigated,No Restraints,M,13.0,Black
+2226,84.0,Mitigated,No Restraints,M,14.0,Black
+2227,84.0,Mitigated,No Restraints,M,14.0,Black
+2228,84.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2229,84.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2230,84.0,Mitigated,No Restraints,F,17.0,Black
+2231,84.0,Mitigated,No Restraints,F,15.0,Black
+2232,84.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+2233,84.0,Mitigated,No Restraints,M,13.0,White Hispanic
+2234,84.0,Mitigated,No Restraints,M,16.0,Black
+2235,84.0,Mitigated,No Restraints,M,11.0,Black
+2236,84.0,Mitigated,No Restraints,F,14.0,Black Hispanic
+2237,84.0,Mitigated,No Restraints,M,18.0,Black
+2238,84.0,Mitigated,No Restraints,M,17.0,Black
+2239,84.0,Mitigated,No Restraints,M,17.0,Black
+2240,84.0,Mitigated,No Restraints,F,16.0,Black
+2241,84.0,Mitigated,No Restraints,F,16.0,Black
+2242,84.0,Mitigated,No Restraints,F,17.0,Black Hispanic
+2243,84.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2244,84.0,Mitigated,No Restraints,F,14.0,Black
+2245,84.0,Mitigated,No Restraints,M,17.0,Black
+2246,84.0,Mitigated,No Restraints,F,17.0,Black
+2247,84.0,Mitigated,No Restraints,F,16.0,Black
+2248,84.0,Mitigated,No Restraints,F,19.0,Black
+2249,84.0,Mitigated,No Restraints,F,16.0,Black
+2250,84.0,Mitigated,No Restraints,F,15.0,Black
+2251,84.0,Mitigated,No Restraints,F,17.0,Black
+2252,84.0,Mitigated,Metal,F,15.0,Black
+2253,84.0,Mitigated,No Restraints,F,16.0,Black
+2254,84.0,Mitigated,No Restraints,M,17.0,Black
+2255,84.0,Mitigated,No Restraints,M,16.0,Black
+2256,88.0,Arrested,Metal,F,15.0,Black
+2257,88.0,Arrested,Metal,M,18.0,Black
+2258,88.0,Arrested,No Restraints,M,15.0,Black
+2259,88.0,Child in Crisis,No Restraints,M,7.0,White Hispanic
+2260,88.0,Child in Crisis,Metal,M,15.0,Black
+2261,88.0,Child in Crisis,No Restraints,M,8.0,Black
+2262,88.0,Child in Crisis,No Restraints,F,17.0,Black
+2263,88.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+2264,88.0,Child in Crisis,Metal,M,17.0,White Hispanic
+2265,88.0,Mitigated,No Restraints,M,16.0,Black
+2266,88.0,Mitigated,No Restraints,M,12.0,Black
+2267,88.0,Mitigated,No Restraints,M,13.0,Black
+2268,88.0,Mitigated,No Restraints,M,13.0,Black
+2269,88.0,Mitigated,Metal,M,15.0,Black
+2270,88.0,Mitigated,No Restraints,M,15.0,Black
+2271,88.0,Mitigated,No Restraints,M,18.0,Black
+2272,88.0,Mitigated,No Restraints,F,15.0,Black
+2273,88.0,Mitigated,No Restraints,M,14.0,Black
+2274,88.0,Mitigated,No Restraints,M,17.0,White Hispanic
+2275,88.0,Mitigated,No Restraints,M,16.0,Black
+2276,88.0,Mitigated,No Restraints,F,16.0,Black
+2277,88.0,PINS / Warrant,No Restraints,F,16.0,East Indian
+2278,90.0,Arrested,Metal,M,18.0,Black
+2279,90.0,Child in Crisis,No Restraints,F,13.0,Black
+2280,90.0,Child in Crisis,No Restraints,F,13.0,Black
+2281,90.0,Child in Crisis,No Restraints,F,15.0,Black
+2282,90.0,Child in Crisis,Metal,M,13.0,White Hispanic
+2283,90.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+2284,90.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+2285,90.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+2286,90.0,Child in Crisis,No Restraints,F,15.0,Black
+2287,90.0,Child in Crisis,No Restraints,F,16.0,Asian/Pacific Isl.
+2288,90.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+2289,90.0,Child in Crisis,No Restraints,F,14.0,Black Hispanic
+2290,90.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+2291,90.0,Mitigated,No Restraints,M,,Unknown
+2292,90.0,Mitigated,No Restraints,M,18.0,White Hispanic
+2293,90.0,Mitigated,No Restraints,M,17.0,Black
+2294,90.0,Mitigated,No Restraints,M,15.0,White Hispanic
+2295,90.0,Mitigated,No Restraints,M,15.0,White Hispanic
+2296,90.0,Mitigated,No Restraints,M,15.0,Black
+2297,90.0,Mitigated,No Restraints,F,13.0,Black
+2298,90.0,Mitigated,No Restraints,F,16.0,Black
+2299,90.0,Mitigated,No Restraints,F,16.0,Black
+2300,90.0,Mitigated,No Restraints,F,16.0,Black
+2301,90.0,Mitigated,No Restraints,F,16.0,Black
+2302,90.0,Mitigated,No Restraints,M,17.0,White Hispanic
+2303,90.0,Mitigated,No Restraints,M,14.0,Black
+2304,90.0,Mitigated,No Restraints,M,15.0,Black
+2305,90.0,Mitigated,No Restraints,M,16.0,Black
+2306,90.0,Mitigated,No Restraints,M,17.0,Black
+2307,90.0,Mitigated,No Restraints,M,17.0,Black
+2308,90.0,Mitigated,No Restraints,M,16.0,Black
+2309,90.0,Mitigated,No Restraints,M,15.0,Black
+2310,90.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2311,90.0,Mitigated,No Restraints,M,15.0,Asian/Pacific Isl.
+2312,90.0,Mitigated,No Restraints,M,15.0,Black
+2313,90.0,Mitigated,No Restraints,M,16.0,Black
+2314,90.0,Mitigated,No Restraints,M,12.0,Black
+2315,90.0,Mitigated,No Restraints,F,,White Hispanic
+2316,90.0,Mitigated,No Restraints,F,14.0,Black
+2317,90.0,Mitigated,No Restraints,F,14.0,Black
+2318,90.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2319,90.0,Mitigated,No Restraints,M,17.0,Black
+2320,90.0,Mitigated,No Restraints,M,17.0,White Hispanic
+2321,90.0,Mitigated,No Restraints,M,14.0,Black
+2322,90.0,Mitigated,No Restraints,M,13.0,White Hispanic
+2323,90.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2324,90.0,Mitigated,No Restraints,M,17.0,Black
+2325,90.0,Mitigated,No Restraints,M,18.0,Black
+2326,90.0,Mitigated,No Restraints,M,17.0,Black
+2327,90.0,Mitigated,No Restraints,M,18.0,Black
+2328,90.0,Mitigated,No Restraints,F,17.0,Black
+2329,90.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2330,90.0,Mitigated,No Restraints,M,18.0,Black
+2331,90.0,Mitigated,No Restraints,F,8.0,Black
+2332,90.0,Mitigated,No Restraints,M,19.0,Black
+2333,90.0,Mitigated,No Restraints,F,16.0,Black
+2334,90.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2335,90.0,Mitigated,No Restraints,F,20.0,Black
+2336,90.0,Mitigated,No Restraints,F,16.0,Black
+2337,90.0,Mitigated,No Restraints,F,16.0,Black
+2338,90.0,Mitigated,No Restraints,F,16.0,Black
+2339,90.0,Mitigated,No Restraints,F,17.0,Black
+2340,90.0,Mitigated,No Restraints,F,17.0,Black
+2341,90.0,Mitigated,No Restraints,F,16.0,Black
+2342,90.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2343,90.0,Mitigated,No Restraints,F,14.0,Black
+2344,90.0,Mitigated,Metal,M,17.0,Black
+2345,90.0,Mitigated,Metal,F,16.0,Black
+2346,90.0,Mitigated,No Restraints,M,,White
+2347,90.0,Mitigated,No Restraints,M,15.0,Black
+2348,90.0,Mitigated,No Restraints,M,,White Hispanic
+2349,90.0,Mitigated,No Restraints,M,17.0,Black
+2350,90.0,Mitigated,No Restraints,F,17.0,Black
+2351,90.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2352,90.0,Mitigated,No Restraints,F,14.0,White Hispanic
+2353,90.0,Mitigated,No Restraints,F,13.0,White Hispanic
+2354,90.0,Mitigated,No Restraints,F,14.0,Black
+2355,90.0,Mitigated,No Restraints,F,,Unknown
+2356,90.0,Mitigated,No Restraints,M,13.0,Black
+2357,90.0,Mitigated,No Restraints,M,13.0,Black
+2358,90.0,Mitigated,No Restraints,M,13.0,White Hispanic
+2359,90.0,Mitigated,No Restraints,M,15.0,Black
+2360,90.0,Mitigated,No Restraints,M,13.0,White Hispanic
+2361,90.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2362,90.0,Mitigated,No Restraints,M,15.0,Black
+2363,90.0,Mitigated,No Restraints,M,14.0,East Indian
+2364,94.0,Juvenile Report,Metal,F,15.0,White Hispanic
+2365,94.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+2366,94.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+2367,94.0,Mitigated,No Restraints,M,14.0,Black
+2368,100.0,Arrested,Metal,M,18.0,Black
+2369,100.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+2370,100.0,Child in Crisis,No Restraints,M,14.0,American Indian
+2371,100.0,Child in Crisis,Metal,M,16.0,Black
+2372,100.0,Juvenile Report,No Restraints,M,15.0,Black
+2373,100.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+2374,100.0,Juvenile Report,No Restraints,M,15.0,Black Hispanic
+2375,100.0,Mitigated,No Restraints,M,17.0,Black
+2376,100.0,Mitigated,No Restraints,M,17.0,Black
+2377,100.0,Mitigated,No Restraints,M,15.0,Black
+2378,100.0,Mitigated,No Restraints,F,14.0,Black
+2379,100.0,Mitigated,No Restraints,F,13.0,Black
+2380,100.0,Mitigated,No Restraints,M,17.0,Black
+2381,100.0,Mitigated,No Restraints,M,15.0,Black
+2382,100.0,Mitigated,No Restraints,M,15.0,Black
+2383,100.0,Mitigated,No Restraints,M,16.0,Black
+2384,101.0,Arrested,Metal,M,17.0,Black
+2385,101.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+2386,101.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+2387,101.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+2388,101.0,Child in Crisis,No Restraints,M,10.0,Black
+2389,101.0,Child in Crisis,No Restraints,M,8.0,Black
+2390,101.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+2391,101.0,Child in Crisis,No Restraints,F,12.0,Black
+2392,101.0,Child in Crisis,No Restraints,M,9.0,Black
+2393,101.0,Child in Crisis,No Restraints,M,8.0,Black
+2394,101.0,Child in Crisis,No Restraints,M,7.0,Black
+2395,101.0,Child in Crisis,No Restraints,M,11.0,Black
+2396,101.0,Juvenile Report,No Restraints,F,13.0,Black
+2397,101.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+2398,101.0,Juvenile Report,No Restraints,F,12.0,Black
+2399,101.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+2400,101.0,Mitigated,No Restraints,M,15.0,White Hispanic
+2401,101.0,Mitigated,No Restraints,F,17.0,Black
+2402,101.0,Mitigated,No Restraints,M,14.0,Black
+2403,101.0,Mitigated,No Restraints,F,14.0,Black
+2404,101.0,Mitigated,No Restraints,F,12.0,Black
+2405,101.0,Mitigated,No Restraints,F,14.0,Black
+2406,101.0,Mitigated,No Restraints,F,13.0,Black
+2407,102.0,Arrested,Metal,M,15.0,Black Hispanic
+2408,102.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+2409,102.0,Child in Crisis,No Restraints,F,11.0,Black
+2410,102.0,Child in Crisis,No Restraints,M,10.0,Black
+2411,102.0,Child in Crisis,No Restraints,M,7.0,Asian/Pacific Isl.
+2412,102.0,Child in Crisis,No Restraints,M,17.0,Asian/Pacific Isl.
+2413,102.0,Child in Crisis,No Restraints,M,13.0,Black Hispanic
+2414,102.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+2415,102.0,Child in Crisis,No Restraints,M,9.0,White Hispanic
+2416,102.0,Child in Crisis,No Restraints,M,11.0,White Hispanic
+2417,102.0,Child in Crisis,No Restraints,M,7.0,Black Hispanic
+2418,102.0,Juvenile Report,Metal,M,13.0,Black Hispanic
+2419,102.0,Juvenile Report,No Restraints,M,14.0,Black
+2420,102.0,Mitigated,No Restraints,F,13.0,White Hispanic
+2421,102.0,Mitigated,No Restraints,M,16.0,White
+2422,102.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2423,102.0,Mitigated,No Restraints,M,16.0,East Indian
+2424,102.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2425,102.0,Mitigated,No Restraints,M,9.0,White Hispanic
+2426,102.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2427,102.0,Mitigated,No Restraints,M,16.0,East Indian
+2428,103.0,Arrested,No Restraints,F,12.0,White Hispanic
+2429,103.0,Child in Crisis,No Restraints,F,10.0,Black
+2430,103.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+2431,103.0,Child in Crisis,No Restraints,M,14.0,Black
+2432,103.0,Child in Crisis,Metal,F,12.0,Black
+2433,103.0,Child in Crisis,No Restraints,F,14.0,Asian/Pacific Isl.
+2434,103.0,Child in Crisis,No Restraints,F,11.0,Black
+2435,103.0,Child in Crisis,No Restraints,M,14.0,East Indian
+2436,103.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+2437,103.0,Child in Crisis,No Restraints,F,12.0,Asian/Pacific Isl.
+2438,103.0,Juvenile Report,No Restraints,F,13.0,White
+2439,103.0,Juvenile Report,Metal,M,13.0,White Hispanic
+2440,103.0,Juvenile Report,No Restraints,M,14.0,Black
+2441,103.0,Juvenile Report,Metal,M,14.0,Black
+2442,103.0,Mitigated,No Restraints,F,15.0,Black
+2443,103.0,Mitigated,No Restraints,F,15.0,Black
+2444,103.0,Mitigated,No Restraints,F,17.0,Black
+2445,103.0,Mitigated,No Restraints,F,15.0,Black
+2446,103.0,Mitigated,No Restraints,F,14.0,East Indian
+2447,103.0,Mitigated,No Restraints,F,13.0,Black
+2448,103.0,Mitigated,No Restraints,F,10.0,White Hispanic
+2449,103.0,Mitigated,No Restraints,F,9.0,Black
+2450,103.0,Mitigated,No Restraints,M,9.0,East Indian
+2451,103.0,Mitigated,No Restraints,F,12.0,Black
+2452,103.0,Mitigated,No Restraints,M,12.0,Black
+2453,103.0,Mitigated,No Restraints,F,14.0,White Hispanic
+2454,103.0,Mitigated,No Restraints,M,14.0,Black
+2455,103.0,Mitigated,No Restraints,M,13.0,Black
+2456,103.0,Mitigated,No Restraints,M,,Black
+2457,103.0,Mitigated,No Restraints,M,12.0,Black
+2458,103.0,Mitigated,No Restraints,M,13.0,Black
+2459,103.0,Mitigated,No Restraints,M,14.0,Black
+2460,104.0,Arrested,Metal,M,13.0,Black Hispanic
+2461,104.0,Child in Crisis,No Restraints,M,6.0,Black Hispanic
+2462,104.0,Child in Crisis,No Restraints,M,14.0,Black Hispanic
+2463,104.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+2464,104.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+2465,104.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+2466,104.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+2467,104.0,Child in Crisis,No Restraints,M,13.0,Black
+2468,104.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+2469,104.0,Child in Crisis,Metal,F,12.0,White
+2470,104.0,Child in Crisis,No Restraints,M,16.0,White Hispanic
+2471,104.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+2472,104.0,Child in Crisis,No Restraints,F,11.0,White
+2473,104.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+2474,104.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+2475,104.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+2476,104.0,Juvenile Report,No Restraints,F,12.0,White Hispanic
+2477,104.0,Juvenile Report,Metal,M,13.0,Black Hispanic
+2478,104.0,Juvenile Report,No Restraints,M,15.0,Black Hispanic
+2479,104.0,Juvenile Report,No Restraints,M,13.0,White Hispanic
+2480,104.0,Juvenile Report,No Restraints,M,14.0,Asian/Pacific Isl.
+2481,104.0,Mitigated,No Restraints,F,17.0,American Indian
+2482,104.0,Mitigated,No Restraints,M,15.0,White
+2483,104.0,Mitigated,No Restraints,M,9.0,White Hispanic
+2484,104.0,Mitigated,No Restraints,M,13.0,Asian/Pacific Isl.
+2485,104.0,Mitigated,No Restraints,M,13.0,White Hispanic
+2486,104.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+2487,104.0,Mitigated,No Restraints,F,13.0,White
+2488,104.0,Mitigated,No Restraints,M,,Black
+2489,104.0,Mitigated,No Restraints,M,57.0,Black
+2490,104.0,Mitigated,No Restraints,M,54.0,White
+2491,105.0,Child in Crisis,Velcro,F,13.0,Black
+2492,105.0,Child in Crisis,Metal,F,17.0,Black
+2493,105.0,Child in Crisis,No Restraints,M,10.0,Black
+2494,105.0,Child in Crisis,No Restraints,M,10.0,Black
+2495,105.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+2496,105.0,Child in Crisis,No Restraints,M,9.0,Black
+2497,105.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+2498,105.0,Child in Crisis,No Restraints,F,13.0,Black
+2499,105.0,Child in Crisis,No Restraints,M,9.0,Black
+2500,105.0,Child in Crisis,No Restraints,M,10.0,Black
+2501,105.0,Child in Crisis,No Restraints,F,14.0,Black
+2502,105.0,Child in Crisis,No Restraints,F,11.0,Black
+2503,105.0,Child in Crisis,No Restraints,M,10.0,Black
+2504,105.0,Child in Crisis,No Restraints,F,10.0,Black
+2505,105.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+2506,105.0,Child in Crisis,No Restraints,M,10.0,Unknown
+2507,105.0,Child in Crisis,No Restraints,F,7.0,Black
+2508,105.0,Child in Crisis,Metal,M,17.0,Black
+2509,105.0,Child in Crisis,No Restraints,M,16.0,Black
+2510,105.0,Child in Crisis,No Restraints,F,16.0,Black
+2511,105.0,Juvenile Report,No Restraints,F,14.0,Black
+2512,105.0,Juvenile Report,No Restraints,M,14.0,Black
+2513,105.0,Juvenile Report,No Restraints,F,13.0,Black
+2514,105.0,Juvenile Report,No Restraints,M,15.0,Black
+2515,105.0,Juvenile Report,No Restraints,M,16.0,Black
+2516,105.0,Juvenile Report,No Restraints,F,13.0,White Hispanic
+2517,105.0,Juvenile Report,No Restraints,F,12.0,White Hispanic
+2518,105.0,Juvenile Report,No Restraints,F,13.0,White Hispanic
+2519,105.0,Juvenile Report,No Restraints,F,14.0,Black
+2520,105.0,Juvenile Report,No Restraints,F,15.0,Black
+2521,105.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+2522,105.0,Juvenile Report,No Restraints,M,15.0,Black
+2523,105.0,Juvenile Report,No Restraints,M,15.0,Black
+2524,105.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+2525,105.0,Juvenile Report,No Restraints,M,14.0,Black
+2526,105.0,Juvenile Report,No Restraints,M,12.0,Black
+2527,105.0,Juvenile Report,No Restraints,M,12.0,Black
+2528,105.0,Juvenile Report,No Restraints,M,17.0,Black
+2529,105.0,Mitigated,No Restraints,F,15.0,White Hispanic
+2530,105.0,Mitigated,No Restraints,M,16.0,Black
+2531,105.0,Mitigated,No Restraints,M,10.0,Black
+2532,105.0,Mitigated,No Restraints,M,16.0,Black
+2533,105.0,Mitigated,No Restraints,M,9.0,Black
+2534,105.0,Mitigated,No Restraints,M,15.0,White Hispanic
+2535,105.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2536,105.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2537,105.0,Mitigated,No Restraints,M,19.0,White Hispanic
+2538,105.0,Mitigated,No Restraints,M,16.0,Black
+2539,105.0,Mitigated,Metal,M,15.0,Black
+2540,105.0,Mitigated,No Restraints,F,15.0,Black
+2541,105.0,Mitigated,No Restraints,M,18.0,White Hispanic
+2542,105.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2543,105.0,Mitigated,No Restraints,F,16.0,Asian/Pacific Isl.
+2544,105.0,Mitigated,No Restraints,F,17.0,Black
+2545,105.0,Mitigated,No Restraints,F,17.0,Black
+2546,105.0,Mitigated,No Restraints,F,16.0,Black
+2547,105.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2548,105.0,Mitigated,No Restraints,M,19.0,Black
+2549,105.0,Mitigated,No Restraints,M,11.0,Black
+2550,105.0,Mitigated,No Restraints,F,14.0,Unknown
+2551,105.0,Mitigated,No Restraints,F,15.0,Black
+2552,105.0,Mitigated,No Restraints,M,12.0,Black
+2553,105.0,Mitigated,No Restraints,F,14.0,Black
+2554,105.0,Mitigated,No Restraints,M,14.0,Black
+2555,105.0,Mitigated,No Restraints,M,17.0,Black
+2556,105.0,Mitigated,No Restraints,M,15.0,Black
+2557,105.0,Mitigated,No Restraints,M,15.0,Black
+2558,105.0,Mitigated,No Restraints,M,18.0,Black
+2559,105.0,Mitigated,No Restraints,M,18.0,Black
+2560,105.0,Summons,Metal,M,16.0,Black
+2561,105.0,Summons,No Restraints,M,18.0,White Hispanic
+2562,106.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+2563,106.0,Child in Crisis,No Restraints,M,14.0,White Hispanic
+2564,106.0,Child in Crisis,No Restraints,M,13.0,American Indian
+2565,106.0,Child in Crisis,No Restraints,M,13.0,Black
+2566,106.0,Child in Crisis,No Restraints,M,14.0,East Indian
+2567,106.0,Child in Crisis,No Restraints,F,13.0,Asian/Pacific Isl.
+2568,106.0,Child in Crisis,No Restraints,F,12.0,Black
+2569,106.0,Child in Crisis,No Restraints,F,17.0,East Indian
+2570,106.0,Child in Crisis,No Restraints,F,20.0,White Hispanic
+2571,106.0,Juvenile Report,No Restraints,M,16.0,Black
+2572,106.0,Mitigated,No Restraints,M,15.0,Black
+2573,106.0,Mitigated,No Restraints,M,8.0,Arabic
+2574,106.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2575,106.0,Mitigated,No Restraints,M,11.0,Black
+2576,106.0,Mitigated,No Restraints,M,16.0,Black
+2577,106.0,Mitigated,No Restraints,M,18.0,American Indian
+2578,106.0,Mitigated,No Restraints,M,16.0,Black
+2579,107.0,Arrested,Metal,F,17.0,Black
+2580,107.0,Arrested,Metal,M,17.0,White Hispanic
+2581,107.0,Arrested,Metal,M,16.0,White Hispanic
+2582,107.0,Arrested,Metal,M,18.0,White Hispanic
+2583,107.0,Child in Crisis,Metal,M,15.0,White Hispanic
+2584,107.0,Child in Crisis,No Restraints,M,12.0,Black
+2585,107.0,Child in Crisis,No Restraints,F,9.0,White Hispanic
+2586,107.0,Child in Crisis,No Restraints,M,9.0,American Indian
+2587,107.0,Child in Crisis,No Restraints,M,10.0,East Indian
+2588,107.0,Child in Crisis,No Restraints,M,6.0,East Indian
+2589,107.0,Child in Crisis,No Restraints,M,8.0,White
+2590,107.0,Child in Crisis,No Restraints,F,8.0,White Hispanic
+2591,107.0,Child in Crisis,Metal,F,17.0,Black
+2592,107.0,Child in Crisis,No Restraints,M,14.0,White
+2593,107.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+2594,107.0,Juvenile Report,No Restraints,M,14.0,Black
+2595,107.0,Juvenile Report,No Restraints,M,16.0,Black
+2596,107.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+2597,107.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+2598,107.0,Juvenile Report,No Restraints,M,16.0,Black Hispanic
+2599,107.0,Juvenile Report,Metal,F,17.0,Black
+2600,107.0,Mitigated,No Restraints,M,13.0,White Hispanic
+2601,107.0,Mitigated,No Restraints,M,17.0,White Hispanic
+2602,107.0,Mitigated,No Restraints,M,17.0,Black
+2603,107.0,Mitigated,No Restraints,M,15.0,Black
+2604,107.0,Mitigated,No Restraints,F,13.0,White Hispanic
+2605,107.0,Mitigated,No Restraints,M,11.0,Black
+2606,107.0,Mitigated,No Restraints,F,17.0,Black
+2607,107.0,Mitigated,No Restraints,F,13.0,Black
+2608,107.0,Mitigated,No Restraints,F,13.0,White Hispanic
+2609,107.0,Mitigated,No Restraints,M,13.0,Black
+2610,107.0,Mitigated,No Restraints,F,17.0,Black
+2611,107.0,Mitigated,No Restraints,F,16.0,American Indian
+2612,107.0,Mitigated,No Restraints,M,5.0,Black
+2613,107.0,Mitigated,No Restraints,M,17.0,Arabic
+2614,107.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2615,107.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2616,107.0,Mitigated,No Restraints,F,13.0,White Hispanic
+2617,107.0,Mitigated,No Restraints,M,11.0,White Hispanic
+2618,107.0,Mitigated,No Restraints,M,11.0,Black
+2619,107.0,Mitigated,No Restraints,M,17.0,Black
+2620,107.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2621,107.0,PINS / Warrant,No Restraints,F,16.0,White Hispanic
+2622,107.0,Summons,No Restraints,M,17.0,White Hispanic
+2623,108.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+2624,108.0,Child in Crisis,No Restraints,M,14.0,White Hispanic
+2625,108.0,Child in Crisis,No Restraints,M,16.0,Black Hispanic
+2626,108.0,Juvenile Report,No Restraints,M,14.0,Black
+2627,108.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2628,108.0,Mitigated,No Restraints,M,15.0,Black
+2629,108.0,Mitigated,No Restraints,M,14.0,Black
+2630,109.0,Arrested,Metal,M,17.0,Black
+2631,109.0,Arrested,Metal,F,16.0,White Hispanic
+2632,109.0,Arrested,Metal,F,16.0,American Indian
+2633,109.0,Arrested,Metal,F,13.0,Black
+2634,109.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+2635,109.0,Child in Crisis,No Restraints,M,13.0,Asian/Pacific Isl.
+2636,109.0,Juvenile Report,No Restraints,F,15.0,Black
+2637,109.0,Juvenile Report,Metal,F,14.0,Black
+2638,109.0,Juvenile Report,Metal,F,13.0,Black
+2639,109.0,Juvenile Report,No Restraints,F,16.0,Black
+2640,109.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+2641,109.0,Juvenile Report,Metal,F,16.0,White Hispanic
+2642,109.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+2643,109.0,Juvenile Report,No Restraints,M,16.0,White
+2644,109.0,Juvenile Report,No Restraints,M,13.0,Arabic
+2645,109.0,Juvenile Report,No Restraints,F,16.0,White Hispanic
+2646,109.0,Mitigated,No Restraints,F,16.0,Black
+2647,109.0,Mitigated,No Restraints,F,16.0,Black
+2648,109.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2649,109.0,Mitigated,No Restraints,M,12.0,Asian/Pacific Isl.
+2650,109.0,Mitigated,No Restraints,M,13.0,Black Hispanic
+2651,109.0,Mitigated,No Restraints,F,15.0,Black
+2652,109.0,Mitigated,No Restraints,M,14.0,Asian/Pacific Isl.
+2653,109.0,Mitigated,No Restraints,M,17.0,Black
+2654,110.0,Arrested,Metal,M,14.0,Black Hispanic
+2655,110.0,Arrested,No Restraints,M,13.0,Black
+2656,110.0,Arrested,Metal,M,29.0,Black Hispanic
+2657,110.0,Arrested,Metal,M,32.0,White Hispanic
+2658,110.0,Child in Crisis,No Restraints,F,17.0,East Indian
+2659,110.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+2660,110.0,Child in Crisis,No Restraints,F,18.0,White Hispanic
+2661,110.0,Child in Crisis,No Restraints,M,17.0,Arabic
+2662,110.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+2663,110.0,Child in Crisis,No Restraints,M,9.0,American Indian
+2664,110.0,Child in Crisis,No Restraints,F,14.0,White Hispanic
+2665,110.0,Child in Crisis,No Restraints,F,14.0,Black
+2666,110.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+2667,110.0,Child in Crisis,No Restraints,F,14.0,American Indian
+2668,110.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+2669,110.0,Child in Crisis,No Restraints,M,17.0,White Hispanic
+2670,110.0,Child in Crisis,No Restraints,F,13.0,White Hispanic
+2671,110.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+2672,110.0,Child in Crisis,Metal,M,14.0,White Hispanic
+2673,110.0,Child in Crisis,Metal,M,17.0,Black
+2674,110.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+2675,110.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+2676,110.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+2677,110.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+2678,110.0,Juvenile Report,No Restraints,F,16.0,White Hispanic
+2679,110.0,Mitigated,No Restraints,M,12.0,White Hispanic
+2680,110.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2681,110.0,Mitigated,No Restraints,F,10.0,White Hispanic
+2682,111.0,Arrested,Metal,M,14.0,Black
+2683,111.0,Arrested,Metal,M,48.0,White
+2684,111.0,Child in Crisis,No Restraints,F,17.0,Asian/Pacific Isl.
+2685,111.0,Child in Crisis,No Restraints,F,17.0,Asian/Pacific Isl.
+2686,111.0,Child in Crisis,No Restraints,M,16.0,Asian/Pacific Isl.
+2687,111.0,Child in Crisis,No Restraints,M,16.0,Black
+2688,111.0,Child in Crisis,No Restraints,F,17.0,Asian/Pacific Isl.
+2689,111.0,Child in Crisis,No Restraints,M,17.0,Asian/Pacific Isl.
+2690,111.0,Child in Crisis,No Restraints,M,5.0,White Hispanic
+2691,111.0,Child in Crisis,No Restraints,M,18.0,White Hispanic
+2692,111.0,Child in Crisis,No Restraints,F,14.0,White
+2693,111.0,Child in Crisis,No Restraints,M,18.0,Asian/Pacific Isl.
+2694,111.0,Child in Crisis,Metal,M,16.0,Asian/Pacific Isl.
+2695,111.0,Child in Crisis,No Restraints,M,15.0,Asian/Pacific Isl.
+2696,111.0,Child in Crisis,Metal,M,16.0,Asian/Pacific Isl.
+2697,111.0,Child in Crisis,No Restraints,M,16.0,American Indian
+2698,111.0,Child in Crisis,No Restraints,F,17.0,Asian/Pacific Isl.
+2699,111.0,Child in Crisis,No Restraints,F,14.0,Black
+2700,111.0,Child in Crisis,No Restraints,M,18.0,Black Hispanic
+2701,111.0,Child in Crisis,Metal,M,17.0,Asian/Pacific Isl.
+2702,111.0,Child in Crisis,No Restraints,F,14.0,Asian/Pacific Isl.
+2703,111.0,Child in Crisis,No Restraints,F,14.0,Asian/Pacific Isl.
+2704,111.0,Juvenile Report,No Restraints,M,15.0,Black
+2705,111.0,Juvenile Report,Metal,F,14.0,White Hispanic
+2706,111.0,Juvenile Report,No Restraints,M,14.0,Black Hispanic
+2707,111.0,Juvenile Report,Metal,M,16.0,Asian/Pacific Isl.
+2708,111.0,Juvenile Report,No Restraints,M,14.0,White Hispanic
+2709,111.0,Juvenile Report,No Restraints,M,14.0,Asian/Pacific Isl.
+2710,111.0,Juvenile Report,No Restraints,M,15.0,Arabic
+2711,111.0,Juvenile Report,No Restraints,M,12.0,Asian/Pacific Isl.
+2712,111.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+2713,111.0,Juvenile Report,No Restraints,F,16.0,White Hispanic
+2714,111.0,Mitigated,No Restraints,M,35.0,White
+2715,111.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2716,111.0,Mitigated,No Restraints,M,13.0,Asian/Pacific Isl.
+2717,111.0,Mitigated,No Restraints,M,8.0,Asian/Pacific Isl.
+2718,111.0,Mitigated,No Restraints,M,35.0,White
+2719,111.0,Mitigated,No Restraints,M,15.0,Asian/Pacific Isl.
+2720,112.0,Child in Crisis,No Restraints,F,14.0,White
+2721,112.0,Child in Crisis,Velcro,M,11.0,American Indian
+2722,112.0,Child in Crisis,No Restraints,M,15.0,White
+2723,112.0,Child in Crisis,No Restraints,M,11.0,American Indian
+2724,112.0,Child in Crisis,No Restraints,F,13.0,Black
+2725,112.0,Child in Crisis,No Restraints,F,18.0,White Hispanic
+2726,112.0,Child in Crisis,No Restraints,M,8.0,White Hispanic
+2727,112.0,Juvenile Report,Metal,F,15.0,Black
+2728,112.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+2729,112.0,Juvenile Report,No Restraints,M,15.0,Black Hispanic
+2730,112.0,Mitigated,No Restraints,M,17.0,Black
+2731,112.0,Mitigated,No Restraints,M,18.0,White
+2732,112.0,Mitigated,No Restraints,F,16.0,White Hispanic
+2733,112.0,Mitigated,No Restraints,F,17.0,White Hispanic
+2734,112.0,Mitigated,No Restraints,M,18.0,White
+2735,112.0,Mitigated,No Restraints,M,16.0,Black
+2736,112.0,Mitigated,No Restraints,F,14.0,Asian/Pacific Isl.
+2737,112.0,Mitigated,No Restraints,M,15.0,White Hispanic
+2738,112.0,Mitigated,No Restraints,M,14.0,East Indian
+2739,113.0,Arrested,Metal,M,15.0,Black
+2740,113.0,Arrested,Metal,F,25.0,Black
+2741,113.0,Arrested,Metal,M,17.0,Black
+2742,113.0,Arrested,Metal,F,19.0,Black
+2743,113.0,Child in Crisis,No Restraints,F,15.0,Black
+2744,113.0,Child in Crisis,No Restraints,M,5.0,Black
+2745,113.0,Child in Crisis,Metal,M,17.0,Black Hispanic
+2746,113.0,Child in Crisis,No Restraints,M,19.0,Black
+2747,113.0,Child in Crisis,No Restraints,M,17.0,Black
+2748,113.0,Child in Crisis,No Restraints,M,18.0,Black
+2749,113.0,Child in Crisis,No Restraints,M,12.0,Black
+2750,113.0,Child in Crisis,No Restraints,M,14.0,Black
+2751,113.0,Child in Crisis,No Restraints,F,15.0,Black
+2752,113.0,Child in Crisis,Metal,M,15.0,Black
+2753,113.0,Child in Crisis,No Restraints,M,16.0,Black
+2754,113.0,Child in Crisis,No Restraints,M,12.0,Black
+2755,113.0,Child in Crisis,No Restraints,F,17.0,Black
+2756,113.0,Child in Crisis,No Restraints,M,16.0,White Hispanic
+2757,113.0,Child in Crisis,Metal,F,15.0,Black
+2758,113.0,Child in Crisis,No Restraints,M,17.0,Black
+2759,113.0,Child in Crisis,No Restraints,F,14.0,Black
+2760,113.0,Child in Crisis,No Restraints,F,13.0,Black
+2761,113.0,Child in Crisis,No Restraints,M,5.0,Black
+2762,113.0,Juvenile Report,No Restraints,M,15.0,Black
+2763,113.0,Juvenile Report,No Restraints,F,15.0,Black
+2764,113.0,Mitigated,No Restraints,F,17.0,Black
+2765,113.0,Mitigated,No Restraints,F,17.0,Black
+2766,113.0,Mitigated,No Restraints,F,16.0,Black
+2767,113.0,Mitigated,No Restraints,M,14.0,Black
+2768,113.0,Mitigated,No Restraints,M,17.0,Black
+2769,113.0,Mitigated,No Restraints,M,17.0,Black
+2770,113.0,Mitigated,No Restraints,M,19.0,Black
+2771,113.0,Mitigated,No Restraints,F,15.0,Black
+2772,113.0,Mitigated,No Restraints,M,15.0,Black
+2773,113.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2774,113.0,Mitigated,No Restraints,F,15.0,Black
+2775,113.0,Mitigated,No Restraints,F,15.0,Black
+2776,113.0,Mitigated,No Restraints,F,15.0,White Hispanic
+2777,113.0,Mitigated,No Restraints,M,10.0,Black
+2778,113.0,Mitigated,No Restraints,F,15.0,Black
+2779,113.0,Mitigated,No Restraints,M,17.0,Black
+2780,113.0,Mitigated,No Restraints,M,17.0,Black
+2781,113.0,Mitigated,No Restraints,F,15.0,Black
+2782,113.0,Mitigated,No Restraints,F,18.0,Black
+2783,113.0,Mitigated,No Restraints,F,14.0,Black
+2784,113.0,Mitigated,No Restraints,F,13.0,Black
+2785,113.0,Mitigated,No Restraints,F,14.0,Black
+2786,113.0,Mitigated,No Restraints,F,14.0,Black
+2787,113.0,Mitigated,No Restraints,F,17.0,Black
+2788,113.0,Mitigated,No Restraints,M,16.0,Black
+2789,113.0,Mitigated,No Restraints,M,19.0,Black
+2790,113.0,Mitigated,No Restraints,M,19.0,Black
+2791,113.0,Mitigated,No Restraints,M,,Black
+2792,113.0,Mitigated,No Restraints,M,17.0,Black
+2793,113.0,Mitigated,No Restraints,M,,Black
+2794,113.0,Mitigated,No Restraints,M,16.0,Black
+2795,113.0,Mitigated,No Restraints,F,13.0,Black
+2796,113.0,Mitigated,No Restraints,F,14.0,Black
+2797,113.0,Mitigated,No Restraints,F,15.0,Black
+2798,113.0,Mitigated,No Restraints,M,16.0,Black
+2799,113.0,Mitigated,No Restraints,M,16.0,Black
+2800,113.0,Mitigated,No Restraints,M,16.0,Black
+2801,113.0,Mitigated,No Restraints,F,15.0,Black
+2802,113.0,Mitigated,No Restraints,F,15.0,Black
+2803,113.0,Mitigated,No Restraints,M,14.0,Black
+2804,113.0,Mitigated,No Restraints,M,17.0,Black
+2805,113.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+2806,113.0,Mitigated,No Restraints,F,16.0,Black
+2807,113.0,Mitigated,No Restraints,F,17.0,Black
+2808,113.0,Mitigated,No Restraints,F,11.0,Black
+2809,113.0,Mitigated,No Restraints,M,,Black
+2810,113.0,Mitigated,No Restraints,F,15.0,White Hispanic
+2811,113.0,Mitigated,No Restraints,F,14.0,White Hispanic
+2812,113.0,Mitigated,No Restraints,M,19.0,Black
+2813,113.0,Mitigated,No Restraints,M,19.0,Black
+2814,113.0,Mitigated,No Restraints,M,17.0,Black
+2815,113.0,Mitigated,No Restraints,M,17.0,Black
+2816,113.0,Mitigated,No Restraints,M,19.0,Black
+2817,113.0,Mitigated,No Restraints,M,18.0,Black
+2818,113.0,Mitigated,No Restraints,M,18.0,Asian/Pacific Isl.
+2819,113.0,Mitigated,No Restraints,M,18.0,Black
+2820,113.0,Mitigated,No Restraints,M,17.0,Asian/Pacific Isl.
+2821,113.0,Mitigated,No Restraints,M,17.0,Black
+2822,113.0,Summons,Metal,F,17.0,White Hispanic
+2823,114.0,Arrested,Metal,M,41.0,Asian/Pacific Isl.
+2824,114.0,Child in Crisis,No Restraints,F,16.0,East Indian
+2825,114.0,Child in Crisis,No Restraints,M,15.0,White Hispanic
+2826,114.0,Child in Crisis,No Restraints,M,11.0,East Indian
+2827,114.0,Child in Crisis,No Restraints,F,15.0,Black
+2828,114.0,Child in Crisis,No Restraints,M,20.0,Arabic
+2829,114.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+2830,114.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+2831,114.0,Juvenile Report,No Restraints,M,17.0,Black Hispanic
+2832,114.0,Juvenile Report,No Restraints,M,16.0,White Hispanic
+2833,114.0,Juvenile Report,No Restraints,F,16.0,Black
+2834,114.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+2835,114.0,Juvenile Report,No Restraints,M,15.0,White Hispanic
+2836,114.0,Mitigated,No Restraints,M,15.0,White Hispanic
+2837,114.0,Mitigated,No Restraints,M,15.0,White Hispanic
+2838,114.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2839,115.0,Arrested,Metal,M,12.0,White Hispanic
+2840,115.0,Arrested,Metal,M,13.0,White Hispanic
+2841,115.0,Arrested,Metal,M,13.0,White Hispanic
+2842,115.0,Child in Crisis,No Restraints,M,13.0,White Hispanic
+2843,115.0,Child in Crisis,No Restraints,F,11.0,White Hispanic
+2844,115.0,Child in Crisis,No Restraints,F,14.0,Black Hispanic
+2845,115.0,Mitigated,No Restraints,F,10.0,Black
+2846,115.0,Mitigated,No Restraints,M,9.0,Arabic
+2847,115.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+2848,120.0,Arrested,Metal,F,17.0,Black
+2849,120.0,Arrested,Metal,F,18.0,Black
+2850,120.0,Child in Crisis,No Restraints,F,16.0,Black
+2851,120.0,Child in Crisis,No Restraints,M,12.0,White Hispanic
+2852,120.0,Child in Crisis,No Restraints,F,13.0,White
+2853,120.0,Child in Crisis,No Restraints,M,7.0,Black
+2854,120.0,Child in Crisis,No Restraints,M,6.0,Black
+2855,120.0,Child in Crisis,No Restraints,M,8.0,Black
+2856,120.0,Child in Crisis,No Restraints,M,6.0,Black
+2857,120.0,Child in Crisis,No Restraints,M,7.0,Black
+2858,120.0,Child in Crisis,No Restraints,F,13.0,Black
+2859,120.0,Child in Crisis,No Restraints,M,6.0,Black
+2860,120.0,Child in Crisis,No Restraints,M,7.0,Black
+2861,120.0,Child in Crisis,No Restraints,M,9.0,Black
+2862,120.0,Child in Crisis,No Restraints,M,22.0,Black
+2863,120.0,Child in Crisis,Metal,M,16.0,White Hispanic
+2864,120.0,Child in Crisis,No Restraints,F,13.0,Black
+2865,120.0,Child in Crisis,No Restraints,M,6.0,Black
+2866,120.0,Child in Crisis,No Restraints,M,6.0,Black
+2867,120.0,Child in Crisis,Metal,M,13.0,White Hispanic
+2868,120.0,Child in Crisis,No Restraints,M,12.0,Black Hispanic
+2869,120.0,Child in Crisis,No Restraints,M,8.0,White Hispanic
+2870,120.0,Child in Crisis,No Restraints,M,15.0,Black Hispanic
+2871,120.0,Child in Crisis,No Restraints,F,13.0,Black
+2872,120.0,Child in Crisis,No Restraints,M,12.0,Black Hispanic
+2873,120.0,Juvenile Report,No Restraints,M,16.0,Black Hispanic
+2874,120.0,Juvenile Report,No Restraints,M,16.0,Black Hispanic
+2875,120.0,Juvenile Report,No Restraints,M,16.0,Black Hispanic
+2876,120.0,Juvenile Report,Metal,M,13.0,Black
+2877,120.0,Juvenile Report,Metal,F,15.0,White Hispanic
+2878,120.0,Juvenile Report,Metal,F,14.0,White Hispanic
+2879,120.0,Juvenile Report,Metal,F,15.0,Black
+2880,120.0,Juvenile Report,Metal,F,17.0,White Hispanic
+2881,120.0,Juvenile Report,Metal,F,15.0,White Hispanic
+2882,120.0,Juvenile Report,No Restraints,M,14.0,Black
+2883,120.0,Juvenile Report,No Restraints,F,13.0,Black Hispanic
+2884,120.0,Juvenile Report,No Restraints,F,14.0,White Hispanic
+2885,120.0,Juvenile Report,No Restraints,M,13.0,Black
+2886,120.0,Juvenile Report,No Restraints,F,12.0,White Hispanic
+2887,120.0,Juvenile Report,No Restraints,M,10.0,Black
+2888,120.0,Juvenile Report,No Restraints,F,15.0,Black
+2889,120.0,Juvenile Report,Metal,F,15.0,Black
+2890,120.0,Juvenile Report,Metal,F,15.0,Black
+2891,120.0,Juvenile Report,No Restraints,F,14.0,Black
+2892,120.0,Juvenile Report,No Restraints,F,15.0,Black
+2893,120.0,Juvenile Report,No Restraints,M,11.0,Black
+2894,120.0,Juvenile Report,No Restraints,M,14.0,Black
+2895,120.0,Juvenile Report,Metal,M,16.0,Black
+2896,120.0,Juvenile Report,No Restraints,M,16.0,White
+2897,120.0,Juvenile Report,Metal,M,15.0,White Hispanic
+2898,120.0,Juvenile Report,No Restraints,F,15.0,Black Hispanic
+2899,120.0,Juvenile Report,No Restraints,M,17.0,Black
+2900,120.0,Juvenile Report,No Restraints,F,13.0,White Hispanic
+2901,120.0,Juvenile Report,Metal,F,17.0,Black
+2902,120.0,Juvenile Report,Metal,F,17.0,Black
+2903,120.0,Juvenile Report,No Restraints,F,15.0,Black Hispanic
+2904,120.0,Juvenile Report,No Restraints,M,14.0,Black
+2905,120.0,Juvenile Report,No Restraints,M,11.0,Black
+2906,120.0,Mitigated,No Restraints,M,6.0,White Hispanic
+2907,120.0,Mitigated,No Restraints,F,15.0,White Hispanic
+2908,120.0,Mitigated,No Restraints,F,15.0,White Hispanic
+2909,120.0,Mitigated,No Restraints,F,13.0,Black
+2910,120.0,Mitigated,No Restraints,M,11.0,Black
+2911,120.0,Mitigated,No Restraints,M,13.0,Black
+2912,120.0,Mitigated,No Restraints,M,13.0,Black
+2913,120.0,Mitigated,No Restraints,M,13.0,Black
+2914,120.0,Mitigated,No Restraints,M,12.0,Black
+2915,120.0,Mitigated,No Restraints,F,13.0,Black
+2916,120.0,Mitigated,No Restraints,F,13.0,Black
+2917,120.0,Mitigated,No Restraints,F,11.0,Black
+2918,120.0,Mitigated,No Restraints,F,12.0,Black
+2919,120.0,Mitigated,No Restraints,M,11.0,Black
+2920,120.0,Mitigated,No Restraints,M,11.0,Black
+2921,120.0,Mitigated,No Restraints,M,18.0,Black
+2922,120.0,Mitigated,No Restraints,M,11.0,Black
+2923,120.0,Mitigated,No Restraints,M,12.0,Black
+2924,120.0,Mitigated,No Restraints,M,13.0,Black
+2925,120.0,Mitigated,No Restraints,M,12.0,Black
+2926,120.0,Mitigated,No Restraints,M,9.0,Black
+2927,120.0,Mitigated,No Restraints,F,12.0,Black
+2928,120.0,Mitigated,No Restraints,F,12.0,White Hispanic
+2929,120.0,Mitigated,No Restraints,M,13.0,Black
+2930,120.0,Mitigated,No Restraints,M,13.0,Black
+2931,120.0,Mitigated,No Restraints,M,16.0,White Hispanic
+2932,120.0,Mitigated,No Restraints,F,14.0,Black Hispanic
+2933,120.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+2934,120.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+2935,120.0,Mitigated,No Restraints,F,11.0,Black Hispanic
+2936,120.0,Mitigated,No Restraints,M,14.0,Black
+2937,120.0,Mitigated,No Restraints,M,13.0,Black
+2938,120.0,Mitigated,No Restraints,M,12.0,Black
+2939,120.0,Mitigated,No Restraints,M,13.0,Black
+2940,120.0,Mitigated,No Restraints,F,13.0,Black
+2941,120.0,Mitigated,No Restraints,F,12.0,Black
+2942,120.0,Mitigated,No Restraints,M,12.0,Black
+2943,120.0,Mitigated,No Restraints,M,13.0,Black
+2944,120.0,Mitigated,No Restraints,M,16.0,Black
+2945,120.0,Mitigated,No Restraints,M,17.0,Black
+2946,120.0,Mitigated,No Restraints,M,16.0,White
+2947,120.0,Mitigated,No Restraints,M,14.0,White Hispanic
+2948,120.0,Mitigated,No Restraints,F,13.0,Black
+2949,120.0,Mitigated,No Restraints,F,14.0,Black
+2950,120.0,Mitigated,No Restraints,F,12.0,Black
+2951,120.0,Mitigated,No Restraints,M,15.0,White Hispanic
+2952,120.0,Mitigated,No Restraints,F,13.0,Black
+2953,120.0,Mitigated,No Restraints,F,40.0,White
+2954,120.0,Mitigated,Velcro,F,14.0,Black
+2955,120.0,Mitigated,No Restraints,F,15.0,White Hispanic
+2956,120.0,Mitigated,No Restraints,F,16.0,Black
+2957,120.0,Mitigated,No Restraints,M,5.0,White Hispanic
+2958,120.0,Mitigated,No Restraints,F,12.0,Black
+2959,120.0,Mitigated,No Restraints,F,12.0,Black
+2960,120.0,Mitigated,No Restraints,M,19.0,Black
+2961,120.0,Mitigated,No Restraints,F,18.0,Black
+2962,120.0,Mitigated,No Restraints,F,15.0,White Hispanic
+2963,120.0,Mitigated,No Restraints,F,14.0,White Hispanic
+2964,120.0,Mitigated,No Restraints,F,12.0,Black
+2965,120.0,Mitigated,No Restraints,F,12.0,White Hispanic
+2966,120.0,Mitigated,No Restraints,F,13.0,Arabic
+2967,120.0,Mitigated,No Restraints,F,13.0,White Hispanic
+2968,120.0,Mitigated,No Restraints,M,15.0,White Hispanic
+2969,120.0,Mitigated,No Restraints,M,15.0,White Hispanic
+2970,120.0,Mitigated,No Restraints,M,7.0,White Hispanic
+2971,120.0,Mitigated,No Restraints,M,10.0,Black
+2972,120.0,Mitigated,No Restraints,F,12.0,Black
+2973,120.0,Mitigated,No Restraints,F,12.0,White Hispanic
+2974,120.0,Mitigated,No Restraints,F,12.0,Black
+2975,120.0,Mitigated,No Restraints,F,14.0,White Hispanic
+2976,120.0,Mitigated,No Restraints,M,16.0,Black
+2977,120.0,Mitigated,No Restraints,M,16.0,Black
+2978,120.0,Mitigated,No Restraints,M,13.0,Black
+2979,120.0,Mitigated,No Restraints,F,15.0,Black
+2980,120.0,Mitigated,No Restraints,F,14.0,Black
+2981,120.0,Mitigated,No Restraints,F,14.0,Black
+2982,120.0,Mitigated,No Restraints,F,13.0,Arabic
+2983,120.0,Mitigated,No Restraints,M,15.0,Black
+2984,120.0,Mitigated,No Restraints,M,11.0,Black Hispanic
+2985,120.0,Mitigated,No Restraints,M,16.0,White
+2986,120.0,Mitigated,No Restraints,F,13.0,Black
+2987,120.0,Mitigated,No Restraints,F,11.0,Black
+2988,120.0,Mitigated,No Restraints,M,12.0,Black
+2989,120.0,Mitigated,No Restraints,M,13.0,Black
+2990,120.0,Mitigated,No Restraints,F,15.0,Black Hispanic
+2991,120.0,Mitigated,No Restraints,F,15.0,Black Hispanic
+2992,120.0,Mitigated,No Restraints,F,14.0,Black Hispanic
+2993,120.0,Mitigated,No Restraints,M,10.0,Black Hispanic
+2994,120.0,Mitigated,No Restraints,M,10.0,Black
+2995,120.0,Mitigated,No Restraints,F,13.0,Black
+2996,120.0,Mitigated,No Restraints,F,13.0,Black
+2997,120.0,Mitigated,No Restraints,M,13.0,Black
+2998,120.0,Mitigated,No Restraints,F,13.0,Black
+2999,120.0,Mitigated,No Restraints,F,13.0,Black
+3000,120.0,Mitigated,No Restraints,M,12.0,Black
+3001,120.0,Mitigated,No Restraints,M,14.0,White Hispanic
+3002,120.0,Mitigated,No Restraints,M,13.0,White Hispanic
+3003,120.0,Mitigated,No Restraints,M,10.0,Black
+3004,120.0,Mitigated,No Restraints,M,9.0,Black
+3005,120.0,Mitigated,No Restraints,M,13.0,White Hispanic
+3006,120.0,Mitigated,No Restraints,M,12.0,White Hispanic
+3007,120.0,Mitigated,No Restraints,M,13.0,White Hispanic
+3008,120.0,Mitigated,No Restraints,F,13.0,White Hispanic
+3009,120.0,Mitigated,No Restraints,M,12.0,White Hispanic
+3010,120.0,Mitigated,No Restraints,M,12.0,White Hispanic
+3011,120.0,Mitigated,No Restraints,M,13.0,White Hispanic
+3012,120.0,Mitigated,No Restraints,F,12.0,White Hispanic
+3013,120.0,Mitigated,No Restraints,F,12.0,White Hispanic
+3014,120.0,Mitigated,No Restraints,F,16.0,White
+3015,120.0,Mitigated,No Restraints,M,15.0,White Hispanic
+3016,120.0,Mitigated,No Restraints,M,12.0,White Hispanic
+3017,120.0,Mitigated,No Restraints,M,13.0,Black
+3018,120.0,Mitigated,No Restraints,M,7.0,Black
+3019,120.0,Mitigated,No Restraints,M,7.0,Black
+3020,120.0,Mitigated,No Restraints,M,16.0,Black
+3021,120.0,Mitigated,No Restraints,F,17.0,Black
+3022,120.0,Mitigated,No Restraints,F,17.0,Black
+3023,120.0,Mitigated,No Restraints,M,8.0,Black
+3024,120.0,PINS / Warrant,Metal,F,16.0,Black
+3025,120.0,Summons,Metal,M,20.0,Black
+3026,120.0,Summons,No Restraints,M,17.0,White Hispanic
+3027,121.0,Arrested,Metal,M,18.0,Black
+3028,121.0,Arrested,Metal,M,16.0,Black
+3029,121.0,Child in Crisis,Metal,M,17.0,Black
+3030,121.0,Child in Crisis,No Restraints,M,15.0,Black
+3031,121.0,Child in Crisis,No Restraints,M,10.0,Black
+3032,121.0,Child in Crisis,No Restraints,F,5.0,Black
+3033,121.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+3034,121.0,Child in Crisis,No Restraints,F,9.0,Black
+3035,121.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+3036,121.0,Child in Crisis,No Restraints,F,9.0,Black
+3037,121.0,Child in Crisis,No Restraints,M,17.0,White
+3038,121.0,Child in Crisis,No Restraints,F,10.0,White
+3039,121.0,Child in Crisis,Metal,F,13.0,Black
+3040,121.0,Child in Crisis,No Restraints,M,6.0,White Hispanic
+3041,121.0,Child in Crisis,No Restraints,F,10.0,White
+3042,121.0,Child in Crisis,No Restraints,F,15.0,Arabic
+3043,121.0,Child in Crisis,No Restraints,M,8.0,White Hispanic
+3044,121.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+3045,121.0,Juvenile Report,Metal,M,13.0,White Hispanic
+3046,121.0,Juvenile Report,No Restraints,M,17.0,White Hispanic
+3047,121.0,Juvenile Report,Metal,M,16.0,White Hispanic
+3048,121.0,Juvenile Report,Metal,M,14.0,White
+3049,121.0,Juvenile Report,No Restraints,F,11.0,Black
+3050,121.0,Juvenile Report,Metal,M,16.0,White
+3051,121.0,Juvenile Report,Metal,M,15.0,White
+3052,121.0,Juvenile Report,No Restraints,M,15.0,Black
+3053,121.0,Juvenile Report,No Restraints,M,13.0,Black
+3054,121.0,Juvenile Report,No Restraints,M,11.0,White Hispanic
+3055,121.0,Juvenile Report,Metal,M,15.0,Black
+3056,121.0,Juvenile Report,Metal,M,14.0,Black
+3057,121.0,Mitigated,Metal,M,16.0,Black
+3058,121.0,Mitigated,No Restraints,F,13.0,White Hispanic
+3059,121.0,Mitigated,No Restraints,F,13.0,Black
+3060,121.0,Mitigated,No Restraints,M,9.0,Black
+3061,121.0,Mitigated,No Restraints,M,12.0,Black
+3062,121.0,Mitigated,No Restraints,F,12.0,White
+3063,121.0,Mitigated,No Restraints,F,12.0,Asian/Pacific Isl.
+3064,121.0,Mitigated,No Restraints,M,12.0,Arabic
+3065,121.0,Mitigated,No Restraints,M,11.0,Arabic
+3066,121.0,Mitigated,No Restraints,M,11.0,White
+3067,121.0,Mitigated,No Restraints,M,11.0,White
+3068,121.0,Mitigated,No Restraints,M,12.0,Black
+3069,121.0,Mitigated,No Restraints,M,13.0,Black
+3070,121.0,Mitigated,No Restraints,F,14.0,Black
+3071,121.0,Mitigated,No Restraints,F,14.0,White Hispanic
+3072,121.0,Mitigated,No Restraints,F,12.0,Black
+3073,121.0,Mitigated,No Restraints,F,11.0,Black
+3074,121.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+3075,121.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+3076,121.0,Mitigated,No Restraints,F,13.0,Arabic
+3077,121.0,Mitigated,No Restraints,M,12.0,Asian/Pacific Isl.
+3078,121.0,Mitigated,No Restraints,F,13.0,Black
+3079,121.0,Mitigated,No Restraints,F,13.0,Asian/Pacific Isl.
+3080,121.0,Mitigated,No Restraints,F,14.0,White Hispanic
+3081,121.0,Mitigated,No Restraints,M,10.0,Black
+3082,121.0,Mitigated,Metal,M,16.0,White Hispanic
+3083,121.0,Mitigated,No Restraints,M,9.0,Arabic
+3084,121.0,Mitigated,No Restraints,M,16.0,Black
+3085,121.0,Mitigated,No Restraints,M,13.0,Black Hispanic
+3086,121.0,Mitigated,No Restraints,M,11.0,White Hispanic
+3087,121.0,Mitigated,No Restraints,M,18.0,Arabic
+3088,121.0,Mitigated,No Restraints,M,15.0,Black
+3089,121.0,Mitigated,No Restraints,M,18.0,Black
+3090,121.0,Mitigated,No Restraints,F,17.0,Black
+3091,121.0,Mitigated,No Restraints,F,15.0,Black
+3092,121.0,Mitigated,No Restraints,F,15.0,White Hispanic
+3093,121.0,Mitigated,No Restraints,M,19.0,American Indian
+3094,121.0,Mitigated,No Restraints,F,12.0,Black
+3095,121.0,Mitigated,No Restraints,F,15.0,Black
+3096,121.0,Mitigated,No Restraints,F,13.0,Black Hispanic
+3097,121.0,Mitigated,No Restraints,F,14.0,Arabic
+3098,121.0,Mitigated,No Restraints,F,13.0,White Hispanic
+3099,121.0,Mitigated,No Restraints,F,13.0,Black
+3100,121.0,Mitigated,No Restraints,F,14.0,White Hispanic
+3101,121.0,Mitigated,No Restraints,M,15.0,Black
+3102,121.0,Mitigated,No Restraints,F,15.0,Black
+3103,122.0,Arrested,Metal,M,18.0,Asian/Pacific Isl.
+3104,122.0,Arrested,Metal,M,14.0,East Indian
+3105,122.0,Arrested,Metal,M,18.0,Black
+3106,122.0,Arrested,Metal,M,18.0,Asian/Pacific Isl.
+3107,122.0,Arrested,No Restraints,M,17.0,Black
+3108,122.0,Child in Crisis,No Restraints,F,15.0,White Hispanic
+3109,122.0,Child in Crisis,No Restraints,M,6.0,White
+3110,122.0,Child in Crisis,No Restraints,M,8.0,White
+3111,122.0,Child in Crisis,No Restraints,F,7.0,Black
+3112,122.0,Child in Crisis,Velcro,M,8.0,White
+3113,122.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+3114,122.0,Child in Crisis,Velcro,M,8.0,White
+3115,122.0,Child in Crisis,No Restraints,F,18.0,White
+3116,122.0,Child in Crisis,No Restraints,M,6.0,Black
+3117,122.0,Child in Crisis,No Restraints,F,16.0,White Hispanic
+3118,122.0,Child in Crisis,No Restraints,F,11.0,Black
+3119,122.0,Child in Crisis,No Restraints,M,11.0,White
+3120,122.0,Child in Crisis,No Restraints,F,12.0,White Hispanic
+3121,122.0,Child in Crisis,Velcro,M,8.0,White
+3122,122.0,Child in Crisis,No Restraints,M,15.0,White
+3123,122.0,Child in Crisis,No Restraints,M,16.0,White
+3124,122.0,Child in Crisis,No Restraints,M,6.0,Black
+3125,122.0,Child in Crisis,No Restraints,M,14.0,White Hispanic
+3126,122.0,Juvenile Report,No Restraints,M,13.0,Black
+3127,122.0,Juvenile Report,Metal,F,15.0,Black
+3128,122.0,Juvenile Report,Metal,M,17.0,Black
+3129,122.0,Juvenile Report,No Restraints,M,14.0,Black Hispanic
+3130,122.0,Juvenile Report,No Restraints,M,16.0,Black
+3131,122.0,Juvenile Report,No Restraints,F,15.0,White Hispanic
+3132,122.0,Juvenile Report,No Restraints,M,13.0,White
+3133,122.0,Juvenile Report,No Restraints,F,14.0,Black
+3134,122.0,Juvenile Report,No Restraints,F,16.0,White Hispanic
+3135,122.0,Juvenile Report,No Restraints,M,14.0,White
+3136,122.0,Juvenile Report,No Restraints,M,14.0,White
+3137,122.0,Juvenile Report,No Restraints,M,11.0,Black
+3138,122.0,Mitigated,No Restraints,M,12.0,Black
+3139,122.0,Mitigated,No Restraints,M,,Black
+3140,122.0,Mitigated,No Restraints,F,13.0,White
+3141,122.0,Mitigated,No Restraints,F,16.0,White Hispanic
+3142,122.0,Mitigated,No Restraints,F,15.0,White
+3143,122.0,Mitigated,No Restraints,F,17.0,White
+3144,122.0,Mitigated,No Restraints,F,,White
+3145,122.0,Mitigated,No Restraints,M,10.0,White
+3146,122.0,Mitigated,No Restraints,F,16.0,Black
+3147,122.0,Mitigated,No Restraints,M,17.0,Black
+3148,122.0,Mitigated,No Restraints,F,16.0,Black
+3149,122.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+3150,122.0,Mitigated,No Restraints,M,13.0,White Hispanic
+3151,122.0,Mitigated,No Restraints,M,14.0,White Hispanic
+3152,122.0,Mitigated,No Restraints,M,16.0,Black
+3153,122.0,Mitigated,No Restraints,M,16.0,White Hispanic
+3154,122.0,Mitigated,Metal,F,14.0,White Hispanic
+3155,122.0,Mitigated,No Restraints,M,,Black
+3156,122.0,Mitigated,No Restraints,M,18.0,White Hispanic
+3157,122.0,Mitigated,No Restraints,M,16.0,Black
+3158,122.0,Mitigated,No Restraints,M,18.0,White
+3159,122.0,Mitigated,No Restraints,M,14.0,White Hispanic
+3160,122.0,Mitigated,No Restraints,M,13.0,White Hispanic
+3161,122.0,Mitigated,No Restraints,M,13.0,Black Hispanic
+3162,122.0,Mitigated,No Restraints,F,14.0,White Hispanic
+3163,122.0,Mitigated,No Restraints,M,12.0,White
+3164,122.0,Mitigated,Metal,M,12.0,Black Hispanic
+3165,122.0,Mitigated,No Restraints,M,13.0,Black Hispanic
+3166,122.0,Mitigated,No Restraints,M,12.0,White
+3167,122.0,Mitigated,No Restraints,M,12.0,White
+3168,122.0,Mitigated,No Restraints,M,18.0,White
+3169,122.0,Mitigated,No Restraints,M,6.0,Arabic
+3170,122.0,Mitigated,No Restraints,F,12.0,Black
+3171,122.0,Mitigated,No Restraints,M,18.0,White
+3172,122.0,Mitigated,No Restraints,M,15.0,Black
+3173,122.0,Mitigated,No Restraints,F,14.0,American Indian
+3174,122.0,Mitigated,No Restraints,F,15.0,White
+3175,122.0,Mitigated,No Restraints,M,7.0,Black
+3176,122.0,Mitigated,No Restraints,M,15.0,White Hispanic
+3177,122.0,Mitigated,Metal,F,16.0,Black Hispanic
+3178,122.0,Mitigated,No Restraints,F,17.0,White Hispanic
+3179,122.0,Mitigated,No Restraints,M,12.0,White Hispanic
+3180,122.0,Mitigated,No Restraints,M,12.0,Black
+3181,122.0,Mitigated,No Restraints,M,6.0,Black
+3182,122.0,Mitigated,Velcro,M,9.0,Black Hispanic
+3183,122.0,Mitigated,No Restraints,F,16.0,Black
+3184,122.0,Mitigated,No Restraints,M,16.0,Black
+3185,122.0,Mitigated,No Restraints,M,14.0,White Hispanic
+3186,122.0,Mitigated,No Restraints,M,21.0,Arabic
+3187,122.0,Mitigated,No Restraints,F,16.0,White
+3188,122.0,Mitigated,No Restraints,M,18.0,White
+3189,122.0,Mitigated,No Restraints,M,16.0,White
+3190,122.0,Mitigated,No Restraints,M,15.0,White
+3191,122.0,Mitigated,No Restraints,M,15.0,White Hispanic
+3192,122.0,Mitigated,No Restraints,M,,Black
+3193,122.0,Mitigated,No Restraints,F,13.0,Black
+3194,122.0,Mitigated,No Restraints,F,13.0,White
+3195,122.0,Mitigated,No Restraints,F,14.0,Black Hispanic
+3196,122.0,Mitigated,No Restraints,F,14.0,White Hispanic
+3197,122.0,Mitigated,No Restraints,M,17.0,Arabic
+3198,122.0,Mitigated,No Restraints,M,16.0,Arabic
+3199,122.0,Mitigated,No Restraints,M,16.0,Black
+3200,122.0,Mitigated,No Restraints,F,9.0,White Hispanic
+3201,122.0,Mitigated,No Restraints,M,15.0,White
+3202,122.0,Mitigated,No Restraints,M,15.0,White Hispanic
+3203,122.0,Mitigated,No Restraints,M,14.0,Black
+3204,122.0,Mitigated,No Restraints,F,14.0,Black
+3205,122.0,Mitigated,No Restraints,F,17.0,Black
+3206,122.0,Mitigated,No Restraints,M,7.0,White
+3207,122.0,Mitigated,No Restraints,M,,Black
+3208,122.0,Mitigated,No Restraints,M,,Black Hispanic
+3209,122.0,Mitigated,No Restraints,F,9.0,Black
+3210,122.0,Mitigated,No Restraints,M,12.0,Black
+3211,122.0,Mitigated,No Restraints,M,9.0,White
+3212,122.0,Mitigated,No Restraints,M,16.0,White Hispanic
+3213,122.0,Mitigated,No Restraints,M,17.0,Black Hispanic
+3214,122.0,Mitigated,No Restraints,M,16.0,Black
+3215,122.0,Mitigated,Velcro,M,9.0,Black Hispanic
+3216,122.0,Summons,No Restraints,M,18.0,Asian/Pacific Isl.
+3217,123.0,Arrested,Metal,M,14.0,Black
+3218,123.0,Arrested,Metal,M,18.0,Black Hispanic
+3219,123.0,Child in Crisis,No Restraints,M,14.0,White
+3220,123.0,Child in Crisis,No Restraints,F,15.0,White
+3221,123.0,Child in Crisis,Metal,F,15.0,White
+3222,123.0,Child in Crisis,No Restraints,M,12.0,Asian/Pacific Isl.
+3223,123.0,Child in Crisis,No Restraints,F,17.0,White
+3224,123.0,Child in Crisis,No Restraints,M,14.0,White Hispanic
+3225,123.0,Child in Crisis,Metal,F,15.0,Black
+3226,123.0,Child in Crisis,No Restraints,M,14.0,White
+3227,123.0,Child in Crisis,No Restraints,F,15.0,White
+3228,123.0,Child in Crisis,Metal,F,14.0,Black
+3229,123.0,Child in Crisis,No Restraints,F,15.0,White
+3230,123.0,Child in Crisis,No Restraints,M,7.0,White
+3231,123.0,Juvenile Report,No Restraints,M,14.0,White
+3232,123.0,Juvenile Report,No Restraints,F,15.0,White
+3233,123.0,Juvenile Report,Metal,M,15.0,White
+3234,123.0,Juvenile Report,No Restraints,M,15.0,Black
+3235,123.0,Juvenile Report,No Restraints,F,15.0,White
+3236,123.0,Juvenile Report,No Restraints,M,15.0,Black
+3237,123.0,Juvenile Report,No Restraints,M,16.0,Black Hispanic
+3238,123.0,Juvenile Report,No Restraints,M,13.0,White
+3239,123.0,Juvenile Report,No Restraints,F,17.0,White
+3240,123.0,Juvenile Report,Metal,M,15.0,White
+3241,123.0,Juvenile Report,No Restraints,M,16.0,Black
+3242,123.0,Juvenile Report,No Restraints,F,16.0,Black
+3243,123.0,Juvenile Report,Metal,M,17.0,Black
+3244,123.0,Juvenile Report,No Restraints,F,17.0,Asian/Pacific Isl.
+3245,123.0,Juvenile Report,No Restraints,M,13.0,Black
+3246,123.0,Mitigated,No Restraints,M,16.0,Black Hispanic
+3247,123.0,Mitigated,No Restraints,M,16.0,White
+3248,123.0,Mitigated,No Restraints,F,15.0,White
+3249,123.0,Mitigated,No Restraints,F,15.0,White
+3250,123.0,Mitigated,No Restraints,F,15.0,White
+3251,123.0,Mitigated,No Restraints,M,17.0,White
+3252,123.0,Mitigated,No Restraints,F,15.0,White
+3253,123.0,Mitigated,No Restraints,F,12.0,White
+3254,123.0,Mitigated,No Restraints,F,12.0,White
+3255,123.0,Mitigated,No Restraints,M,15.0,White
+3256,123.0,Mitigated,No Restraints,M,,White
+3257,123.0,Mitigated,No Restraints,M,16.0,White
+3258,123.0,Mitigated,No Restraints,M,14.0,White
+3259,123.0,Mitigated,No Restraints,M,14.0,Black
+3260,123.0,Mitigated,No Restraints,M,14.0,White
+3261,123.0,Mitigated,No Restraints,M,16.0,White
+3262,123.0,Mitigated,No Restraints,M,12.0,Black
+3263,123.0,Mitigated,No Restraints,M,8.0,White
+3264,123.0,Mitigated,No Restraints,F,19.0,White Hispanic
+3265,123.0,Mitigated,No Restraints,F,19.0,White Hispanic
+3266,123.0,Mitigated,No Restraints,M,18.0,White Hispanic
+3267,123.0,Mitigated,No Restraints,M,16.0,White
+3268,123.0,Mitigated,No Restraints,M,10.0,White
+3269,123.0,Mitigated,No Restraints,M,15.0,White
+3270,123.0,Mitigated,Metal,M,17.0,White
+3271,123.0,Mitigated,No Restraints,M,14.0,White
+3272,123.0,Mitigated,No Restraints,M,16.0,White
+3273,123.0,Mitigated,No Restraints,M,18.0,White
+3274,123.0,Mitigated,No Restraints,M,15.0,White
+3275,123.0,Mitigated,No Restraints,M,15.0,American Indian
+3276,123.0,Mitigated,No Restraints,M,14.0,White
+3277,123.0,Mitigated,No Restraints,M,17.0,White Hispanic
+3278,123.0,Mitigated,No Restraints,M,15.0,White Hispanic
+3279,123.0,Mitigated,No Restraints,F,17.0,White
+3280,123.0,Mitigated,No Restraints,F,17.0,White
+3281,123.0,Mitigated,No Restraints,F,14.0,Black
+3282,123.0,Mitigated,No Restraints,M,12.0,White
+3283,123.0,Mitigated,No Restraints,F,17.0,White Hispanic
+3284,123.0,Mitigated,No Restraints,F,17.0,White
+3285,123.0,Mitigated,No Restraints,M,20.0,Black
+3286,123.0,Mitigated,No Restraints,M,17.0,Black Hispanic
+3287,123.0,Mitigated,No Restraints,M,15.0,White
+3288,123.0,Mitigated,No Restraints,M,14.0,White
+3289,123.0,Mitigated,No Restraints,F,15.0,White
+3290,123.0,Mitigated,No Restraints,F,15.0,White
+0,79.0,Juvenile Report,No Restraints,M,11.0,Black
+1,79.0,Juvenile Report,No Restraints,M,10.0,Black
+2,83.0,Arrested,Metal,M,25.0,White Hispanic
+3,83.0,Arrested,Metal,M,20.0,White Hispanic
+4,83.0,Arrested,Metal,M,21.0,White Hispanic
+5,83.0,Arrested,Metal,M,22.0,White Hispanic
+6,70.0,Arrested,Metal,M,19.0,White Hispanic
+7,70.0,Juvenile Report,No Restraints,M,17.0,Asian/Pacific Isl.
+8,90.0,Arrested,Metal,M,22.0,Black
+9,70.0,Arrested,Metal,M,14.0,White Hispanic
+10,7.0,Arrested,No Restraints,M,28.0,Asian/Pacific Isl.
+11,25.0,Mitigated,No Restraints,F,,Black
+12,25.0,Mitigated,No Restraints,F,,Black
+13,122.0,Mitigated,No Restraints,F,8.0,White
+14,122.0,Mitigated,No Restraints,F,8.0,White
+15,42.0,Arrested,Metal,M,15.0,Black
+16,42.0,Arrested,Metal,M,16.0,Black
+17,42.0,Arrested,Metal,M,13.0,Black Hispanic
+18,42.0,Arrested,Metal,M,17.0,Black
+19,81.0,Child in Crisis,No Restraints,M,9.0,Black
+20,9.0,Child in Crisis,No Restraints,M,14.0,White Hispanic
+21,9.0,Child in Crisis,No Restraints,M,14.0,Black Hispanic
+22,44.0,Child in Crisis,No Restraints,M,11.0,Black
+23,,,,,,
+24,,,,,,
+25,,,,,,
+26,,,,,,
+27,,,,,,
+28,,,,,,
+29,,,,,,
+30,,,,,,
+31,,,,,,
+32,,,,,,
+33,,,,,,
+34,,,,,,
+35,,,,,,
+36,,,,,,
+0,81.0,Mitigated,No Restraints,F,13.0,Black
+1,81.0,Mitigated,Velcro,M,9.0,Black
+2,62.0,Mitigated,No Restraints,M,30.0,Black
+3,9.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+4,9.0,Mitigated,No Restraints,M,14.0,White Hispanic
+5,25.0,Mitigated,No Restraints,F,20.0,Black
+6,34.0,Mitigated,No Restraints,M,,White Hispanic
+7,18.0,Mitigated,No Restraints,M,14.0,White Hispanic
+8,18.0,Mitigated,No Restraints,M,14.0,Black
+9,18.0,Mitigated,No Restraints,M,14.0,Black
+10,109.0,Summons,No Restraints,M,66.0,White Hispanic
+11,113.0,Arrested,Metal,M,15.0,Black
+12,113.0,Arrested,Metal,M,16.0,Black
+13,123.0,Arrested,Metal,F,58.0,White
+14,121.0,Mitigated,No Restraints,F,8.0,Black
+15,45.0,Mitigated,No Restraints,F,12.0,Black Hispanic
+16,45.0,Mitigated,No Restraints,M,14.0,Black Hispanic
+17,45.0,Mitigated,No Restraints,M,12.0,Black Hispanic
+18,49.0,Mitigated,No Restraints,M,15.0,White Hispanic
+19,46.0,Arrested,Metal,M,53.0,Black Hispanic
+20,79.0,Child in Crisis,No Restraints,F,16.0,Black Hispanic
+21,9.0,Child in Crisis,Velcro,M,10.0,White Hispanic
+22,9.0,Child in Crisis,No Restraints,M,10.0,White Hispanic
+23,6.0,Child in Crisis,No Restraints,F,14.0,Black
+24,110.0,Child in Crisis,No Restraints,M,20.0,Black
+0,81.0,Juvenile Report,No Restraints,M,14.0,Black
+1,77.0,Mitigated,No Restraints,F,34.0,Hispanic
+2,77.0,Mitigated,No Restraints,M,34.0,Black
+3,83.0,Mitigated,No Restraints,F,15.0,Hispanic
+4,71.0,Mitigated,No Restraints,M,16.0,Hispanic
+5,61.0,Mitigated,No Restraints,M,15.0,White
+6,52.0,Mitigated,No Restraints,M,17.0,Black
+7,47.0,Mitigated,No Restraints,F,18.0,Black
+8,67.0,Mitigated,No Restraints,F,19.0,Black
+9,43.0,Mitigated,No Restraints,F,14.0,Hispanic
+10,52.0,Mitigated,No Restraints,F,15.0,Hispanic
+11,71.0,Mitigated,No Restraints,F,17.0,Hispanic
+12,70.0,Mitigated,No Restraints,F,15.0,White
+13,45.0,Juvenile Report,No Restraints,M,17.0,Black
+14,45.0,Juvenile Report,No Restraints,M,17.0,Black
+15,49.0,Arrested,Metal,M,18.0,Black
+16,6.0,Child in Crisis,No Restraints,M,11.0,Black
+17,83.0,Juvenile Report,No Restraints,M,14.0,Hispanic
+18,81.0,Juvenile Report,No Restraints,M,16.0,Black
+19,79.0,Summons,Metal,F,62.0,Arabic
+20,20.0,Juvenile Report,No Restraints,M,15.0,Black
+21,84.0,Child in Crisis,No Restraints,M,19.0,Black
+22,62.0,Mitigated,No Restraints,M,7.0,Hispanic
+23,78.0,Mitigated,No Restraints,F,13.0,Hispanic
+24,48.0,Mitigated,No Restraints,F,56.0,White
+25,90.0,Child in Crisis,No Restraints,F,14.0,Hispanic
+26,34.0,Arrested,Metal,M,29.0,Hispanic
+27,113.0,Mitigated,No Restraints,F,17.0,Black
+28,60.0,Mitigated,No Restraints,F,13.0,White
+29,60.0,Child in Crisis,No Restraints,F,13.0,White
+30,123.0,Arrested,Metal,M,16.0,Black
+31,47.0,Juvenile Report,No Restraints,M,14.0,Hispanic
+32,110.0,Child in Crisis,No Restraints,F,10.0,Hispanic
+33,44.0,Child in Crisis,No Restraints,M,18.0,Black
+34,123.0,Mitigated,No Restraints,M,16.0,Hispanic
+35,50.0,Child in Crisis,No Restraints,F,13.0,Black
+36,45.0,Child in Crisis,No Restraints,M,13.0,Hispanic
+37,71.0,Juvenile Report,No Restraints,M,15.0,Black
+38,122.0,Mitigated,No Restraints,M,14.0,Black
+39,122.0,Mitigated,No Restraints,M,16.0,East Indian
+40,50.0,Child in Crisis,No Restraints,F,10.0,White
+41,43.0,Mitigated,No Restraints,M,19.0,Hispanic
+42,71.0,Juvenile Report,No Restraints,M,13.0,Hispanic
+43,20.0,Juvenile Report,No Restraints,M,14.0,Hispanic
+44,120.0,Mitigated,No Restraints,M,12.0,Black
+45,47.0,Mitigated,No Restraints,M,12.0,Black
+46,43.0,Juvenile Report,No Restraints,F,17.0,Black
+47,48.0,Mitigated,No Restraints,M,13.0,Hispanic
+48,79.0,Child in Crisis,No Restraints,F,13.0,White
+49,32.0,Child in Crisis,No Restraints,M,10.0,Black
+50,52.0,Child in Crisis,No Restraints,M,12.0,Hispanic
+51,75.0,Mitigated,No Restraints,M,16.0,Black
+52,73.0,Juvenile Report,No Restraints,M,16.0,Black
+53,71.0,Juvenile Report,Metal,M,17.0,Black
+54,101.0,Mitigated,No Restraints,M,6.0,Black
+55,123.0,Arrested,Metal,M,15.0,Black
+56,42.0,Mitigated,No Restraints,F,17.0,Hispanic
+57,60.0,Child in Crisis,No Restraints,F,20.0,Black
+58,33.0,Child in Crisis,No Restraints,F,13.0,Hispanic
+59,107.0,Mitigated,No Restraints,M,16.0,Black
+60,108.0,Mitigated,No Restraints,M,13.0,Hispanic
+61,120.0,Mitigated,No Restraints,M,11.0,Hispanic
+62,42.0,Child in Crisis,No Restraints,M,14.0,Hispanic
+63,75.0,Mitigated,No Restraints,F,15.0,Black
+64,75.0,Mitigated,No Restraints,F,15.0,Black
+65,83.0,Mitigated,No Restraints,F,14.0,Black
+66,50.0,Juvenile Report,No Restraints,M,14.0,Black
+67,73.0,Child in Crisis,Metal,M,13.0,Black
+68,71.0,Mitigated,No Restraints,F,15.0,Black
+69,47.0,Mitigated,No Restraints,M,12.0,Black
+70,49.0,Mitigated,No Restraints,M,18.0,Arabic
+71,52.0,Juvenile Report,No Restraints,M,15.0,Black
+72,43.0,Mitigated,No Restraints,F,15.0,Hispanic
+73,50.0,Child in Crisis,No Restraints,F,14.0,Hispanic
+74,42.0,Arrested,Metal,M,20.0,Black
+75,71.0,Mitigated,No Restraints,F,14.0,Black
+76,71.0,Mitigated,No Restraints,M,15.0,Black
+77,47.0,Arrested,Metal,M,56.0,Hispanic
+78,40.0,Mitigated,No Restraints,F,15.0,Hispanic
+79,42.0,Mitigated,No Restraints,F,17.0,Hispanic
+80,40.0,Child in Crisis,No Restraints,M,21.0,Hispanic
+81,71.0,Juvenile Report,No Restraints,F,17.0,Black
+82,26.0,Juvenile Report,No Restraints,F,16.0,Black
+83,18.0,Mitigated,No Restraints,M,16.0,Hispanic
+84,104.0,Mitigated,No Restraints,F,13.0,Hispanic
+85,104.0,Mitigated,No Restraints,F,13.0,Hispanic
+86,45.0,Juvenile Report,No Restraints,M,16.0,Black
+87,48.0,Mitigated,No Restraints,F,17.0,Hispanic
+88,84.0,Child in Crisis,No Restraints,F,16.0,Black
+89,50.0,Child in Crisis,No Restraints,F,16.0,Black
+90,52.0,Child in Crisis,No Restraints,F,15.0,Hispanic
+91,84.0,Child in Crisis,No Restraints,F,14.0,Black
+92,109.0,Child in Crisis,No Restraints,F,12.0,Hispanic
+93,123.0,Mitigated,No Restraints,M,7.0,Hispanic
+94,45.0,Juvenile Report,No Restraints,F,15.0,Black
+95,47.0,Mitigated,No Restraints,F,12.0,Hispanic
+96,50.0,Child in Crisis,No Restraints,F,15.0,Hispanic
+97,52.0,Child in Crisis,No Restraints,M,16.0,White
+98,20.0,Mitigated,No Restraints,M,17.0,White
+99,104.0,Juvenile Report,No Restraints,M,16.0,White
+100,47.0,Mitigated,No Restraints,F,14.0,Black
+101,45.0,Mitigated,No Restraints,F,17.0,Hispanic
+102,79.0,Mitigated,No Restraints,F,13.0,Black
+103,18.0,Arrested,Metal,M,18.0,Black
+104,14.0,Child in Crisis,No Restraints,F,17.0,Hispanic
+105,72.0,Mitigated,No Restraints,M,6.0,Hispanic
+106,61.0,Mitigated,No Restraints,M,9.0,White
+107,72.0,Child in Crisis,No Restraints,M,10.0,Hispanic
+108,44.0,Child in Crisis,No Restraints,M,16.0,Hispanic
